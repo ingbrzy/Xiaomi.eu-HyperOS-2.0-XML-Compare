@@ -166,24 +166,18 @@
         <item>@string/chinese_symbol_animals_dog</item>
         <item>@string/chinese_symbol_animals_pig</item>
     </string-array>
-    <array name="config_disabled_dialpad_tone_mcc_mnc" />
-    <array name="config_disabled_sys_app_mcc_mnc" />
-    <string-array name="config_show_datatraffic_dialog_mccmnc">
-        <item>21401</item>
-        <item>21405</item>
-        <item>21407</item>
-    </string-array>
-    <array name="config_show_default_regions" />
-    <string-array name="config_show_setpassword_dialog_mccmnc">
-        <item>20801</item>
-    </string-array>
-    <string-array name="cota_vf_config_disabled_dialpad_tone_mcc_mnc">
-        <item>23003</item>
-        <item>26202</item>
-        <item>21670</item>
-        <item>27201</item>
-        <item>20404</item>
-    </string-array>
+    <integer-array name="default_card_stroke_gradient_colors_dark">
+        <item>0x1FFFFFFF</item>
+        <item>0x14FFFFFF</item>
+    </integer-array>
+    <integer-array name="default_card_stroke_gradient_colors_light">
+        <item>0x4DFFFFFF</item>
+        <item>0x36FFFFFF</item>
+    </integer-array>
+    <array name="default_card_stroke_gradient_colors_positions">
+        <item>@fraction/miuix_default_card_stroke_gradient_color_start_position</item>
+        <item>@fraction/miuix_default_card_stroke_gradient_color_end_position</item>
+    </array>
     <string-array name="detailed_am_pms">
         <item>@string/midnight</item>
         <item>@string/early_morning</item>
@@ -277,141 +271,6 @@
         <item>com.miui.cloudservice</item>
         <item>com.android.deskclock</item>
     </string-array>
-    <string-array name="navigation_picker_disappear_devices">
-        <item>rosy</item>
-        <item>vince</item>
-        <item>cactus</item>
-        <item>pine</item>
-    </string-array>
-    <string-array name="organized_inputmethod_list_international">
-        <item>com.touchtype.swiftkey/com.touchtype.KeyboardService</item>
-        <item>com.google.android.inputmethod.latin/com.android.inputmethod.latin.LatinIME</item>
-        <item>com.syntellia.fleksy.kb/com.syntellia.fleksy.keyboard.Fleksy</item>
-    </string-array>
-    <string-array name="organized_inputmethod_list_international_ee">
-        <item>com.google.android.inputmethod.latin/com.android.inputmethod.latin.LatinIME</item>
-        <item>com.touchtype.swiftkey/com.touchtype.KeyboardService</item>
-        <item>com.google.android.inputmethod.pinyin/.PinyinIME</item>
-        <item>com.syntellia.fleksy.kb/com.syntellia.fleksy.keyboard.Fleksy</item>
-    </string-array>
-    <string-array name="organized_inputmethod_list_international_hu">
-        <item>com.google.android.inputmethod.latin/com.android.inputmethod.latin.LatinIME</item>
-        <item>com.touchtype.swiftkey/com.touchtype.KeyboardService</item>
-        <item>com.google.android.inputmethod.pinyin/.PinyinIME</item>
-        <item>com.syntellia.fleksy.kb/com.syntellia.fleksy.keyboard.Fleksy</item>
-    </string-array>
-    <string-array name="organized_inputmethod_list_international_id">
-        <item>com.touchtype.swiftkey/com.touchtype.KeyboardService</item>
-        <item>com.google.android.inputmethod.latin/com.android.inputmethod.latin.LatinIME</item>
-        <item>com.google.android.inputmethod.pinyin/.PinyinIME</item>
-        <item>com.syntellia.fleksy.kb/com.syntellia.fleksy.keyboard.Fleksy</item>
-    </string-array>
-    <string-array name="organized_inputmethod_list_international_kr">
-        <item>com.google.android.inputmethod.korean/.KoreanIme</item>
-        <item>com.touchtype.swiftkey/com.touchtype.KeyboardService</item>
-        <item>com.google.android.inputmethod.latin/com.android.inputmethod.latin.LatinIME</item>
-    </string-array>
-    <string-array name="organized_inputmethod_list_international_lt">
-        <item>com.google.android.inputmethod.latin/com.android.inputmethod.latin.LatinIME</item>
-        <item>com.touchtype.swiftkey/com.touchtype.KeyboardService</item>
-        <item>com.google.android.inputmethod.pinyin/.PinyinIME</item>
-        <item>com.syntellia.fleksy.kb/com.syntellia.fleksy.keyboard.Fleksy</item>
-    </string-array>
-    <string-array name="organized_inputmethod_list_international_lv">
-        <item>com.google.android.inputmethod.latin/com.android.inputmethod.latin.LatinIME</item>
-        <item>com.touchtype.swiftkey/com.touchtype.KeyboardService</item>
-        <item>com.google.android.inputmethod.pinyin/.PinyinIME</item>
-        <item>com.syntellia.fleksy.kb/com.syntellia.fleksy.keyboard.Fleksy</item>
-    </string-array>
-    <string-array name="organized_inputmethod_list_international_my">
-        <item>com.touchtype.swiftkey/com.touchtype.KeyboardService</item>
-        <item>com.google.android.inputmethod.latin/com.android.inputmethod.latin.LatinIME</item>
-        <item>com.google.android.inputmethod.pinyin/.PinyinIME</item>
-        <item>com.syntellia.fleksy.kb/com.syntellia.fleksy.keyboard.Fleksy</item>
-    </string-array>
-    <string-array name="organized_inputmethod_list_international_pl">
-        <item>com.google.android.inputmethod.latin/com.android.inputmethod.latin.LatinIME</item>
-        <item>com.touchtype.swiftkey/com.touchtype.KeyboardService</item>
-        <item>com.google.android.inputmethod.pinyin/.PinyinIME</item>
-        <item>com.syntellia.fleksy.kb/com.syntellia.fleksy.keyboard.Fleksy</item>
-    </string-array>
-    <string-array name="organized_inputmethod_list_international_ro">
-        <item>com.google.android.inputmethod.latin/com.android.inputmethod.latin.LatinIME</item>
-        <item>com.touchtype.swiftkey/com.touchtype.KeyboardService</item>
-        <item>com.google.android.inputmethod.pinyin/.PinyinIME</item>
-        <item>com.syntellia.fleksy.kb/com.syntellia.fleksy.keyboard.Fleksy</item>
-    </string-array>
-    <string-array name="organized_inputmethod_list_international_sg">
-        <item>com.touchtype.swiftkey/com.touchtype.KeyboardService</item>
-        <item>com.google.android.inputmethod.latin/com.android.inputmethod.latin.LatinIME</item>
-        <item>com.google.android.inputmethod.pinyin/.PinyinIME</item>
-        <item>com.syntellia.fleksy.kb/com.syntellia.fleksy.keyboard.Fleksy</item>
-    </string-array>
-    <string-array name="organized_inputmethod_list_international_th">
-        <item>com.touchtype.swiftkey/com.touchtype.KeyboardService</item>
-        <item>com.google.android.inputmethod.latin/com.android.inputmethod.latin.LatinIME</item>
-        <item>com.google.android.inputmethod.pinyin/.PinyinIME</item>
-        <item>com.syntellia.fleksy.kb/com.syntellia.fleksy.keyboard.Fleksy</item>
-    </string-array>
-    <string-array name="organized_inputmethod_list_international_vn">
-        <item>com.touchtype.swiftkey/com.touchtype.KeyboardService</item>
-        <item>com.google.android.inputmethod.latin/com.android.inputmethod.latin.LatinIME</item>
-        <item>com.google.android.inputmethod.pinyin/.PinyinIME</item>
-        <item>com.syntellia.fleksy.kb/com.syntellia.fleksy.keyboard.Fleksy</item>
-    </string-array>
-    <string-array name="organized_locales">
-        <item>hk</item>
-        <item>in</item>
-        <item>id</item>
-        <item>my</item>
-        <item>ph</item>
-        <item>sg</item>
-        <item>tw</item>
-        <item>br</item>
-        <item>ru</item>
-        <item>vn</item>
-        <item>tr</item>
-        <item>th</item>
-        <item>ae</item>
-        <item>mm</item>
-        <item>mx</item>
-    </string-array>
-    <string-array name="other_settings_auto_update_at_no_simslot_entries">
-        <item>Wi-Fi only</item>
-        <item>Off</item>
-    </string-array>
-    <string-array name="other_settings_auto_update_entries">
-        <item>Wi-Fi and mobile data</item>
-        <item>Wi-Fi only</item>
-        <item>Off</item>
-    </string-array>
-    <string-array name="popular_language_locales">
-        <item>en_IN</item>
-        <item>en_GB</item>
-        <item>en_US</item>
-        <item>id_ID</item>
-        <item>hi_IN</item>
-        <item>ru_RU</item>
-        <item>zh_TW</item>
-        <item>zh_CN</item>
-    </string-array>
-    <string-array name="popular_locales">
-        <item>IN</item>
-        <item>ID</item>
-        <item>MY</item>
-        <item>RU</item>
-        <item>TW</item>
-        <item>HK</item>
-    </string-array>
-    <string-array name="prefer_inputmethod_list">
-        <item>com.touchtype.swiftkey.xiaomi/com.touchtype.KeyboardService</item>
-        <item>com.touchtype.swiftkey/com.touchtype.KeyboardService</item>
-    </string-array>
-    <string-array name="prefer_inputmethod_list_cm_customized">
-        <item>com.iflytek.inputmethod/.FlyIME</item>
-        <item>com.iflytek.inputmethod.oem/com.iflytek.inputmethod.FlyIME</item>
-        <item>com.iflytek.inputmethod.oem/.FlyIME</item>
-    </string-array>
     <string-array name="solar_terms">
         <item>@string/empty</item>
         <item>@string/solar_term_slight_cold</item>
@@ -438,20 +297,6 @@
         <item>@string/solar_term_light_snow</item>
         <item>@string/solar_term_heavy_snow</item>
         <item>@string/solar_term_winter_solstice</item>
-    </string-array>
-    <string-array name="special_locale_codes_global">
-        <item>zh_CN</item>
-        <item>zh_TW</item>
-        <item>zh_HK</item>
-        <item>es_US</item>
-        <item>pt_BR</item>
-    </string-array>
-    <string-array name="special_locale_names_global">
-        <item>简体中文</item>
-        <item>繁體中文 (台灣)</item>
-        <item>繁體中文 (香港)</item>
-        <item>Español (América)</item>
-        <item>Português (Brasil)</item>
     </string-array>
     <string-array name="week_days">
         <item>@string/sunday</item>
