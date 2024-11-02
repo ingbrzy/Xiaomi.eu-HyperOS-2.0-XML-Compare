@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="androidx_startup">androidx.startup</string>
+     <string name="checkUpdateSdkVersion">4.2.5</string>
+     <string name="xiaomi_update_sdk_bytes_unit">%1$sB</string>
+     <string name="xiaomi_update_sdk_connect_download_manager_fail">Connect Download Manager failed, please check the Download Manager state in the Application Management.</string>
+     <string name="xiaomi_update_sdk_dialog_message">"Introducing version %1$s
+Size: %2$s"</string>
+     <string name="xiaomi_update_sdk_dialog_message_diff">"Introducing version %1$s
+Delta update size: %2$s"</string>
+     <string name="xiaomi_update_sdk_dialog_title">An update is available</string>
+     <string name="xiaomi_update_sdk_external_storage_unavailable">Storage unavailable, please check the SD card.</string>
+     <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>
+     <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>
+     <string name="xiaomi_update_sdk_update_dialog_cancel">Not now</string>
+     <string name="xiaomi_update_sdk_update_dialog_ok">Update</string>
+</resources>

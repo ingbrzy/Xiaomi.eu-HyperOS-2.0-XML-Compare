@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <plurals name="musical_rhythm_app_summary">
+        <item quantity="other">%1$d apps including %2$s</item>
+        <item quantity="one">%1$d app including %2$s</item>
+     </plurals>
+     <plurals name="notification_frequency_summary">
+        <item quantity="other">About %d items per day</item>
+        <item quantity="one">About %d item per day</item>
+     </plurals>
+     <plurals name="search_app_hint">
+        <item quantity="other">Search %d apps</item>
+        <item quantity="one">Search %d app</item>
+     </plurals>
+</resources>

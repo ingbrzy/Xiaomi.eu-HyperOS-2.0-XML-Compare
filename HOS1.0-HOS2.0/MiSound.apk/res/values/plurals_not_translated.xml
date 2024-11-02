@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <plurals name="clean_speaker_countdown_sec">
+        <item quantity="other">%1$d secs</item>
+        <item quantity="one">%1$d sec</item>
+     </plurals>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="ai_film_description">Create stunning videos with the help of AI</string>
+     <string name="ai_film_title">Auto edit</string>
+     <string name="btn_gallery_widget_pre_edit">Edit</string>
+     <string name="desc_gallery_widget_editor_font_color_list">Text color</string>
+     <string name="desc_gallery_widget_editor_font_type_list">Font</string>
+     <string name="desc_gallery_widget_editor_selected_photo_list">Selected images</string>
+     <string name="desc_gallery_widget_editor_text_position_list">Layout</string>
+     <string name="gallery_widget_editor_widget_text_form_label">Text</string>
+     <string name="gallery_widget_editor_widget_text_form_placeholder">Enter text</string>
+     <string name="share_album_family_invite_confirm_dialog_message">"You've turned on Advanced data protection. If you share this album, the shared content won't be encrypted. Share anyway?"</string>
+     <string name="share_album_family_invite_confirm_dialog_title">"Can't use Advanced data protection with shared items"</string>
+     <string name="switch_gallery_widget_editor_dof_enable">Apply depth effect</string>
+     <string name="widget_editor_pic_segment_not_support_tip">"Selected image doesn't support depth effect"</string>
+</resources>

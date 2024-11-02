@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="cant_call_due_to_dsdstransition_invalid_sub">Call cannot be placed because account is not currently valid</string>
+     <string name="miuix_font_style_misans_bold_font_family">mipro-bold</string>
+     <string name="miuix_font_style_misans_demibold_font_family">sans-serif-medium</string>
+     <string name="miuix_font_style_misans_extralight_font_family">sans-serif-thin</string>
+     <string name="miuix_font_style_misans_font_family">sans-serif</string>
+     <string name="miuix_font_style_misans_heavy_font_family">sans-serif-black</string>
+     <string name="miuix_font_style_misans_light_font_family">sans-serif-light</string>
+     <string name="miuix_font_style_misans_medium_font_family">sans-serif-medium</string>
+     <string name="miuix_font_style_misans_normal_font_family">sans-serif-light</string>
+     <string name="miuix_font_style_misans_regular_font_family">sans-serif</string>
+     <string name="miuix_font_style_misans_semibold_font_family">mipro-semibold</string>
+     <string name="miuix_font_style_misans_thin_font_family">sans-serif-thin</string>
+     <string name="relay_limit_dialer_button">"Can't use this feature with calls transferred to other devices"</string>
+     <string name="satellite_only_support_one_call">"Can't add more calls while using satellite communications"</string>
+     <string name="satellite_thermal_hangup_now">Device is overheated. Wait for it to cool down before making calls.</string>
+</resources>

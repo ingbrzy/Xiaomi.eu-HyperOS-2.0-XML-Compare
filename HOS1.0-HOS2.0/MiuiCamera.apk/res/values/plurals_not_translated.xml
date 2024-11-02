@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <plurals name="accessibility_watermark_characters_inputted">
+        <item quantity="other">Entered %d characters.</item>
+        <item quantity="one">Entered %d character.</item>
+     </plurals>
+     <plurals name="accessibility_watermark_characters_max">
+        <item quantity="other">Enter up to %d characters.</item>
+        <item quantity="one">Enter up to %d character.</item>
+     </plurals>
+</resources>

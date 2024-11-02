@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <integer-array name="default_card_stroke_gradient_colors_dark">
+        <item>0x1FFFFFFF</item>
+        <item>0x14FFFFFF</item>
+     </integer-array>
+     <integer-array name="default_card_stroke_gradient_colors_light">
+        <item>0x4DFFFFFF</item>
+        <item>0x36FFFFFF</item>
+     </integer-array>
+     <array name="default_card_stroke_gradient_colors_positions">
+        <item>@fraction/miuix_default_card_stroke_gradient_color_start_position</item>
+        <item>@fraction/miuix_default_card_stroke_gradient_color_end_position</item>
+     </array>
+     <string-array name="navigation_picker_disappear_devices">
+        <item>rosy</item>
+        <item>vince</item>
+        <item>cactus</item>
+        <item>pine</item>
+     </string-array>
+</resources>

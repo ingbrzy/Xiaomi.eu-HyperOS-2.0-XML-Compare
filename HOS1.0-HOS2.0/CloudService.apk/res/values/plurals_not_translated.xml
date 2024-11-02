@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <plurals name="e2ee_device_verification_num">
+        <item quantity="other">%s unverified devices</item>
+        <item quantity="one">%s unverified device</item>
+     </plurals>
+     <plurals name="local_lockscreen_error_hint_retry">
+        <item quantity="other">Too many attempts. Try again in %s seconds.</item>
+        <item quantity="one">Too many attempts. Try again in %s second.</item>
+     </plurals>
+     <plurals name="other_lockscreen_error_hint_retry">
+        <item quantity="other">Too many attempts. Try again in %d days.</item>
+        <item quantity="one">Too many attempts. Try again in %d day.</item>
+     </plurals>
+     <plurals name="verify_open_SMS_dialog_positive_btn_timer">
+        <item quantity="other">Send new code (%ss)</item>
+        <item quantity="one">Send new code (%ss)</item>
+     </plurals>
+</resources>

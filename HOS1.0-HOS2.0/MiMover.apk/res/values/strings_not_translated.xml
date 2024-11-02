@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="androidx_startup">androidx.startup</string>
+     <string name="call_notification_answer_action">Answer</string>
+     <string name="call_notification_answer_video_action">Video</string>
+     <string name="call_notification_decline_action">Decline</string>
+     <string name="call_notification_hang_up_action">Hang Up</string>
+     <string name="call_notification_incoming_text">Incoming call</string>
+     <string name="call_notification_ongoing_text">Ongoing call</string>
+     <string name="call_notification_screening_text">Screening an incoming call</string>
+     <string name="checkUpdateSdkVersion">4.2.5</string>
+     <string name="compatibility32Bit_mode_toast">"Can't transfer items. Change your selections and try again."</string>
+     <string name="learn_new_version_character">Learn more</string>
+     <string name="miuix_font_style_misans_bold_font_family">mipro-bold</string>
+     <string name="miuix_font_style_misans_demibold_font_family">sans-serif-medium</string>
+     <string name="miuix_font_style_misans_extralight_font_family">sans-serif-thin</string>
+     <string name="miuix_font_style_misans_font_family">sans-serif</string>
+     <string name="miuix_font_style_misans_heavy_font_family">sans-serif-black</string>
+     <string name="miuix_font_style_misans_light_font_family">sans-serif-light</string>
+     <string name="miuix_font_style_misans_medium_font_family">sans-serif-medium</string>
+     <string name="miuix_font_style_misans_normal_font_family">sans-serif-light</string>
+     <string name="miuix_font_style_misans_regular_font_family">sans-serif</string>
+     <string name="miuix_font_style_misans_semibold_font_family">mipro-semibold</string>
+     <string name="miuix_font_style_misans_thin_font_family">sans-serif-thin</string>
+     <string name="new_provision_title">Transfer items</string>
+     <string name="open_compatibility_mode">Turn on</string>
+     <string name="provision_back">Back</string>
+     <string name="provision_next">Next</string>
+     <string name="provision_set_cloud_backup">Restore from Xiaomi Cloud</string>
+     <string name="provision_set_cloud_backup_summary">Connect to the internet to download and restore Xiaomi Cloud backups</string>
+     <string name="provision_skip_underline">Skip</string>
+     <string name="skip_compatibility_mode">Not now</string>
+     <string name="subtitle_compatibility_mode">"The following apps aren't compatible with %d-bit architecture. Turn on App compatibility mode to be able to transfer them."</string>
+     <string name="title_compatibility_mode">Turn on App compatibility mode</string>
+     <string name="trans_apple_hint_china">"Don't leave this page or use Wi-Fi until the transfer is complete."</string>
+     <string name="xiaomi_update_sdk_bytes_unit">%1$sB</string>
+     <string name="xiaomi_update_sdk_connect_download_manager_fail">Connect Download Manager failed, please check the Download Manager state in the Application Management.</string>
+     <string name="xiaomi_update_sdk_dialog_message">"Introducing version %1$s
+Size: %2$s"</string>
+     <string name="xiaomi_update_sdk_dialog_message_diff">"Introducing version %1$s
+Delta update size: %2$s"</string>
+     <string name="xiaomi_update_sdk_dialog_title">An update is available</string>
+     <string name="xiaomi_update_sdk_external_storage_unavailable">Storage unavailable, please check the SD card.</string>
+     <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>
+     <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>
+     <string name="xiaomi_update_sdk_update_dialog_cancel">Not now</string>
+     <string name="xiaomi_update_sdk_update_dialog_ok">Update</string>
+</resources>

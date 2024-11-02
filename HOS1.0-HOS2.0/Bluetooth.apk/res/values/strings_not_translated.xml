@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="bluetooth_and_wifi_stays_on_message">"Your device remembers to keep Wi-Fi and Bluetooth on in airplane mode. Turn off Wi-Fi and Bluetooth if you don't want them to stay on."</string>
+     <string name="bluetooth_and_wifi_stays_on_title">Wi-Fi and Bluetooth stay on</string>
+     <string name="bluetooth_broadcast_audio">Broadcast audio</string>
+     <string name="bluetooth_broadcast_audio_started_toast">"Don't forget to stop broadcasting in time. Audio broadcasts drain battery."</string>
+     <string name="bluetooth_connect_action">Connect to Bluetooth</string>
+     <string name="bluetooth_enabled_apm_message">"If you keep Bluetooth on, your device will remember to keep it on the next time you're in airplane mode"</string>
+     <string name="bluetooth_enabled_apm_title">Bluetooth on in airplane mode</string>
+     <string name="bluetooth_enabled_auto_on_message">You can change this anytime in Settings</string>
+     <string name="bluetooth_enabled_auto_on_title">Bluetooth turned back on</string>
+     <string name="bluetooth_notification_group">Bluetooth automatic state change</string>
+     <string name="bluetooth_stays_on_message">"Your device remembers to keep Bluetooth on in airplane mode. Turn off Bluetooth if you don't want it to stay on."</string>
+     <string name="bluetooth_stays_on_title">Bluetooth stays on</string>
+     <string name="bt_audio_share_sbc_notification_content">Tap to view options</string>
+     <string name="bt_audio_share_sbc_notification_title">Sharing audio</string>
+     <string name="config_apmLearnMoreLink">https://support.google.com/pixelphone/answer/12639358</string>
+     <string name="miuix_font_style_misans_bold_font_family">mipro-bold</string>
+     <string name="miuix_font_style_misans_demibold_font_family">sans-serif-medium</string>
+     <string name="miuix_font_style_misans_extralight_font_family">sans-serif-thin</string>
+     <string name="miuix_font_style_misans_font_family">sans-serif</string>
+     <string name="miuix_font_style_misans_heavy_font_family">sans-serif-black</string>
+     <string name="miuix_font_style_misans_light_font_family">sans-serif-light</string>
+     <string name="miuix_font_style_misans_medium_font_family">sans-serif-medium</string>
+     <string name="miuix_font_style_misans_normal_font_family">sans-serif-light</string>
+     <string name="miuix_font_style_misans_regular_font_family">sans-serif</string>
+     <string name="miuix_font_style_misans_semibold_font_family">mipro-semibold</string>
+     <string name="miuix_font_style_misans_thin_font_family">sans-serif-thin</string>
+     <string name="not_provided">Not Provided</string>
+     <string name="noti_caption_success">{count, plural, =1 {# successful, %1$s} other {# successful, %1$s} }</string>
+     <string name="noti_caption_unsuccessful">{count, plural, =1 {# unsuccessful.} other {# unsuccessful.} }</string>
+     <string name="notice_audio_share_sbc_disconnected">No longer sharing audio due to interrupted connection</string>
+     <string name="notice_broadcast_audio_stopped">Stopped broadcasting audio</string>
+     <string name="peripheral_link_package">com.google.android.gms</string>
+     <string name="peripheral_link_service">.nearby.discovery.service.DiscoveryService</string>
+</resources>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <integer-array name="config_autoKeyboardBacklightBrightnessValues">
+        <item>102</item>
+        <item>153</item>
+        <item>0</item>
+     </integer-array>
+     <integer-array name="config_autoKeyboardBacklightDecreaseLuxThreshold">
+        <item>-1</item>
+        <item>40</item>
+        <item>150</item>
+     </integer-array>
+     <integer-array name="config_autoKeyboardBacklightIncreaseLuxThreshold">
+        <item>55</item>
+        <item>200</item>
+        <item>-1</item>
+     </integer-array>
+     <array name="config_displayCutoutSideOverrideArray">
+        <item>@array/config_mainBuiltInDisplayCutoutSideOverride</item>
+        <item>@array/config_secondaryBuiltInDisplayCutoutSideOverride</item>
+     </array>
+     <array name="config_displayWhiteBalanceLowLightAmbientBiasesStrong">
+        <item>0.0</item>
+        <item>1.0</item>
+     </array>
+     <array name="config_displayWhiteBalanceLowLightAmbientBrightnessesStrong">
+        <item>10.0</item>
+        <item>10.0</item>
+     </array>
+     <string-array name="config_force_cellular_transport_capabilities">
+        <item>ims</item>
+        <item>eims</item>
+        <item>xcap</item>
+     </string-array>
+     <integer-array name="config_requestVibrationParamsForUsages">
+        <item>17</item>
+        <item>33</item>
+        <item>49</item>
+        <item>65</item>
+     </integer-array>
+     <string-array name="config_tvExternalInputLoggingDeviceBrandNames">
+        <item>Chromecast</item>
+        <item>SHIELD</item>
+        <item>Roku</item>
+        <item>Apple</item>
+        <item>Fire TV</item>
+        <item>PlayStation</item>
+        <item>Nintendo</item>
+     </string-array>
+     <string-array name="config_tvExternalInputLoggingDeviceOnScreenDisplayNames">
+        <item>Chromecast</item>
+        <item>Chromecast HD</item>
+        <item>SHIELD</item>
+        <item>Roku</item>
+        <item>Roku Express 4</item>
+        <item>Home Theater</item>
+        <item>Fire TV Stick</item>
+        <item>PlayStation 5</item>
+        <item>NintendoSwitch</item>
+     </string-array>
+</resources>

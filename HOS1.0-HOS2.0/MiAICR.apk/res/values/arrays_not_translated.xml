@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <integer-array name="default_card_stroke_gradient_colors_dark">
+        <item>0x1FFFFFFF</item>
+        <item>0x14FFFFFF</item>
+     </integer-array>
+     <integer-array name="default_card_stroke_gradient_colors_light">
+        <item>0x4DFFFFFF</item>
+        <item>0x36FFFFFF</item>
+     </integer-array>
+     <array name="default_card_stroke_gradient_colors_positions">
+        <item>@fraction/miuix_default_card_stroke_gradient_color_start_position</item>
+        <item>@fraction/miuix_default_card_stroke_gradient_color_end_position</item>
+     </array>
+     <string-array name="device_support_dist_compute">
+        <item>haotian</item>
+        <item>dada</item>
+        <item>xuanyuan</item>
+        <item>zorn</item>
+        <item>miro</item>
+        <item>muyu</item>
+        <item>uke</item>
+        <item>dagu</item>
+        <item>yudi</item>
+        <item>liuqin</item>
+        <item>pipa</item>
+        <item>sheng</item>
+        <item>dizi</item>
+     </string-array>
+     <string-array name="ignore_exception_classes">
+        <item>SocketTimeoutException</item>
+        <item>SSLHandshakeException</item>
+     </string-array>
+     <string-array name="model_array">
+        <item>@string/AI_diwbkiad_dekete_model</item>
+     </string-array>
+     <string-array name="model_support">
+        <item>haotian</item>
+        <item>dada</item>
+        <item>xuanyuan</item>
+        <item>zorn</item>
+        <item>miro</item>
+        <item>muyu</item>
+        <item>uke</item>
+        <item>dagu</item>
+        <item>yudi</item>
+        <item>liuqin</item>
+        <item>pipa</item>
+        <item>sheng</item>
+        <item>dizi</item>
+     </string-array>
+</resources>

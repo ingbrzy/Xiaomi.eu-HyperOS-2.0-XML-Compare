@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <plurals name="recent_delete_tip">
+        <item quantity="other">Deleted recordings can be restored within %d days</item>
+        <item quantity="one">Deleted recordings can be restored within %d day</item>
+     </plurals>
+</resources>

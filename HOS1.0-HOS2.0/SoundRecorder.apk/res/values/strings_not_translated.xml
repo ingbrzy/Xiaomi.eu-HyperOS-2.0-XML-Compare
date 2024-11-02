@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="ai_recognition_other_speaker">(Someone else speaks)</string>
+     <string name="ai_recognize">AI voice recognition</string>
+     <string name="airecorder_mic_in_use_while_in_call_tip">"Can't record when microphone is in use"</string>
+     <string name="airecorder_month_day_hour_minute_format">MM/dd h:mm aaa</string>
+     <string name="airecorder_notification_channel_name">Recordings</string>
+     <string name="airecorder_notification_content_title">Recorder</string>
+     <string name="airecorder_notification_recording">Recording…</string>
+     <string name="airecorder_notification_recording_pause">Recorder paused</string>
+     <string name="airecorder_notification_recording_stopped">Recording stopped</string>
+     <string name="airecorder_notification_recording_ticker">Phone muted</string>
+     <string name="airecorder_pause_status_focus_notification">Recording paused</string>
+     <string name="airecorder_record_while_in_call_tip">"Can't record during calls"</string>
+     <string name="airecorder_recording_status_focus_notification">Recording</string>
+     <string name="airecorder_speaker">SpeakerȀ</string>
+     <string name="airecorder_stop_status_focus_notification">Finished recording</string>
+     <string name="airecorder_text_btn_complete">Finish</string>
+     <string name="airecorder_text_btn_pause">Pause</string>
+     <string name="airecorder_text_btn_resume">Resume recording</string>
+     <string name="airecorder_timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
+     <string name="airecorder_timer_format_two_sections" formatted="false">%02d:%02d</string>
+     <string name="another_recording_toast">Another recording is in progress</string>
+     <string name="bottomsheet_action_collapse">Collapse the bottom sheet</string>
+     <string name="bottomsheet_action_expand">Expand the bottom sheet</string>
+     <string name="bottomsheet_drag_handle_clicked">Drag handle double-tapped</string>
+     <string name="bottomsheet_drag_handle_content_description">Drag handle</string>
+     <string name="content_text">Content: %s</string>
+     <string name="day_in_week_hour_minute_format">EE hh.mm aaa</string>
+     <string name="delete_recording_file_dialog_msg">Delete this recording now?</string>
+     <string name="delete_recording_file_dialog_title">Delete recording</string>
+     <string name="flag_list">Marks</string>
+     <string name="guide_update_confirm_dialog_message_new">"If you choose not to update Translate, you won't be able to access some features."</string>
+     <string name="guide_update_dialog_title_new">Update Translate</string>
+     <string name="mic_in_use_while_in_call_tip">"Can't record when microphone is in use"</string>
+     <string name="miuix_bottom_sheet_behavior">miuix.bottomsheet.BottomSheetBehavior</string>
+     <string name="month_day_format">MM/dd</string>
+     <string name="month_format">MM</string>
+     <string name="no_recording_toast">No recording in progress</string>
+     <string name="no_text_content">No text</string>
+     <string name="passport_account_crop_user_avatar">Crop photo</string>
+     <string name="passport_account_empty_user_name">Enter your name</string>
+     <string name="passport_account_error_all_space_user_name">"Name can't contain only space characters"</string>
+     <string name="passport_account_error_invalid_user_name">"Name can't contain &lt;, >, or /"</string>
+     <string name="passport_account_error_longer_user_name">"Name can't be longer than %d characters"</string>
+     <string name="passport_account_error_shorter_user_name">Name must be longer than %d characters</string>
+     <string name="passport_account_error_user_name">This nickname is invalid. Try a different one.</string>
+     <string name="passport_account_invalid_user_avatar">This photo is invalid. Try a different one.</string>
+     <string name="passport_account_no_set">None</string>
+     <string name="passport_account_none_bind_info">None</string>
+     <string name="passport_account_none_user_name">None</string>
+     <string name="passport_account_secure_info_pref_title">Account info</string>
+     <string name="passport_account_security_info_pref_title">Security info</string>
+     <string name="passport_account_user_avatar">Profile photo</string>
+     <string name="passport_account_user_avatar_from_album">Gallery</string>
+     <string name="passport_account_user_avatar_from_camera">Camera</string>
+     <string name="passport_account_user_base_info">Basic info</string>
+     <string name="passport_account_user_details">Personal info</string>
+     <string name="passport_account_user_email">Recovery email</string>
+     <string name="passport_account_user_gender">Gender</string>
+     <string name="passport_account_user_id">Xiaomi Account ID</string>
+     <string name="passport_account_user_name">Nickname</string>
+     <string name="passport_account_user_name_dialog_title">Enter name</string>
+     <string name="passport_account_user_phone">Recovery phone</string>
+     <string name="passport_activity_not_found_notice">"Can't find the app"</string>
+     <string name="passport_agree">Agree</string>
+     <string name="passport_attention">Attention</string>
+     <string name="passport_auth_fail_warning">Session expired. Sign in again.</string>
+     <string name="passport_back">Back</string>
+     <string name="passport_change_password">Change password</string>
+     <string name="passport_check_security">Checking for security issues…</string>
+     <string name="passport_doing_query_account">Checking account info…</string>
+     <string name="passport_error_dup_binded_email">This email address is already associated with another Xiaomi Account.</string>
+     <string name="passport_error_invalid_bind_address">The email address you entered is invalid.</string>
+     <string name="passport_exceed_binded_phone_times_notice">This phone number is already associated with another Xiaomi Account.</string>
+     <string name="passport_facebook_login_btn_content_description">Sign in with Facebook</string>
+     <string name="passport_frequency_try_later">Too many attempts. Wait a minute or two and try again.</string>
+     <string name="passport_get_phone_verifycode_exceed_limit">Too many verification codes have been sent to this number. Wait 24 hours and try again.</string>
+     <string name="passport_google_login_btn_content_description">Sign in with Google</string>
+     <string name="passport_help">Help</string>
+     <string name="passport_i_know">Got it</string>
+     <string name="passport_input_email_address_notice">"We'll use this email to verify your account"</string>
+     <string name="passport_login_by_local_phone_long_text">Sign in now</string>
+     <string name="passport_login_by_local_phone_short_text">Sign in</string>
+     <string name="passport_login_other">Another Xiaomi Account</string>
+     <string name="passport_login_register_by_local_phone_long_text">Create account</string>
+     <string name="passport_login_with_sns">Other ways to sign in</string>
+     <string name="passport_logout_account">Sign out</string>
+     <string name="passport_network_timeout">"Couldn't connect to the network. Try again."</string>
+     <string name="passport_no_account">Not signed in</string>
+     <string name="passport_open_settings">Settings</string>
+     <string name="passport_phone_auto_login_register_with_local_number">Create account</string>
+     <string name="passport_photo_picker_not_found">No photos available.</string>
+     <string name="passport_qq_login_btn_content_description">Sign in with QQ</string>
+     <string name="passport_register_by_local_phone_long_text">Create account</string>
+     <string name="passport_register_by_local_phone_short_text">Create account</string>
+     <string name="passport_request_agree">Allow</string>
+     <string name="passport_request_camera_permission_message">"We shall protect your personal information in accordance with the relevant laws and regulations. This app needs the following permissions to work normally:&lt;br>&lt;br>&lt;b>Using camera (for setting your profile photo)&lt;/b>&lt;br>&lt;br>If you don't agree to grant such permissions, you won't be able to use some features of this app; however, its basic functionality will still be available to you. You can always restrict permissions or revoke your authorization in the Settings."</string>
+     <string name="passport_request_cancel">Cancel</string>
+     <string name="passport_request_error_invalid_token">"Couldn't verify"</string>
+     <string name="passport_request_error_network">A network error occurred. Check your network settings and try again.</string>
+     <string name="passport_request_error_unknown">A system error occurred. Go back and try again.</string>
+     <string name="passport_request_gallery_permission_message">Allow access to Gallery:&lt;br />For setting profile photos</string>
+     <string name="passport_resend_email_reach_limit_message">"You've requested too many verification emails. Make sure that the verification email isn't in your inbox's Spam folder."</string>
+     <string name="passport_resend_email_reach_limit_title">Too many attempts</string>
+     <string name="passport_same_new_and_old_pwd">"Can't be the same as current password"</string>
+     <string name="passport_service_error">Server error</string>
+     <string name="passport_skip_query_account">Skip</string>
+     <string name="passport_sns_access_token_expired_warning">Session expired. Sign in again to reconnect this account.</string>
+     <string name="passport_sns_bind_limit">Too many attempts. Try other ways to sign in.</string>
+     <string name="passport_system_error">System is busy. Wait a minute or two and try again.</string>
+     <string name="passport_unknown_error">Unknown error</string>
+     <string name="passport_unknown_host_network_error">Check your network settings and try again</string>
+     <string name="passport_user_agreement_hint_3rd_app"><Data>"I've read and agreed to &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> and Xiaomi Account's &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>."</Data></string>
+     <string name="passport_user_agreement_hint_3rd_app_mobile"><Data>"I've read and agreed to &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, Xiaomi Account's &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>, as well as &lt;a href=%5$s>Terms and conditions of China Mobile verification services&lt;/a>."</Data></string>
+     <string name="passport_user_agreement_hint_3rd_app_with_telecom"><Data>"I've read and agreed to &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, Xiaomi Account's &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>, as well as &lt;a href=%5$s>Terms and conditions of eSurfing account verification services&lt;/a>."</Data></string>
+     <string name="passport_user_agreement_hint_3rd_app_with_unicom"><Data>"I've read and agreed to &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, Xiaomi Account's &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>, as well as &lt;a href=%5$s>Terms and conditions of China Unicom verification services&lt;/a>."</Data></string>
+     <string name="passport_user_agreement_hint_default"><Data>"I've read and agreed to Xiaomi Account's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>."</Data></string>
+     <string name="passport_user_agreement_hint_first_login">"We'll create an account automatically if you're using your phone number for the first time."</string>
+     <string name="passport_user_agreement_hint_with_mobile"><Data>"I've read and agreed to Xiaomi Account's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, as well as &lt;a href=%3$s>Terms and conditions of China Mobile verification services&lt;/a>."</Data></string>
+     <string name="passport_user_agreement_hint_with_telecom"><Data>"I've read and agreed to Xiaomi Account's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, as well as &lt;a href=%3$s>Terms and conditions of eSurfing account verification services&lt;/a>."</Data></string>
+     <string name="passport_user_agreement_hint_with_unicom"><Data>"I've read and agreed to Xiaomi Account's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, as well as &lt;a href=%3$s>Terms and conditions of China Unicom verification services&lt;/a>."</Data></string>
+     <string name="passport_user_avatar_update_title">Change profile photo</string>
+     <string name="passport_user_avatar_uploading">Just a sec…</string>
+     <string name="passport_user_name_phone_number">Phone number</string>
+     <string name="passport_weibo_login_btn_content_description">Sign in with Weibo</string>
+     <string name="passport_weixin_login_btn_content_description">Sign in with WeChat</string>
+     <string name="play_with_no_record_toast">"Couldn't find recording"</string>
+     <string name="radio_tips">Recorder provides audio transcription, audio summaries, and more. This app needs to connect to the internet to provide these services.</string>
+     <string name="recent_delete">Recently deleted</string>
+     <string name="recent_delete_delete_all">Permanently delete all items now?</string>
+     <string name="recognize_tip_part_one">"Didn't finish transcribing. "</string>
+     <string name="recognize_tip_part_two">Try again</string>
+     <string name="record_close_tag_list">Close the list of marks</string>
+     <string name="record_modify_speaker_label">Change speaker name</string>
+     <string name="record_stop_recognize">Stop transcription</string>
+     <string name="recording">Recording</string>
+     <string name="save_record_data_toast">Saving…</string>
+     <string name="settings_ai_record_abstract">Summarize</string>
+     <string name="settings_ai_record_abstract_description">Summarize the subject and content of a recording and save the summary to Notes</string>
+     <string name="settings_ai_record_diff_speaker">Distinguish speakers</string>
+     <string name="settings_ai_record_diff_speaker_description">"If multiple speakers are identified during transcription, they'll be automatically distinguished and labeled. Once transcription is complete, customize speaker labels for clear reading."</string>
+     <string name="settings_ai_record_trans">Transcription</string>
+     <string name="settings_ai_record_trans_description">Transcribe speech to text automatically during recording, allowing you to view transcripts in real time</string>
+     <string name="settings_ai_record_translate">Translate</string>
+     <string name="settings_ai_record_translate_description">Translate transcripts into a variety of supported languages</string>
+     <string name="settings_ai_record_view_speeches">"View individual speakers' content"</string>
+     <string name="settings_ai_record_view_speeches_description">Tap a speaker label to view everything they said all at once</string>
+     <string name="settings_ai_recorder">Recorder AI features</string>
+     <string name="settings_ai_recorder_summary">Transcribe audio to text, automatically distinguish between speakers, translate, and create summaries</string>
+     <string name="settings_ai_recorder_title">AI speech recognition</string>
+     <string name="show_text">Show text</string>
+     <string name="show_wave">Show voiceprint</string>
+     <string name="summary">AI summary</string>
+     <string name="system_permission_declare_double_link">&lt;Data>Read and agree to our &lt;a href=\"%1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy&lt;/a> before you continue.&lt;/Data></string>
+     <string name="text_for_build_database_progress">Analyzing recording…(%s)</string>
+     <string name="theme_text">Subject: %s</string>
+     <string name="tip_recognize">Just a sec…</string>
+     <string name="tips_for_build_database">"Keep your device connected to the charger. It'll analyze this recording faster when the screen is off."</string>
+     <string name="translate_complete_toast">Translated successfully</string>
+     <string name="year_month_day_format">MM/dd/yyyy</string>
+     <string name="year_month_day_hour_minute_format">MM-dd-yyyy hh.mm aaa</string>
+     <string name="year_month_format">MM yyyy</string>
+</resources>

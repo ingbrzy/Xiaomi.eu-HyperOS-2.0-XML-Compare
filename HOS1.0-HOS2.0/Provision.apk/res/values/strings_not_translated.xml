@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="carrier_introduction_china_rothko">In order to improve the quality of services provided to you, the programs running on this device (including SystemHelper, RegService, and Carrier services) might send the information about this device or your SIM card (including IMEI, IMSI, MSISDN, MEID, ICCID, MAC address, system version, Android version, device model, basic hardware configuration, and phone number), as well as your approximate location (including region, coordinates, neighborhood identifier, and base station ID), to your carrier via Wi-Fi, mobile networks, or SMS. When making calls, DCService will connect to the network. Mobile carriers guarantee that this information will only be used for analysis, service quality improvements, or providing customized services or technologies and will never be shared with anyone in a way that might allow to identify you personally. Refer to the relevant statement from your carrier for details. You can inquire about all related service fees directly from your carrier.</string>
+     <string name="check_box_label_new"><Data>"You can use Xiaomi Interconnectivity to control and transfer data across devices. Agree to Xiaomi Interconnectivity's &lt;a href=%1$s>Privacy Policy&lt;/a > before using its features. This app needs to connect to the internet and requires the following permissions:"</Data></string>
+     <string name="check_network_status">"Couldn't verify account due to a network error"</string>
+     <string name="fidio_declare_permissions">MI FIDO</string>
+     <string name="font_size_title">Text size</string>
+     <string name="image_brain_configuration_service">Xiaomi Imaging Engine configuration service</string>
+     <string name="interconnection_service_permission1">Turn Bluetooth on and off</string>
+     <string name="interconnection_service_permission10">For discovering nearby devices</string>
+     <string name="interconnection_service_permission11">Transfer data between devices</string>
+     <string name="interconnection_service_permission12">For transferring data between connected devices</string>
+     <string name="interconnection_service_permission13">Access screen content</string>
+     <string name="interconnection_service_permission14">For accessing screen content while recording or casting, including sensitive information such as audio, passwords, payment passwords, photos, messages, etc.</string>
+     <string name="interconnection_service_permission15">Access call history</string>
+     <string name="interconnection_service_permission16">For transferring calls across devices during screen mirroring</string>
+     <string name="interconnection_service_permission17">Access the list of installed apps</string>
+     <string name="interconnection_service_permission18">For accessing the list of apps installed on a mobile device and screen mirroring on computers</string>
+     <string name="interconnection_service_permission2">For connecting and transferring data between two devices</string>
+     <string name="interconnection_service_permission3">Turn Wi-Fi on and off</string>
+     <string name="interconnection_service_permission4">For transferring data between two devices via Wi-Fi</string>
+     <string name="interconnection_service_permission5">Record audio</string>
+     <string name="interconnection_service_permission6">For recording device audio when casting and mirroring</string>
+     <string name="interconnection_service_permission7">Access and edit photos and files on your device</string>
+     <string name="interconnection_service_permission8">For casting and transferring content from this device</string>
+     <string name="interconnection_service_permission9">Access device identifier</string>
+     <string name="interconnection_service_summary_china_new">%1$s The Xiaomi Interconnectivity features available on your device may vary due to differences in system versions and device models. Refer to our official website (%2$s) for more information.</string>
+     <string name="layout_size_huge">XL</string>
+     <string name="layout_size_large">Large</string>
+     <string name="layout_size_normal">Regular</string>
+     <string name="miuix_font_style_misans_bold_font_family">mipro-bold</string>
+     <string name="miuix_font_style_misans_demibold_font_family">sans-serif-medium</string>
+     <string name="miuix_font_style_misans_extralight_font_family">sans-serif-thin</string>
+     <string name="miuix_font_style_misans_font_family">sans-serif</string>
+     <string name="miuix_font_style_misans_heavy_font_family">sans-serif-black</string>
+     <string name="miuix_font_style_misans_light_font_family">sans-serif-light</string>
+     <string name="miuix_font_style_misans_medium_font_family">sans-serif-medium</string>
+     <string name="miuix_font_style_misans_normal_font_family">sans-serif-light</string>
+     <string name="miuix_font_style_misans_regular_font_family">sans-serif</string>
+     <string name="miuix_font_style_misans_semibold_font_family">mipro-semibold</string>
+     <string name="miuix_font_style_misans_thin_font_family">sans-serif-thin</string>
+     <string name="prompt_fingerprint">Advanced data protection is turned on for your account. Set a screen lock for this device.</string>
+     <string name="provision_complete_text">Continue</string>
+     <string name="require_telephone_imei">Read IMEI and IMSI</string>
+     <string name="require_telephone_imei_summary">For accessing IMEI</string>
+     <string name="require_telephone_location">Access location</string>
+     <string name="require_telephone_location_summary">For accessing approximate location and providing location-based network optimization services</string>
+     <string name="require_telephone_statement">In order to provide basic services, the following permissions are required:</string>
+     <string name="sample_text_summary">Xiaomi relentlessly builds amazing products with honest prices to let everyone in the world enjoy a better life through innovative technology.</string>
+     <string name="sample_text_title">Sample text:</string>
+     <string name="software_account_mismatch">Account verification</string>
+     <string name="software_account_mismatch_summary">Verifying account…</string>
+     <string name="software_version_mismatch">Unsupported software</string>
+     <string name="software_version_mismatch_summary">"This software version isn't supported by your device. Using it may pose security risks. Contact your sales agent for details."</string>
+     <string name="startup_page_text_hint">Unfold to activate device</string>
+     <string name="study_full_screen_gesture_text">Learn navigation gestures</string>
+     <string name="terms_and_statement_title">Terms and conditions</string>
+     <string name="terms_of_use_label_use_network_china_append">When your device is activated, the following services will connect to the network:</string>
+</resources>

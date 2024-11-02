@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="oobe_no_available_backups">No available backups</string>
+     <string name="oobe_use_as_new_device">You can use this device as a new device.</string>
+     <string name="restore_32bit_apps_no_tango_page_primary_button">Continue</string>
+     <string name="restore_32bit_apps_no_tango_page_secondary_button">Cancel restoration</string>
+     <string name="restore_32bit_apps_no_tango_page_sub_title">"These apps aren't compatible with %d-bit architecture and can't be restored on this device. You can continue the restoration process, but these apps will be skipped"</string>
+     <string name="restore_32bit_apps_no_tango_page_title">Incompatible apps</string>
+     <string name="restore_32bit_apps_page_primary_button">Turn on</string>
+     <string name="restore_32bit_apps_page_secondary_button">Not now</string>
+     <string name="restore_32bit_apps_page_sub_title">"These apps aren't compatible with %d-bit architecture. Tap below to turn on App compatibility mode to restore these apps"</string>
+     <string name="restore_32bit_apps_page_title">App compatibility mode</string>
+</resources>

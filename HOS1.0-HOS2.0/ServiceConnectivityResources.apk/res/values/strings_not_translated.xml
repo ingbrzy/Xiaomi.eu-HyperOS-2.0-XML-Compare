@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="config_thread_model_name">Thread Border Router</string>
+     <string name="config_thread_vendor_name">Android</string>
+     <string name="config_thread_vendor_oui" />
+     <string name="mobile_network_available_no_internet">No internet</string>
+     <string name="mobile_network_available_no_internet_detailed">You may be out of data from %1$s. Tap for options.</string>
+     <string name="mobile_network_available_no_internet_detailed_unknown_carrier">You may be out of data. Tap for options.</string>
+</resources>

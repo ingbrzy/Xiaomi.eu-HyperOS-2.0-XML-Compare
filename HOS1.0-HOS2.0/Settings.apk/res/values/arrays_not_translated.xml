@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string-array name="battery_tips_card_colors">
+        <item>color_accent_selector</item>
+        <item>color_battery_anomaly_app_warning_selector</item>
+     </string-array>
+     <string-array name="battery_tips_card_icons">
+        <item>ic_battery_tips_lightbulb</item>
+        <item>ic_battery_tips_warning_icon</item>
+     </string-array>
+     <string-array name="bluetooth_leaudio_mode">
+        <item>Disabled</item>
+        <item>Unicast</item>
+        <item>Unicast and Broadcast</item>
+     </string-array>
+     <string-array name="bluetooth_leaudio_mode_values">
+        <item>disabled</item>
+        <item>unicast</item>
+        <item>broadcast</item>
+     </string-array>
+     <string-array name="bt_stack_log_level_entries">
+        <item>Verbose</item>
+        <item>Debug</item>
+        <item>Info</item>
+        <item>Warn</item>
+        <item>Error</item>
+     </string-array>
+     <string-array name="bt_stack_log_level_values">
+        <item>verbose</item>
+        <item>debug</item>
+        <item>info</item>
+        <item>warn</item>
+        <item>error</item>
+     </string-array>
+     <string-array name="call_reminder_entries">
+        <item>@string/call_reminder_all</item>
+        <item>@string/call_reminder_contact</item>
+        <item>@string/call_reminder_favorite_contacts</item>
+     </string-array>
+     <string-array name="call_reminder_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+     </string-array>
+     <array name="config_text_reading_preview_samples">
+        <item>@layout/accessibility_text_reading_preview_app_grid</item>
+        <item>@layout/screen_zoom_preview_1</item>
+        <item>@layout/accessibility_text_reading_preview_mail_content</item>
+     </array>
+     <string-array name="config_userAspectRatioOverrideEntries">
+        <item>@string/user_aspect_ratio_app_default</item>
+        <item>@string/user_aspect_ratio_fullscreen</item>
+        <item>@string/user_aspect_ratio_half_screen</item>
+        <item>@string/user_aspect_ratio_device_size</item>
+        <item>@string/user_aspect_ratio_16_9</item>
+        <item>@string/user_aspect_ratio_4_3</item>
+        <item>@string/user_aspect_ratio_3_2</item>
+     </string-array>
+     <integer-array name="config_userAspectRatioOverrideValues">
+        <item>0</item>
+        <item>6</item>
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+        <item>3</item>
+        <item>5</item>
+     </integer-array>
+     <integer-array name="default_card_stroke_gradient_colors_dark">
+        <item>0x1FFFFFFF</item>
+        <item>0x14FFFFFF</item>
+     </integer-array>
+     <integer-array name="default_card_stroke_gradient_colors_light">
+        <item>0x4DFFFFFF</item>
+        <item>0x36FFFFFF</item>
+     </integer-array>
+     <array name="default_card_stroke_gradient_colors_positions">
+        <item>@fraction/miuix_default_card_stroke_gradient_color_start_position</item>
+        <item>@fraction/miuix_default_card_stroke_gradient_color_end_position</item>
+     </array>
+     <string-array name="device_class_change_entries">
+        <item>@string/device_class_speaker</item>
+        <item>@string/device_class_headset</item>
+        <item>@string/device_class_watch</item>
+        <item>@string/device_class_car_kit</item>
+        <item>@string/device_class_hearing_aid</item>
+        <item>@string/device_class_other</item>
+     </string-array>
+     <string-array name="device_class_change_values">
+        <item>12</item>
+        <item>11</item>
+        <item>15</item>
+        <item>13</item>
+        <item>14</item>
+        <item>10</item>
+     </string-array>
+     <string-array name="grammatical_gender_entries">
+        <item>@string/not_specified</item>
+        <item>@string/neuter</item>
+        <item>@string/feminine</item>
+        <item>@string/masculine</item>
+     </string-array>
+     <string-array name="grammatical_gender_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+     </string-array>
+     <array name="my_card_stroke_gradient_colors_light">
+        <item>@color/my_device_update_text_border2</item>
+        <item>@color/my_device_update_text_border1</item>
+     </array>
+     <string-array name="notification_app_entries">
+        <item>@string/sort_by_time</item>
+        <item>@string/sort_by_frequency</item>
+     </string-array>
+     <string-array name="power_anomaly_dismiss_btn_strings">
+        <item>@string/battery_tips_card_dismiss_button</item>
+        <item>@string/battery_tips_card_dismiss_button</item>
+        <item>@string/battery_tips_card_dismiss_button</item>
+        <item>@string/battery_tips_card_dismiss_button</item>
+        <item>@string/battery_tips_card_dismiss_button</item>
+        <item>@string/battery_tips_card_dismiss_button</item>
+        <item>@string/battery_tips_card_dismiss_button</item>
+        <item>@string/battery_tips_card_dismiss_button</item>
+     </string-array>
+     <string-array name="power_anomaly_hint_messages">
+        <item></item>
+        <item></item>
+        <item>@string/battery_app_item_hint</item>
+        <item>@string/battery_app_item_hint</item>
+        <item>@string/battery_app_item_hint_in_bg</item>
+        <item>@string/battery_app_item_hint_in_bg</item>
+        <item>@string/battery_app_item_hint_in_fg</item>
+        <item>@string/battery_app_item_hint_in_fg</item>
+     </string-array>
+     <string-array name="power_anomaly_main_btn_strings">
+        <item>@string/battery_tips_card_action_button</item>
+        <item>@string/battery_tips_card_action_button</item>
+        <item>@string/battery_tips_card_action_button_check</item>
+        <item>@string/battery_tips_card_action_button_check</item>
+        <item>@string/battery_tips_card_action_button_check</item>
+        <item>@string/battery_tips_card_action_button_check</item>
+        <item>@string/battery_tips_card_action_button_check</item>
+        <item>@string/battery_tips_card_action_button_check</item>
+     </string-array>
+     <string-array name="power_anomaly_title_ids">
+        <item>battery_tips_settings_summary_brightness</item>
+        <item>battery_tips_settings_summary_screen_timeout</item>
+        <item>battery_tips_apps_summary_always_high</item>
+        <item>battery_tips_apps_summary_higher_than_usual</item>
+        <item>battery_tips_apps_summary_always_high_in_background</item>
+        <item>battery_tips_apps_summary_higher_than_usual_in_background</item>
+        <item>battery_tips_apps_summary_always_high_in_foreground</item>
+        <item>battery_tips_apps_summary_higher_than_usual_in_foreground</item>
+     </string-array>
+     <string-array name="private_space_auto_lock_options">
+        <item>@string/private_space_auto_lock_every_time</item>
+        <item>@string/private_space_auto_lock_after_inactivity</item>
+        <item>@string/private_space_auto_lock_after_device_restart</item>
+     </string-array>
+     <string-array name="private_space_auto_lock_options_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+     </string-array>
+     <string-array name="terms_of_address_supported_languages">
+        <item>fr</item>
+     </string-array>
+     <string-array name="terms_of_address_unsupported_locales">
+        <item>fr-CA</item>
+     </string-array>
+     <string-array name="wifi_dhcp_entries">
+        <item>Send device name to network</item>
+        <item>"Don't send device name to network"</item>
+     </string-array>
+     <array name="zen_mode_icon_options">
+        <item>@android:drawable/ic_zen_mode_type_bedtime</item>
+        <item>@android:drawable/ic_zen_mode_type_driving</item>
+        <item>@android:drawable/ic_zen_mode_type_immersive</item>
+        <item>@android:drawable/ic_zen_mode_type_managed</item>
+        <item>@android:drawable/ic_zen_mode_type_other</item>
+        <item>@android:drawable/ic_zen_mode_type_schedule_calendar</item>
+        <item>@android:drawable/ic_zen_mode_type_schedule_time</item>
+        <item>@android:drawable/ic_zen_mode_type_theater</item>
+        <item>@android:drawable/ic_zen_mode_type_unknown</item>
+     </array>
+     <string-array name="zen_mode_icon_options_descriptions">
+        <item>Bedtime</item>
+        <item>Driving</item>
+        <item>Immersive</item>
+        <item>Managed</item>
+        <item>Star</item>
+        <item>Calendar</item>
+        <item>Time</item>
+        <item>Theater</item>
+        <item>Flower</item>
+     </string-array>
+</resources>

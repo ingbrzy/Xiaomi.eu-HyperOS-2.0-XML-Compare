@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string-array name="config_wifiEapFailureConfig">
+        <item>1839, 0, 0, 1, 240</item>
+        <item>1839, 16384, 0, 1, 5</item>
+        <item>1839, 1026, 0, 1, 240</item>
+        <item>1839, 1031, 1, 1, 1440</item>
+        <item>1839, 16385, 0, 3, 120</item>
+     </string-array>
+</resources>

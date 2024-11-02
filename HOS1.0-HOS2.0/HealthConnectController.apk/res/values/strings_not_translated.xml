@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="active_calories_burned">Active: %1$s</string>
+     <string name="additional_access_background_footer">Enable at least one read permission in order to turn on background access for this app</string>
+     <string name="additional_access_combined_footer">Enable at least one read permission in order to turn on background or past data access for this app</string>
+     <string name="additional_access_history_footer">Enable at least one read permission in order to turn on past data access for this app</string>
+     <string name="additional_access_label">Additional access</string>
+     <string name="all_data_selected_deletion_confirmation_dialog">Permanently delete all data from Health Connect?</string>
+     <string name="all_data_selected_deletion_confirmation_toast">All data deleted</string>
+     <string name="all_medical_data_content_description">Write all medical data</string>
+     <string name="all_medical_data_lowercase_label">all medical data</string>
+     <string name="all_medical_data_uppercase_label">All medical data</string>
+     <string name="amrap_performance_goal">As many reps as possible</string>
+     <string name="app_data_title">App data</string>
+     <string name="app_sources_header">App sources</string>
+     <string name="app_update_needed_banner_learn_more_button">Learn more</string>
+     <string name="automatic_export_off">Off</string>
+     <string name="automatic_export_on">On</string>
+     <string name="automatic_export_status" formatted="false">%s • %s</string>
+     <string name="background_read_description">"Allow this app to access Health Connect data when you're not using the app"</string>
+     <string name="background_read_request_description">"If you allow, this app can access Health Connect data when you're not using the app."</string>
+     <string name="background_read_request_title">Allow %1$s to access data in the background?</string>
+     <string name="background_read_title">Access data in the background</string>
+     <string name="backup_and_restore_footer_body_text">Export lets you save your data so you can transfer it to a new phone</string>
+     <string name="backup_and_restore_footer_link_text">Learn more</string>
+     <string name="backup_and_restore_settings_screen_title">Backup and restore</string>
+     <string name="backup_and_restore_settings_summary">Export and import data</string>
+     <string name="backup_title">Backup</string>
+     <string name="bulleted_content">• %1$s</string>
+     <string name="choose_frequency">Choose frequency</string>
+     <string name="choose_frequency_category">Choose frequency</string>
+     <string name="choose_frequency_description">Choose to save data once, or set it to save automatically at regular times.</string>
+     <string name="connected_apps_connected_subtitle">{count, plural, =1 {1 app has access} other {# apps have access}}</string>
+     <string name="data_entry_header_with_source_app">%1$s • %2$s</string>
+     <string name="data_entry_header_without_source_app">%1$s</string>
+     <string name="data_restore_in_progress_content">Health Connect is restoring data and permissions. This may take some time to complete.</string>
+     <string name="data_restore_in_progress_dialog_button">Got it</string>
+     <string name="data_restore_in_progress_dialog_title">Health Connect restore in progress</string>
+     <string name="data_restore_in_progress_screen_title">Restore in progress</string>
+     <string name="data_restore_pending_banner_button">Update now</string>
+     <string name="data_restore_pending_banner_content">Before continuing restoring your data, update your phone system.</string>
+     <string name="data_restore_pending_banner_title">Update needed</string>
+     <string name="data_sources_add_app">Add an app</string>
+     <string name="data_sources_and_priority_title">Data sources and priority</string>
+     <string name="data_sources_empty_state">No app sources</string>
+     <string name="data_sources_empty_state_footer">Once you give app permissions to write %1$s data, sources will show here.</string>
+     <string name="data_sources_footer">Add app sources to the list to see how the data totals can change. Removing an app from this list will stop it from contributing to totals, but it will still have write permissions.</string>
+     <string name="data_sources_help_link">How sources &amp; prioritization work</string>
+     <string name="data_totals_header">Data totals</string>
+     <string name="date_picker_day">Day</string>
+     <string name="date_picker_month">Month</string>
+     <string name="date_picker_week">Week</string>
+     <string name="default_app_summary">Device default</string>
+     <string name="distance_with_variable_rest_goal_formatted">%1$s@%2$s</string>
+     <string name="edit_data_sources">Edit app sources</string>
+     <string name="elapsed_time_placeholder">--:--</string>
+     <string name="enter_deletion_button_content_description">Enter deletion</string>
+     <string name="exercise_permission_dialog_disable_summary">%1$s requires exercise access in order for exercise routes to be enabled</string>
+     <string name="exercise_permission_dialog_disable_title">Disable both data types?</string>
+     <string name="exercise_permission_dialog_enable_title">Enable both data types?</string>
+     <string name="exercise_permission_dialog_enabled_summary">%1$s needs read access to exercise for exercise routes to be enabled</string>
+     <string name="exercise_permission_dialog_negative_button">No</string>
+     <string name="exercise_permission_dialog_positive_button">Yes</string>
+     <string name="exercise_routes_read_content_description">Read exercise routes</string>
+     <string name="exit_deletion_button_content_description">Exit deletion</string>
+     <string name="export_and_import_title">Export and import</string>
+     <string name="export_back_button">Back</string>
+     <string name="export_destination_title">Choose where to export</string>
+     <string name="export_file_access_error_banner_button">Set up</string>
+     <string name="export_file_access_error_banner_summary">There was a problem with the export for %1$s. Please set up a new scheduled export and try again.</string>
+     <string name="export_file_access_error_banner_title">"Couldn't export data"</string>
+     <string name="export_import_choose_account_cancel_button">Cancel</string>
+     <string name="export_import_choose_account_done_button">Done</string>
+     <string name="export_import_choose_account_title">Choose an account</string>
+     <string name="export_import_go_to_play_store_text">Go to the Play Store</string>
+     <string name="export_import_install_apps_text">For more options, install cloud storage apps to see them here</string>
+     <string name="export_import_tap_to_choose_account">Tap to select an account</string>
+     <string name="export_invalid_storage">Please choose a storage app to export your data</string>
+     <string name="export_next_button">Next</string>
+     <string name="frequency_daily">Daily</string>
+     <string name="frequency_monthly">Monthly</string>
+     <string name="frequency_weekly">Weekly</string>
+     <string name="historic_access_description">Allow this app to access Health Connect data added before %1$s</string>
+     <string name="historic_access_description_fallback">Allow this app to access all past Health Connect data</string>
+     <string name="historic_access_request_description">If you allow, this app can access Health Connect data added before %1$s.</string>
+     <string name="historic_access_request_description_fallback">If you allow, this app can access all past Health Connect data.</string>
+     <string name="historic_access_request_title">Allow %1$s to access past data?</string>
+     <string name="historic_access_title">Access past data</string>
+     <string name="immunization_content_description">Read immunization</string>
+     <string name="immunization_lowercase_label">immunization</string>
+     <string name="immunization_uppercase_label">Immunization</string>
+     <string name="import_cancel_button">Cancel</string>
+     <string name="import_data">Import data</string>
+     <string name="import_data_description">Restore data from a previously exported file</string>
+     <string name="import_decrypt_footer_body_text">If you still have your old phone, you can re-export your data with a new password</string>
+     <string name="import_decryption_description">Your encryption password is needed to import your Health Connect data</string>
+     <string name="import_decryption_forgotten_password_link_text">Forgotten password?</string>
+     <string name="import_decryption_title">Type password</string>
+     <string name="import_invalid_storage">Please choose a storage app to import your data</string>
+     <string name="import_next_button">Next</string>
+     <string name="import_password_hint">Password</string>
+     <string name="import_source_location_title">Import from</string>
+     <string name="import_wrong_file_error_banner_button">Choose file</string>
+     <string name="import_wrong_file_error_banner_summary">"The file you selected isn't compatible for restore. Make sure to select the correct exported file."</string>
+     <string name="import_wrong_file_error_banner_title">"Couldn't restore data"</string>
+     <string name="last_export_time">Last export: %1$s</string>
+     <string name="last_month_header">Last month</string>
+     <string name="last_week_header">Last week</string>
+     <string name="m3_exceed_max_badge_text_suffix">%1$s%2$s</string>
+     <string name="m3_ref_typeface_brand_medium">sans-serif-medium</string>
+     <string name="m3_ref_typeface_brand_regular">sans-serif</string>
+     <string name="m3_ref_typeface_plain_medium">sans-serif-medium</string>
+     <string name="m3_ref_typeface_plain_regular">sans-serif</string>
+     <string name="manage_data_category_title">Manage data</string>
+     <string name="manage_data_preferences_category_title">Preferences</string>
+     <string name="material_hour_24h_suffix">%1$s hours</string>
+     <string name="material_slider_value">Value</string>
+     <string name="mindfulness_lowercase_label">mindfulness</string>
+     <string name="mindfulness_read_content_description">Read mindfulness</string>
+     <string name="mindfulness_uppercase_label">Mindfulness</string>
+     <string name="mindfulness_write_content_description">Write mindfulness</string>
+     <string name="mtrl_checkbox_button_icon_path_checked">M14,18.2 11.4,15.6 10,17 14,21 22,13 20.6,11.6z</string>
+     <string name="mtrl_checkbox_button_icon_path_group_name">icon</string>
+     <string name="mtrl_checkbox_button_icon_path_indeterminate">M13.4,15 11,15 11,17 13.4,17 21,17 21,15z</string>
+     <string name="mtrl_checkbox_button_icon_path_name">icon path</string>
+     <string name="mtrl_checkbox_button_path_checked">M23,7H9C7.9,7,7,7.9,7,9v14c0,1.1,0.9,2,2,2h14c1.1,0,2-0.9,2-2V9C25,7.9,24.1,7,23,7z</string>
+     <string name="mtrl_checkbox_button_path_group_name">button</string>
+     <string name="mtrl_checkbox_button_path_name">button path</string>
+     <string name="mtrl_checkbox_button_path_unchecked">M23,7H9C7.9,7,7,7.9,7,9v14c0,1.1,0.9,2,2,2h14c1.1,0,2-0.9,2-2V9C25,7.9,24.1,7,23,7z M23,23H9V9h14V23z</string>
+     <string name="mtrl_checkbox_state_description_checked">Checked</string>
+     <string name="mtrl_checkbox_state_description_indeterminate">Partially checked</string>
+     <string name="mtrl_checkbox_state_description_unchecked">Not checked</string>
+     <string name="mtrl_picker_announce_current_range_selection">Start date selection: %1$s – End date selection: %2$s</string>
+     <string name="mtrl_picker_announce_current_selection_none">none</string>
+     <string name="mtrl_picker_end_date_description">End date %1$s</string>
+     <string name="mtrl_picker_navigate_to_current_year_description">Navigate to current year %1$d</string>
+     <string name="mtrl_picker_start_date_description">Start date %1$s</string>
+     <string name="mtrl_picker_today_description">Today %1$s</string>
+     <string name="multiple_data_types_deletion_confirmation_toast">%s items deleted</string>
+     <string name="needs_updating_apps_section_title">Needs updating</string>
+     <string name="next_export_time">Next export: %1$s</string>
+     <string name="no_data_footer">Data from apps with access to Health Connect will show here</string>
+     <string name="one_data_type_deletion_confirmation_toast">%s data deleted</string>
+     <string name="only_one_connected_app_button_subtitle">%1$s of %2$s apps has access</string>
+     <string name="performance_goals_range">%1$s - %2$s</string>
+     <string name="permissions_disconnect_dialog_message_background">"%1$s will no longer be able to read or write any data from Health Connect, including background data.
+
+This doesn't affect other permissions this app may have, like location, camera, or microphone."</string>
+     <string name="permissions_disconnect_dialog_message_combined">"%1$s will no longer be able to read or write any data from Health Connect, including background and past data.
+
+This doesn't affect other permissions this app may have, like location, camera, or microphone."</string>
+     <string name="permissions_disconnect_dialog_message_history">"%1$s will no longer be able to read or write any data from Health Connect, including past data.
+
+This doesn't affect other permissions this app may have, like location, camera, or microphone."</string>
+     <string name="planned_exercise_block_a11y_title">%1$s %2$s</string>
+     <string name="planned_exercise_block_details_title">%1$s: %2$d</string>
+     <string name="planned_exercise_block_repetitions">{count, plural, =1 {1 time} other {# times}}</string>
+     <string name="planned_exercise_block_title">%1$s: %2$s</string>
+     <string name="planned_exercise_lowercase_label">training plans</string>
+     <string name="planned_exercise_read_content_description">Read training plans</string>
+     <string name="planned_exercise_session_notes_title">Notes</string>
+     <string name="planned_exercise_session_title">%1$s • %2$s</string>
+     <string name="planned_exercise_step_title">%1$s %2$s</string>
+     <string name="planned_exercise_uppercase_label">Training plans</string>
+     <string name="planned_exercise_write_content_description">Write training plans</string>
+     <string name="playstore_url">https://play.google.com</string>
+     <string name="rate_of_perceived_exertion_goal">Effort level: %1$d/10</string>
+     <string name="recent_access_time_content_descritption">Time: %1$s</string>
+     <string name="remove_button_content_description">Button to remove %s from the priority list</string>
+     <string name="removed_additional_permissions_toast">Removed additional permissions for this app</string>
+     <string name="reorder_button_action_description">Double tap and drag to reorder</string>
+     <string name="reorder_button_content_description">Button to drag and reorder %s in the priority list</string>
+     <string name="request_additional_permissions_description">%1$s also wants to access these Health Connect settings</string>
+     <string name="request_additional_permissions_header_title">Allow additional access for %1$s?</string>
+     <string name="request_permissions_header_time_frame_history_desc">If you give read access, the app can read new and past data</string>
+     <string name="request_route_allow">Allow this route</string>
+     <string name="request_route_allow_all">Allow all routes</string>
+     <string name="request_route_dont_allow">"Don't allow"</string>
+     <string name="route_permissions_always_allow">Always allow</string>
+     <string name="route_permissions_ask">Ask every time</string>
+     <string name="route_permissions_deny">"Don't allow"</string>
+     <string name="route_permissions_label">Access exercise routes</string>
+     <string name="route_permissions_summary">Allow %1$s to access routes</string>
+     <string name="scheduled_export">Scheduled export</string>
+     <string name="searchbar_scrolling_view_behavior">com.google.android.material.search.SearchBar$ScrollingViewBehavior</string>
+     <string name="searchview_clear_text_content_description">Clear text</string>
+     <string name="searchview_navigation_content_description">Back</string>
+     <string name="see_app_data">See app data</string>
+     <string name="selected_date_view_action_description">change</string>
+     <string name="set_units_title">Set units</string>
+     <string name="side_sheet_accessibility_pane_title">Side Sheet</string>
+     <string name="side_sheet_behavior">com.google.android.material.sidesheet.SideSheetBehavior</string>
+     <string name="skin_temperature_baseline_title">Baseline</string>
+     <string name="skin_temperature_delta_details_heading">Variation from baseline</string>
+     <string name="skin_temperature_lowercase_label">skin temperature</string>
+     <string name="skin_temperature_measurement_location_title">Measurement location</string>
+     <string name="skin_temperature_read_content_description">Read skin temperature</string>
+     <string name="skin_temperature_uppercase_label">Skin temperature</string>
+     <string name="skin_temperature_write_content_description">Write skin temperature</string>
+     <string name="some_data_selected_deletion_confirmation_dialog">Permanently delete selected data from Health Connect?</string>
+     <string name="tab_access">Access</string>
+     <string name="tab_entries">Entries</string>
+     <string name="temperatureDelta_average_celsius">{value, plural, =1 {{formattedValue}℃ (avg variation)} other {{formattedValue}℃ (avg variation)}}</string>
+     <string name="temperatureDelta_average_celsius_long">{value, plural, =1 {{formattedValue} degree Celsius (average variation)} other {{formattedValue} degrees Celsius (average variation)}}</string>
+     <string name="temperatureDelta_average_fahrenheit">{value, plural, =1 {{formattedValue}℉ (avg variation)} other {{formattedValue}℉ (avg variation)}}</string>
+     <string name="temperatureDelta_average_fahrenheit_long">{value, plural, =1 {{formattedValue} degree Fahrenheit (average variation)} other {{formattedValue} degrees Fahrenheit (average variation)}}</string>
+     <string name="temperatureDelta_average_kelvin">{value, plural, =1 {{formattedValue}K (avg variation)} other {{formattedValue}K (avg variation)}}</string>
+     <string name="temperatureDelta_average_kelvin_long">{value, plural, =1 {{formattedValue} kelvin (average variation)} other {{formattedValue} kelvins (average variation)}}</string>
+     <string name="temperatureDelta_celsius">{value, plural, =1 {{formattedValue}℃} other {{formattedValue}℃}}</string>
+     <string name="temperatureDelta_celsius_long">{value, plural, =1 {{formattedValue} degree Celsius} other {{formattedValue} degrees Celsius}}</string>
+     <string name="temperatureDelta_fahrenheit">{value, plural, =1 {{formattedValue}℉} other {{formattedValue}℉}}</string>
+     <string name="temperatureDelta_fahrenheit_long">{value, plural, =1 {{formattedValue} degree Fahrenheit} other {{formattedValue} degrees Fahrenheit}}</string>
+     <string name="temperatureDelta_kelvin">{value, plural, =1 {{formattedValue}K} other {{formattedValue}K}}</string>
+     <string name="temperatureDelta_kelvin_long">{value, plural, =1 {{formattedValue} kelvin} other {{formattedValue} kelvins}}</string>
+     <string name="this_month_header">This month</string>
+     <string name="this_week_header">This week</string>
+     <string name="total_calories_burned">Total: %1$s</string>
+     <string name="velocity_minute_km">%1$s min/km</string>
+     <string name="velocity_minute_km_long">%1$s minute per kilometer</string>
+     <string name="velocity_minute_miles">%1$s min/mile</string>
+     <string name="velocity_minute_miles_long">%1$s minute per mile</string>
+     <string name="velocity_minute_per_one_hundred_meters">%1$s min/100 meters</string>
+     <string name="velocity_minute_per_one_hundred_meters_long">%1$s minute per 100 meters</string>
+     <string name="velocity_minute_per_one_hundred_yards">%1$s min/100 yards</string>
+     <string name="velocity_minute_per_one_hundred_yards_long">%1$s minute per 100 yards</string>
+</resources>

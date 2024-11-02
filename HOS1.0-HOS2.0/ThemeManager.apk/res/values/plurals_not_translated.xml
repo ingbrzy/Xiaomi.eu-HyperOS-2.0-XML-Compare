@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <plurals name="ai_generate_progress">
+        <item quantity="other">This will take about %s seconds.</item>
+     </plurals>
+     <plurals name="author_follow">
+        <item quantity="other">%d following</item>
+        <item quantity="one">%d following</item>
+     </plurals>
+</resources>

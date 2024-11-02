@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="button_disagree">Cancel</string>
+     <string name="button_record_start">Record</string>
+     <string name="desc_privacy_policy_cn">"With Voice Call Recorder, you can record voice calls made in third party apps. This app will access caller nicknames to name saved recordings.
+Note that infringement of other people's privacy rights is illegal. You may not use any information obtained through this feature to violate the privacy of others. If you use the above information illegally, you shall assume all the legal risks arising therefrom."</string>
+     <string name="desc_privacy_policy_global">"The local laws applying to you or any other party to this call may require everyone to consent to the recording of the conversation. You're responsible for complying with such laws and Xiaomi won't be responsible for any violation of laws due to your actions or omissions. Use call recording responsibly. Recordings are stored only on your device and Xiaomi won't have access to them. Start recording now?"</string>
+     <string name="miuix_font_style_misans_bold_font_family">mipro-bold</string>
+     <string name="miuix_font_style_misans_demibold_font_family">sans-serif-medium</string>
+     <string name="miuix_font_style_misans_extralight_font_family">sans-serif-thin</string>
+     <string name="miuix_font_style_misans_font_family">sans-serif</string>
+     <string name="miuix_font_style_misans_heavy_font_family">sans-serif-black</string>
+     <string name="miuix_font_style_misans_light_font_family">sans-serif-light</string>
+     <string name="miuix_font_style_misans_medium_font_family">sans-serif-medium</string>
+     <string name="miuix_font_style_misans_normal_font_family">sans-serif-light</string>
+     <string name="miuix_font_style_misans_regular_font_family">sans-serif</string>
+     <string name="miuix_font_style_misans_semibold_font_family">mipro-semibold</string>
+     <string name="miuix_font_style_misans_thin_font_family">sans-serif-thin</string>
+     <string name="title_record_call">Record call</string>
+</resources>

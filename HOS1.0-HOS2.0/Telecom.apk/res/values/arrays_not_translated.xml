@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <integer-array name="config_foldedDeviceStates">
+        <item>0</item>
+        <item>1</item>
+        <item>4</item>
+        <item>6</item>
+     </integer-array>
+     <string-array name="system_bluetooth_stack_package_name">
+        <item>com.android.bluetooth</item>
+        <item>com.google.android.bluetooth</item>
+     </string-array>
+</resources>

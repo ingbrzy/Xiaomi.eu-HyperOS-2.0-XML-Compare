@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="homepage_currency">Regular</string>
+     <string name="mggc_game_recommend_guide_button">Play</string>
+     <string name="mggc_more_games">More Games</string>
+     <string name="mggc_shortcut_bottom_add_tip">Add</string>
+     <string name="mggc_shortcut_bottom_tip">Tap to add Game Center to your mobile desktop to play exciting game content anytime!</string>
+     <string name="mggc_shortcut_title_games">Add to Desktop to Find Me Faster Next Time</string>
+     <string name="mggc_toast_shortcut_add_fail">"Couldn't add"</string>
+     <string name="mggc_toast_shortcut_add_success">Added successfully</string>
+     <string name="offline_dialog_image_description">Icon</string>
+     <string name="offline_dialog_text">"Thanks for your interest.
+We will share more once you're back online."</string>
+     <string name="offline_notification_title_with_advertiser">You are back online! Continue learning about %s</string>
+     <string name="tt_multiple_ad_indicator">ad %1$d of %2$d</string>
+</resources>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string-array name="compact_card_style_tiles">
+        <item>wifi</item>
+        <item>cell</item>
+     </string-array>
+     <string-array name="compact_tiles">
+        <item>bt</item>
+        <item>airplane</item>
+        <item>mute</item>
+        <item>flashlight</item>
+        <item>batterysaver</item>
+        <item>rotation</item>
+     </string-array>
+     <array name="control_center_background_blend_colors">
+        <item>#52808080</item>
+        <item>28</item>
+     </array>
+     <array name="miui_expanded_bg_blend_colors">
+        <item>#4d666666</item>
+        <item>100</item>
+        <item>#ff2e8f00</item>
+        <item>106</item>
+     </array>
+     <array name="miui_expanded_bg_blend_colors_cc">
+        <item>#5c292929</item>
+        <item>100</item>
+        <item>#ff129900</item>
+        <item>106</item>
+     </array>
+     <array name="miui_ringer_icon_blend_colors_expanded_cc">
+        <item>#ffcccccc</item>
+        <item>107</item>
+        <item>#ffe6ff00</item>
+        <item>106</item>
+     </array>
+     <array name="miui_seekbar_and_ringer_bg_blend_colors_expanded_cc">
+        <item>#5c292929</item>
+        <item>100</item>
+        <item>#ff29b500</item>
+        <item>106</item>
+     </array>
+     <array name="miui_seekbar_fg_blend_colors_disabled_collapsed">
+        <item>#4d666666</item>
+        <item>100</item>
+        <item>#ff73d900</item>
+        <item>106</item>
+     </array>
+     <array name="miui_seekbar_fg_blend_colors_disabled_expanded">
+        <item>#4d666666</item>
+        <item>100</item>
+        <item>#ff73d900</item>
+        <item>106</item>
+     </array>
+     <array name="miui_seekbar_fg_blend_colors_disabled_expanded_cc">
+        <item>#5c949494</item>
+        <item>100</item>
+        <item>#ff75cc00</item>
+        <item>106</item>
+     </array>
+     <array name="miui_seekbar_fg_blend_colors_expanded_cc">
+        <item>#cc949494</item>
+        <item>100</item>
+        <item>#ffe6ff00</item>
+        <item>106</item>
+     </array>
+     <array name="miui_seekbar_icon_blend_colors_expanded_cc">
+        <item>#5c292929</item>
+        <item>100</item>
+        <item>#ff4dcc00</item>
+        <item>106</item>
+     </array>
+     <array name="secondary_panel_background_blend_colors">
+        <item>#5c292929</item>
+        <item>100</item>
+        <item>#ff129900</item>
+        <item>106</item>
+     </array>
+     <array name="secondary_panel_slider_icon_blend_colors">
+        <item>#5c292929</item>
+        <item>100</item>
+        <item>#ff42cc00</item>
+        <item>106</item>
+     </array>
+     <array name="secondary_panel_slider_progress_bg_blend_colors">
+        <item>#5c292929</item>
+        <item>107</item>
+        <item>#ff2ea300</item>
+        <item>106</item>
+     </array>
+     <array name="secondary_panel_slider_progress_blend_colors">
+        <item>#66cccccc</item>
+        <item>107</item>
+        <item>#ffe6ff00</item>
+        <item>106</item>
+     </array>
+     <array name="secondary_panel_tile_icon_blend_colors">
+        <item>#5c292929</item>
+        <item>100</item>
+        <item>#ff29b500</item>
+        <item>106</item>
+     </array>
+     <array name="toggle_slider_progress_disabled_blend_colors">
+        <item>#4d666666</item>
+        <item>100</item>
+        <item>#ff73d900</item>
+        <item>106</item>
+     </array>
+     <array name="toggle_slider_restricted_blend_colors">
+        <item>#99949494</item>
+        <item>100</item>
+        <item>#ff80f000</item>
+        <item>106</item>
+     </array>
+</resources>

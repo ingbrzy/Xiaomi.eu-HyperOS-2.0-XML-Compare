@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="chooser_title_non_profile">Choose a device to be managed by &lt;strong>%1$s&lt;/strong></string>
+     <string name="consent_cancel">Cancel</string>
+     <string name="helper_summary_app_streaming_with_mirroring">%1$s is requesting permission on behalf of your %2$s to display and stream apps between your devices</string>
+     <string name="permission_media_routing_control">Change media output</string>
+     <string name="permission_media_routing_control_summary">Access a list of available devices and control which one streams or casts audio or video from other apps</string>
+     <string name="permission_notification_listener_access_summary">Read all notifications, including information like contacts, messages, and photos</string>
+     <string name="permission_notifications">Notifications</string>
+     <string name="permission_notifications_summary">"• Read all notifications, including info like contacts, messages, and photos&lt;br/>• Send notifications&lt;br/>&lt;br/>You can manage this app's ability to read and send notifications anytime in Settings > Notifications."</string>
+     <string name="summary_app_streaming">%1$s will have access to anything that’s visible or played on the phone, including audio, photos, passwords, and messages.&lt;br/>&lt;br/>%1$s will be able to stream apps until you remove access to this permission.</string>
+     <string name="summary_glasses">This app will be allowed to access these permissions on your %1$s</string>
+     <string name="summary_nearby_device_streaming">%1$s will have access to anything that’s visible or played on your phone, including audio, photos, payment info, passwords, and messages.&lt;br/>&lt;br/>%1$s will be able to stream apps and system features until you remove access to this permission.</string>
+     <string name="title_app_streaming_with_mirroring">Allow &lt;strong>%1$s&lt;/strong> to stream your phone’s apps?</string>
+     <string name="title_nearby_device_streaming_with_mirroring">Allow &lt;strong>%1$s&lt;/strong> to stream your phone’s apps and system features?</string>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="all_alarm_close">All alarms are off</string>
+     <string name="aod_timer_pause">Timer paused</string>
+     <string name="aod_timer_running">Timer running</string>
+     <string name="bottomsheet_action_collapse">Collapse the bottom sheet</string>
+     <string name="bottomsheet_action_expand">Expand the bottom sheet</string>
+     <string name="bottomsheet_drag_handle_clicked">Drag handle double-tapped</string>
+     <string name="bottomsheet_drag_handle_content_description">Drag handle</string>
+     <string name="clock_tab_name">World clock</string>
+     <string name="enter_label">Enter label</string>
+     <string name="miuix_bottom_sheet_behavior">miuix.bottomsheet.BottomSheetBehavior</string>
+     <string name="modify_alarm">Edit alarm</string>
+     <string name="status_bar_alarm_alert">Alarm ringing</string>
+     <string name="timer_keep_screen_on">Keep screen on</string>
+     <string name="timer_pause_notification">Paused</string>
+     <string name="timer_running_notification">Timer</string>
+     <string name="timer_screen_on">Screen stays on</string>
+     <string name="timer_screen_turn_on">Keep screen on</string>
+     <string name="timezone_null_massage">Nothing here yet</string>
+     <string name="world_edit_actionbar_subtitle">The widget will display the first %d locations</string>
+     <string name="world_edit_actionbar_title">Select locations</string>
+     <string name="world_edit_local_default">"Local time | "</string>
+     <string name="worldcolock_time_date_new">MM/dd</string>
+</resources>

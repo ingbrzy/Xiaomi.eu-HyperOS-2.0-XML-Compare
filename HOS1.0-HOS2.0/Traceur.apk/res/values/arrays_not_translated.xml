@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string-array name="continuous_heap_dump_interval_names">
+        <item>@string/five_seconds</item>
+        <item>@string/ten_seconds</item>
+        <item>@string/thirty_seconds</item>
+        <item>@string/one_minute</item>
+     </string-array>
+     <string-array name="continuous_heap_dump_interval_values">
+        <item>5</item>
+        <item>10</item>
+        <item>30</item>
+        <item>@string/default_continuous_heap_dump_interval</item>
+     </string-array>
+</resources>

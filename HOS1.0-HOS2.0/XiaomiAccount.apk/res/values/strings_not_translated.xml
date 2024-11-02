@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="fb_login_protocol_scheme">fb2263965750590514</string>
+     <string name="fido_history_account">Xiaomi Account history</string>
+     <string name="miuix_font_style_misans_bold_font_family">mipro-bold</string>
+     <string name="miuix_font_style_misans_demibold_font_family">sans-serif-medium</string>
+     <string name="miuix_font_style_misans_extralight_font_family">sans-serif-thin</string>
+     <string name="miuix_font_style_misans_font_family">sans-serif</string>
+     <string name="miuix_font_style_misans_heavy_font_family">sans-serif-black</string>
+     <string name="miuix_font_style_misans_light_font_family">sans-serif-light</string>
+     <string name="miuix_font_style_misans_medium_font_family">sans-serif-medium</string>
+     <string name="miuix_font_style_misans_normal_font_family">sans-serif-light</string>
+     <string name="miuix_font_style_misans_regular_font_family">sans-serif</string>
+     <string name="miuix_font_style_misans_semibold_font_family">mipro-semibold</string>
+     <string name="miuix_font_style_misans_thin_font_family">sans-serif-thin</string>
+     <string name="passport_request_permission_title">Permissions required</string>
+     <string name="passport_third_sns_service_unavailable">"The service isn't available. Make sure the app is installed and not blocked."</string>
+     <string name="qr_code_login_hint">"Couldn't sign in.
+Scan the code below with a Xiaomi app."</string>
+     <string name="qr_code_login_is_loading">Just a sec…</string>
+     <string name="qr_code_login_is_reloading">Just a sec…</string>
+     <string name="qr_code_login_load_failed">Reloading QR code…</string>
+     <string name="qr_code_login_userid_hint">Xiaomi Account: %s</string>
+</resources>

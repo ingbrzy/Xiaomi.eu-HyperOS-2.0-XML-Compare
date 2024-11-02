@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="diversion_online_button">Watch more videos</string>
+     <string name="vip_permission">By purchasing, you agree to the &lt;a href=%1$s>MangoTV Terms of Service&lt;/a>. If you have any questions, view our &lt;a href=%2$s>FAQ and feedback&lt;/a>.</string>
+</resources>

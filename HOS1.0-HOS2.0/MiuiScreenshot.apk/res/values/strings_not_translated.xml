@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="apple">Apple</string>
+     <string name="global_help">Help</string>
+     <string name="global_imac">My iMac</string>
+     <string name="global_ipad">My iPad</string>
+     <string name="global_iphone">My iPhone</string>
+     <string name="global_macbook">My MacBook</string>
+     <string name="global_macmini">My Mac mini</string>
+     <string name="global_macpro">My Mac Pro</string>
+     <string name="global_macstudio">My Mac Studio</string>
+     <string name="imac">iMac</string>
+     <string name="ipad">iPad</string>
+     <string name="iphone">iPhone</string>
+     <string name="mac">Mac</string>
+     <string name="mac_mini">Mac mini</string>
+     <string name="mac_pro">Mac Pro</string>
+     <string name="mac_studio">Mac Studio</string>
+     <string name="macbook">MacBook</string>
+     <string name="miuix_font_style_misans_bold_font_family">mipro-bold</string>
+     <string name="miuix_font_style_misans_demibold_font_family">sans-serif-medium</string>
+     <string name="miuix_font_style_misans_extralight_font_family">sans-serif-thin</string>
+     <string name="miuix_font_style_misans_font_family">sans-serif</string>
+     <string name="miuix_font_style_misans_heavy_font_family">sans-serif-black</string>
+     <string name="miuix_font_style_misans_light_font_family">sans-serif-light</string>
+     <string name="miuix_font_style_misans_medium_font_family">sans-serif-medium</string>
+     <string name="miuix_font_style_misans_normal_font_family">sans-serif-light</string>
+     <string name="miuix_font_style_misans_regular_font_family">sans-serif</string>
+     <string name="miuix_font_style_misans_semibold_font_family">mipro-semibold</string>
+     <string name="miuix_font_style_misans_thin_font_family">sans-serif-thin</string>
+     <string name="motorola">Motorola</string>
+     <string name="motorola_phone">Motorola phone</string>
+     <string name="nio">NIO</string>
+     <string name="nio_phone">NIO phone</string>
+</resources>

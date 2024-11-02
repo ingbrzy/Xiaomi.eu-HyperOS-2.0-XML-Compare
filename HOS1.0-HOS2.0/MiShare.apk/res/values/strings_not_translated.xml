@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="androidx_startup">androidx.startup</string>
+     <string name="call_notification_answer_action">Answer</string>
+     <string name="call_notification_answer_video_action">Video</string>
+     <string name="call_notification_decline_action">Decline</string>
+     <string name="call_notification_hang_up_action">Hang Up</string>
+     <string name="call_notification_incoming_text">Incoming call</string>
+     <string name="call_notification_ongoing_text">Ongoing call</string>
+     <string name="call_notification_screening_text">Screening an incoming call</string>
+     <string name="err_send_short_connect_error">"Couldn't connect"</string>
+     <string name="err_send_short_remote_busy">Busy</string>
+     <string name="err_send_short_remote_cancel">Canceled</string>
+     <string name="err_send_short_remote_refuse">Rejected</string>
+     <string name="err_send_short_remote_timeout">No response</string>
+     <string name="global_help">Help</string>
+     <string name="guide_summary_1_lyra">You can turn on Xiaomi Share in Control center</string>
+     <string name="guide_title_1_lyra">Turn on Xiaomi Share to receive files</string>
+     <string name="miuix_font_style_misans_bold_font_family">mipro-bold</string>
+     <string name="miuix_font_style_misans_demibold_font_family">sans-serif-medium</string>
+     <string name="miuix_font_style_misans_extralight_font_family">sans-serif-thin</string>
+     <string name="miuix_font_style_misans_font_family">sans-serif</string>
+     <string name="miuix_font_style_misans_heavy_font_family">sans-serif-black</string>
+     <string name="miuix_font_style_misans_light_font_family">sans-serif-light</string>
+     <string name="miuix_font_style_misans_medium_font_family">sans-serif-medium</string>
+     <string name="miuix_font_style_misans_normal_font_family">sans-serif-light</string>
+     <string name="miuix_font_style_misans_regular_font_family">sans-serif</string>
+     <string name="miuix_font_style_misans_semibold_font_family">mipro-semibold</string>
+     <string name="miuix_font_style_misans_thin_font_family">sans-serif-thin</string>
+     <string name="motorola">Motorola</string>
+     <string name="motorola_phone">Motorola phone</string>
+     <string name="nio">NIO</string>
+     <string name="nio_phone">NIO phone</string>
+     <string name="sub_title_mishare_switch_all">You can receive all files</string>
+     <string name="sub_title_mishare_switch_mine">You can receive files from devices signed in to your account</string>
+     <string name="sub_title_mishare_switch_none">Turn on Xiaomi Share to be able to receive files</string>
+     <string name="switch_mode_all">From anyone (for %dm)</string>
+     <string name="switch_mode_close">Off</string>
+     <string name="switch_mode_sameaccount">From this account</string>
+     <string name="toast_or_desc_advert_all_close">Xiaomi Share is off</string>
+     <string name="toast_or_desc_advert_all_open">Xiaomi Share is on for %d minutes</string>
+     <string name="transfer_to_different_account_summary">Make sure Xiaomi Share is turned on in Control center first. Your device will be discoverable to others for %d minutes.</string>
+     <string name="transfer_to_different_account_title">Discovering devices under different accounts</string>
+     <string name="transfer_to_same_account_summary">Devices under the same account should be easily discoverable. Make sure Xiaomi Share is turned on in Settings.</string>
+     <string name="transfer_to_same_account_title">Discovering devices under the same account</string>
+</resources>

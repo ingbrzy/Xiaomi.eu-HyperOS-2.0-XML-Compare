@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="android.credentials.TYPE_PASSWORD_CREDENTIAL">Password</string>
+     <string name="androidx.credentials.TYPE_PUBLIC_KEY_CREDENTIAL">Passkey</string>
+     <string name="continuity_credential_dialog_btn_positive">Allow</string>
+     <string name="continuity_credential_dialog_content">%1$s is requesting to use your passkey \"%2$s\" to sign in to %3$s.</string>
+     <string name="continuity_credential_dialog_title">Allow %s to use passkey</string>
+     <string name="continuity_credential_notification_content">%s is requesting to verify a passkey</string>
+     <string name="continuity_credential_request_expire">Verification has expired</string>
+     <string name="create_creadential_need_enrolled_fingerprints_desc">Record a fingerprint to be able to use a passkey.</string>
+     <string name="create_creadential_need_enrolled_fingerprints_title">Record fingerprint</string>
+     <string name="create_creadential_need_open_sync_desc">Turn on Password manager to be able to manage and use passkeys across all your Xiaomi devices.</string>
+     <string name="create_creadential_need_open_sync_title">Turn on Password manager</string>
+     <string name="create_time">Created</string>
+     <string name="credential_desc">Passkey</string>
+     <string name="credential_manage_desc">Passkeys allow you to sign in to your accounts more quickly and securely than conventional sign-in methods. This passkey is associated with your fingerprint on this Xiaomi device and is synced between devices via Xiaomi Cloud services.</string>
+     <string name="credential_notification_login_account_desc">Sign in to your Xiaomi Account to be able to use a passkey.</string>
+     <string name="credential_notification_open_sync_desc">Turn on Password manager to be able to use a passkey.</string>
+     <string name="del_credential_btn_text">Delete</string>
+     <string name="del_credential_dialog_title">Delete passkey</string>
+     <string name="del_credential_err_notify">"Couldn't delete. Try again."</string>
+     <string name="del_credential_progress_text">Deleting…</string>
+     <string name="miuix_font_style_misans_bold_font_family">mipro-bold</string>
+     <string name="miuix_font_style_misans_demibold_font_family">sans-serif-medium</string>
+     <string name="miuix_font_style_misans_extralight_font_family">sans-serif-thin</string>
+     <string name="miuix_font_style_misans_font_family">sans-serif</string>
+     <string name="miuix_font_style_misans_heavy_font_family">sans-serif-black</string>
+     <string name="miuix_font_style_misans_light_font_family">sans-serif-light</string>
+     <string name="miuix_font_style_misans_medium_font_family">sans-serif-medium</string>
+     <string name="miuix_font_style_misans_normal_font_family">sans-serif-light</string>
+     <string name="miuix_font_style_misans_regular_font_family">sans-serif</string>
+     <string name="miuix_font_style_misans_semibold_font_family">mipro-semibold</string>
+     <string name="miuix_font_style_misans_thin_font_family">sans-serif-thin</string>
+     <string name="open">Turn on</string>
+     <string name="setting">Record</string>
+</resources>

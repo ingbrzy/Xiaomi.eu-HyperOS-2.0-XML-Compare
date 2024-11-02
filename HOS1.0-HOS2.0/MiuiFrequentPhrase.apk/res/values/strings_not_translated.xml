@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="across_device_file_temp_name">Copied files</string>
+     <string name="across_device_image_temp_name">Copied images</string>
+     <string name="across_device_videos_temp_name">Copied videos</string>
+     <string name="add_common_phrases">Add frequent phrase</string>
+     <string name="call_notification_answer_action">Answer</string>
+     <string name="call_notification_answer_video_action">Video</string>
+     <string name="call_notification_decline_action">Decline</string>
+     <string name="call_notification_hang_up_action">Hang Up</string>
+     <string name="call_notification_incoming_text">Incoming call</string>
+     <string name="call_notification_ongoing_text">Ongoing call</string>
+     <string name="call_notification_screening_text">Screening an incoming call</string>
+     <string name="clipboard_sync_phrase_cta_description">You can use Clipboard and frequent phrases to add common phrases, copy multiple items, and paste them across devices.</string>
+     <string name="clipboard_sync_phrase_cta_label">Clipboard and frequent phrases</string>
+     <string name="clipboard_sync_phrase_cta_perm_desc">For accessing photos, media, and files on your device</string>
+     <string name="close_clipboard">Hide clipboard</string>
+     <string name="delete_this_item">Delete this item</string>
+     <string name="edit_this_item">Edit this item</string>
+     <string name="input_method_clipboard_across_tip_pad">From my tablet</string>
+     <string name="input_method_clipboard_across_tip_pc">From my computer</string>
+     <string name="input_method_clipboard_across_tip_phone">From my phone</string>
+     <string name="input_method_clipboard_commit_failed">"Can't paste this item"</string>
+     <string name="input_method_clipboard_commit_img_failed">"Can't paste images on this page"</string>
+     <string name="input_method_clipboard_list_loading">Just a sec…</string>
+     <string name="input_method_phrase_no_content_text">Add commonly used phrases to quickly insert them when editing</string>
+     <string name="miuix_font_style_misans_bold_font_family">mipro-bold</string>
+     <string name="miuix_font_style_misans_demibold_font_family">sans-serif-medium</string>
+     <string name="miuix_font_style_misans_extralight_font_family">sans-serif-thin</string>
+     <string name="miuix_font_style_misans_font_family">sans-serif</string>
+     <string name="miuix_font_style_misans_heavy_font_family">sans-serif-black</string>
+     <string name="miuix_font_style_misans_light_font_family">sans-serif-light</string>
+     <string name="miuix_font_style_misans_medium_font_family">sans-serif-medium</string>
+     <string name="miuix_font_style_misans_normal_font_family">sans-serif-light</string>
+     <string name="miuix_font_style_misans_regular_font_family">sans-serif</string>
+     <string name="miuix_font_style_misans_semibold_font_family">mipro-semibold</string>
+     <string name="miuix_font_style_misans_thin_font_family">sans-serif-thin</string>
+     <string name="open_the_taobao_password">Open Taobao link</string>
+     <string name="open_the_url">Open URL</string>
+</resources>

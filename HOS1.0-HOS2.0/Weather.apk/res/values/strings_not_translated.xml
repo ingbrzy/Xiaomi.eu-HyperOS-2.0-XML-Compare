@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="act_find_city_major_city_title">Popular locations</string>
+     <string name="act_find_city_search_history_title">Search history</string>
+     <string name="button_manage">Manage</string>
+     <string name="city_exceeded_tips">"Can't add more locations. Remove some locations before adding a new one."</string>
+     <string name="city_exceeded_tips_title">"Can't add location"</string>
+     <string name="content_desc_activity_main_already_add_city">Added locations</string>
+     <string name="dislike_alert_dialog_title">Why do not you want to see this content?</string>
+     <string name="miuix_font_style_misans_bold_font_family">mipro-bold</string>
+     <string name="miuix_font_style_misans_demibold_font_family">sans-serif-medium</string>
+     <string name="miuix_font_style_misans_extralight_font_family">sans-serif-thin</string>
+     <string name="miuix_font_style_misans_font_family">sans-serif</string>
+     <string name="miuix_font_style_misans_heavy_font_family">sans-serif-black</string>
+     <string name="miuix_font_style_misans_light_font_family">sans-serif-light</string>
+     <string name="miuix_font_style_misans_medium_font_family">sans-serif-medium</string>
+     <string name="miuix_font_style_misans_normal_font_family">sans-serif-light</string>
+     <string name="miuix_font_style_misans_regular_font_family">sans-serif</string>
+     <string name="miuix_font_style_misans_semibold_font_family">mipro-semibold</string>
+     <string name="miuix_font_style_misans_thin_font_family">sans-serif-thin</string>
+     <string name="thanku_for_feedback">Thanks for feedback, you can re-open the weather video on the settings page</string>
+</resources>

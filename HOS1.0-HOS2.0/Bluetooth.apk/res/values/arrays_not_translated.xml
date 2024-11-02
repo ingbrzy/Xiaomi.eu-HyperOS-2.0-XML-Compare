@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <integer-array name="conversational_use_case_policy">
+        <item>2</item>
+        <item>1</item>
+     </integer-array>
+     <integer-array name="default_use_case_policy">
+        <item>2</item>
+        <item>1</item>
+     </integer-array>
+     <integer-array name="game_use_case_policy">
+        <item>22</item>
+        <item>1</item>
+     </integer-array>
+     <integer-array name="live_use_case_policy">
+        <item>22</item>
+        <item>1</item>
+     </integer-array>
+     <integer-array name="media_use_case_policy">
+        <item>2</item>
+        <item>1</item>
+     </integer-array>
+</resources>

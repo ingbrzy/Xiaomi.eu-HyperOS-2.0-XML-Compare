@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="brightness_setting_panel_title">Brightness settings panel</string>
+     <string name="highlightTitleFontV2">mipro-medium</string>
+     <string name="menu_new_display_open">用新窗口打开</string>
+     <string name="menu_pc_open">用电脑程序打开</string>
+     <string name="miplay_accessibility_video_fastForward">Fast forward %d seconds</string>
+     <string name="miplay_accessibility_video_rewind">Rewind %d seconds</string>
+     <string name="miplay_service_error_not_support">"This action isn't supported"</string>
+     <string name="miuix_font_style_misans_bold_font_family">mipro-bold</string>
+     <string name="miuix_font_style_misans_demibold_font_family">sans-serif-medium</string>
+     <string name="miuix_font_style_misans_extralight_font_family">sans-serif-thin</string>
+     <string name="miuix_font_style_misans_font_family">sans-serif</string>
+     <string name="miuix_font_style_misans_heavy_font_family">sans-serif-black</string>
+     <string name="miuix_font_style_misans_light_font_family">sans-serif-light</string>
+     <string name="miuix_font_style_misans_medium_font_family">sans-serif-medium</string>
+     <string name="miuix_font_style_misans_normal_font_family">sans-serif-light</string>
+     <string name="miuix_font_style_misans_regular_font_family">sans-serif</string>
+     <string name="miuix_font_style_misans_semibold_font_family">mipro-semibold</string>
+     <string name="miuix_font_style_misans_thin_font_family">sans-serif-thin</string>
+     <string name="notification_status_bar">Notifications &amp; status bar</string>
+     <string name="quick_settings_aitranslate_label_new">Translate</string>
+     <string name="quick_settings_voice_trans_label">Interpret audio</string>
+     <string name="quick_settings_voice_trans_label_new">Interpret</string>
+     <string name="super_volume_text_percent">%</string>
+     <string name="titleFontV2">mipro-demibold</string>
+     <string name="volume_adjust_panel_title">Volume adjustment panel</string>
+</resources>

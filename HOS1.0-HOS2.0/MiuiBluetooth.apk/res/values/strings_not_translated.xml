@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="app_name_qigsaw">Qigsaw</string>
+     <string name="bt_plugin_update_dialog_updating">bluetooth%1$supdating</string>
+     <string name="celluar_shared_connect_auto_connect">自动连接</string>
+     <string name="celluar_shared_connect_control_center">控制中心</string>
+     <string name="celluar_shared_connect_device_center">设备中心</string>
+     <string name="celluar_shared_connect_status_bar">灵动岛</string>
+     <string name="celluar_tether_disconnect_notify">Your phone is connected to EV. Turn off interconnectivity on the phone and try again.</string>
+     <string name="device_busy_notify">Device is busy. Wait a minute or two and try again.</string>
+     <string name="easy_tether_auto_connect_toast">"Connected to %1$s's hotspot. Set data limits in that device's Settings > Personal hotspot."</string>
+     <string name="easy_tether_connect_control_center">控制中心_Wi-Fi列表</string>
+     <string name="easy_tether_connect_settings">设置_Wi-Fi列表</string>
+     <string name="easy_tether_statusbar_connect_title_v3">Use %1$s hotspot</string>
+     <string name="fast_connect_miot_stabilizer_device_connect_done">Connected</string>
+     <string name="fast_connect_miot_stabilizer_device_connect_open_camera">Camera</string>
+     <string name="fast_connect_reset_common_redmikeyboard">Press and hold Ctrl+F+R for %d seconds to start pairing</string>
+     <string name="headset_dual_device">Device using automatic headphone connection, dual device connection disabled.</string>
+     <string name="lyra_account_ap_summary">Allow nearby tablets and computers signed in to your Xiaomi Account to turn on the hotspot on this device and connect to it</string>
+     <string name="lyra_account_ap_title">Network assistance</string>
+     <string name="lyra_auto_connect_cancel">Cancel</string>
+     <string name="lyra_auto_connect_check_box">Connect devices signed in to your Xiaomi Account automatically (you can turn this feature off in Settings later)</string>
+     <string name="lyra_auto_connect_confirm">Connect</string>
+     <string name="lyra_auto_connect_header">%1$s hotspot</string>
+     <string name="lyra_auto_connect_msg">"Looks like this device isn't connected to the network. You can connect to this hotspot."</string>
+     <string name="lyra_auto_connect_summary">"Turn on the hotspot automatically and connect nearby devices signed in to your Xiaomi Account to it if they aren't connected to the network"</string>
+     <string name="lyra_auto_connect_title">Turn on hotspot automatically</string>
+     <string name="miuix_font_style_misans_bold_font_family">mipro-bold</string>
+     <string name="miuix_font_style_misans_demibold_font_family">sans-serif-medium</string>
+     <string name="miuix_font_style_misans_extralight_font_family">sans-serif-thin</string>
+     <string name="miuix_font_style_misans_font_family">sans-serif</string>
+     <string name="miuix_font_style_misans_heavy_font_family">sans-serif-black</string>
+     <string name="miuix_font_style_misans_light_font_family">sans-serif-light</string>
+     <string name="miuix_font_style_misans_medium_font_family">sans-serif-medium</string>
+     <string name="miuix_font_style_misans_normal_font_family">sans-serif-light</string>
+     <string name="miuix_font_style_misans_regular_font_family">sans-serif</string>
+     <string name="miuix_font_style_misans_semibold_font_family">mipro-semibold</string>
+     <string name="miuix_font_style_misans_thin_font_family">sans-serif-thin</string>
+     <string name="stylus_firmware_failed_summaryV2">Make sure location services are turned on, restart Bluetooth, and try again when the stylus is connected via Bluetooth</string>
+     <string name="stylus_firmware_success_summaryV2">Reconnect the stylus via Bluetooth</string>
+     <string name="stylus_firmware_update">Firmware update</string>
+</resources>

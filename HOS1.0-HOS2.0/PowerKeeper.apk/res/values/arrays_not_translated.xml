@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string-array name="dfs_app_tracking_international">
+        <item>com.miHoYo.Yuanshen</item>
+     </string-array>
+     <string-array name="dfs_support_devices">
+        <item>shennong</item>
+        <item>houji</item>
+        <item>aurora</item>
+        <item>garnet</item>
+        <item>manet</item>
+        <item>vermeer</item>
+        <item>ruyi</item>
+        <item>peridot</item>
+        <item>rothko</item>
+        <item>chenfeng</item>
+        <item>goku</item>
+        <item>uke</item>
+        <item>muyu</item>
+        <item>haotian</item>
+        <item>dada</item>
+        <item>babylon</item>
+        <item>amethyst</item>
+     </string-array>
+     <string-array name="dfs_support_devices_international">
+        <item>shennong</item>
+        <item>houji</item>
+        <item>aurora</item>
+        <item>garnet</item>
+        <item>peridot</item>
+        <item>ruyi</item>
+        <item>goku</item>
+        <item>uke</item>
+        <item>muyu</item>
+        <item>haotian</item>
+        <item>dada</item>
+        <item>amethyst</item>
+     </string-array>
+</resources>
