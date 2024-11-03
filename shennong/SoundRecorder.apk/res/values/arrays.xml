@@ -491,65 +491,9 @@
         <item>#ffff8514</item>
         <item>#ffff5b29</item>
     </array>
-    <string-array name="support_ai_devices_cn">
-        <item>haotian</item>
-        <item>dada</item>
-        <item>muyu</item>
-        <item>uke</item>
-        <item>rothko</item>
-        <item>duchamp</item>
-        <item>ruyi</item>
-        <item>goku</item>
-        <item>aurora</item>
-        <item>shennong</item>
-        <item>houji</item>
-        <item>manet</item>
-        <item>vermeer</item>
-        <item>sheng</item>
-        <item>corot</item>
-        <item>rodin</item>
-        <item>xuanyuan</item>
-        <item>zorn</item>
-        <item>miro</item>
-        <item>dijun</item>
-        <item>jinghu</item>
-        <item>chenfeng</item>
-        <item>peridot</item>
-        <item>liuqin</item>
-        <item>yudi</item>
-        <item>babylon</item>
-        <item>ishtar</item>
-        <item>nuwa</item>
-        <item>fuxi</item>
-        <item>socrates</item>
-        <item>pipa</item>
-        <item>bixi</item>
-        <item>nirvana</item>
-        <item>dali</item>
-    </string-array>
-    <string-array name="support_ai_devices_global">
-        <item>houji</item>
-        <item>aurora</item>
-        <item>sheng</item>
-        <item>rothko</item>
-        <item>degas</item>
-        <item>XIG06</item>
-        <item>XIG07</item>
-        <item>ruyi</item>
-        <item>vermeer</item>
-        <item>xuanyuan</item>
-        <item>dada</item>
-        <item>muyu</item>
-        <item>uke</item>
-        <item>zorn</item>
-        <item>miro</item>
-        <item>chenfeng</item>
-        <item>peridot</item>
-        <item>amethyst</item>
-    </string-array>
-    <string-array name="support_ai_devices_special">
-        <item>malachite</item>
-    </string-array>
+    <array name="support_ai_devices_cn" />
+    <array name="support_ai_devices_global" />
+    <array name="support_ai_devices_special" />
     <string-array name="week_days">
         <item>@string/sunday</item>
         <item>@string/monday</item>
