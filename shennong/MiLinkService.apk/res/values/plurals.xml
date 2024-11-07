@@ -108,6 +108,10 @@
         <item quantity="other">%1$d added patterns</item>
         <item quantity="one">%1$d added pattern</item>
     </plurals>
+    <plurals name="tv_remote_auth_count_down">
+        <item quantity="other">"Enter %1$s's code (%2$ds)"</item>
+        <item quantity="one">"Enter %1$s's code (%2$ds)"</item>
+    </plurals>
     <plurals name="un_remember_number_habit">
         <item quantity="other">%1$d pending patterns</item>
         <item quantity="one">%1$d pending pattern</item>
