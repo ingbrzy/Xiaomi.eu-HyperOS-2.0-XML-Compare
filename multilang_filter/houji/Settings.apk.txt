@@ -165,6 +165,7 @@ Removed: [nl] arrays.xml: array/bluetooth_a2dp_codec_sample_rate_titles (wrong i
 Removed: [nl] arrays.xml: array/bt_hci_snoop_log_entries (wrong item count)
 Removed: [pl] arrays.xml: array/bluetooth_a2dp_codec_sample_rate_summaries (wrong item count)
 Removed: [pl] arrays.xml: array/bluetooth_a2dp_codec_sample_rate_titles (wrong item count)
+Removed: [pl] plurals.xml: plurals/musical_rhythm_app_summary (wrong item format)
 Removed: [pt-rBR] arrays.xml: array/bt_hci_snoop_log_entries (wrong item count)
 Removed: [pt-rPT] strings.xml: string/sms_change_default_dialog_text (wrong attributes)
 Removed: [pt-rPT] strings.xml: string/usage_state_work_day_hour_minute (wrong attributes)
