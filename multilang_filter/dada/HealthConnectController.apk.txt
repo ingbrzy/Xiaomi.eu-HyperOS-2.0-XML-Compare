@@ -1,6 +1,5 @@
 Removed: [ar] strings.xml: string/automatic_export_status (wrong attributes)
 Removed: [az] strings.xml: string/automatic_export_status (wrong attributes)
-Removed: [be] strings.xml: string/automatic_export_status (wrong attributes)
 Removed: [bg] strings.xml: string/automatic_export_status (wrong attributes)
 Removed: [ca] strings.xml: string/automatic_export_status (wrong attributes)
 Removed: [cs] strings.xml: string/automatic_export_status (wrong attributes)
