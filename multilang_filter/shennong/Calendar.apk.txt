@@ -186,6 +186,8 @@ Removed: [vi] strings.xml: string/accessibility_month_page_selected_prefix (wron
 Removed: [vi] strings.xml: string/gas_detail_deadline (wrong format)
 Removed: [zh-rCN] strings.xml: string/birthday_notification_text_today (wrong format)
 Removed: [zh-rCN] strings.xml: string/monthly_on_day (wrong format)
+Removed: [zh-rCN] strings.xml: string/desk_calendar_store_title (duplicate)
+Removed: [zh-rCN] strings.xml: string/save_to_local_icon_name (duplicate)
 Removed: [zh-rHK] strings.xml: string/birthday_notification_text_today (wrong format)
 Removed: [zh-rHK] strings.xml: string/monthly_on_day (wrong format)
 Removed: [zh-rTW] strings.xml: string/birthday_notification_text_today (wrong format)
