@@ -1837,7 +1837,7 @@ You haven’t connected to %2$s before."</string>
     <string name="bluetooth_connect_access_dialog_title">Connect to Bluetooth device?</string>
     <string name="bluetooth_connect_access_notification_content">A device wants to connect. Tap for details.</string>
     <string name="bluetooth_connect_access_notification_title">Bluetooth device available</string>
-    <string name="bluetooth_connect_battery_state">%1$s %2$s</string>
+    <string name="bluetooth_connect_battery_state">%1$s%2$s</string>
     <string name="bluetooth_connect_settings">Connection</string>
     <string name="bluetooth_connect_specific_profiles_title">Connect to…</string>
     <string name="bluetooth_connected">Connected%1$s</string>
@@ -2686,7 +2686,6 @@ If this permission is on, the app will be available as an option whenever a tag 
     <string name="charge_animation_style_none">Off</string>
     <string name="charge_animation_style_summary">Choose your preferred lock screen charging animation style</string>
     <string name="charge_animation_style_title">Charging animation</string>
-    <string name="charge_animation_style_video">Glow</string>
     <string name="charge_animation_style_wave">Wave</string>
     <string name="charge_length_format">%1$s ago</string>
     <string name="charging_sounds_title">Charging sounds and vibration</string>

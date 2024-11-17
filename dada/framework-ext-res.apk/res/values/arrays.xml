@@ -8203,6 +8203,9 @@
         <item>com.android.nfc</item>
         <item>com.fingerprints.serviceext</item>
     </string-array>
+    <string-array name="not_start_browser_in_freeform_apps">
+        <item>com.blizzard.wtcg.hearthstone</item>
+    </string-array>
     <string-array name="organized_languages_default">
         <item>zh_CN</item>
         <item>zh_TW</item>
