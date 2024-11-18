@@ -674,6 +674,7 @@ Your admin has the ability to monitor and manage settings, access, apps, and dat
     <string name="advanced_battery_title">Battery usage</string>
     <string name="advanced_gesture">Custom gestures</string>
     <string name="advanced_screen_paper_mode_title">Reading mode</string>
+    <string name="advanced_screen_paper_mode_title_new">Eye comfort</string>
     <string name="advanced_section_header">General</string>
     <string name="advanced_security_title">Advanced</string>
     <string name="advanced_settings">Additional settings</string>
@@ -1306,6 +1307,7 @@ Last ran on %2$s"</string>
     <string name="back_navigation_animation_summary">Enable system animations for predictive back.</string>
     <string name="back_sensitivity_dialog_message">Higher sensitivity may conflict with any app gestures along the edges of the screen.</string>
     <string name="back_sensitivity_dialog_title">Back Sensitivity</string>
+    <string name="back_strap_image_simplified_text">When the device is face down with the screen off, the back light will display notification reminders</string>
     <string name="back_strap_image_text">When the device is face down with the screen off, the back light will display notification reminders and lighting effects for different scenes</string>
     <string name="back_strap_status_close">Off</string>
     <string name="back_strap_status_open">On</string>
@@ -9025,6 +9027,7 @@ All apps in your space and their data will also be permanently deleted from your
     <string name="sar">RF Exposure Information</string>
     <string name="satellite_call_assistant">Call settings</string>
     <string name="satellite_imei_title">IMEI3</string>
+    <string name="satellite_management_title">Satellite network</string>
     <string name="satellite_network_title">Satellite call features</string>
     <string name="satellite_setting">Satellite messaging</string>
     <string name="satellite_setting_disabled_summary">Send and receive text messages by satellite. Non included with your account.</string>
@@ -9059,7 +9062,7 @@ It may take some time for account changes to show in Settings. Contact your carr
     <string name="screen_cancel">Cancel</string>
     <string name="screen_color_and_optimize">Colors &amp; contrast</string>
     <string name="screen_color_and_optimize_disabled">"Can't adjust color scheme and color temperature in Reading mode"</string>
-    <string name="screen_color_preview_ratio">2.6:1</string>
+    <string name="screen_color_preview_ratio">2:1</string>
     <string name="screen_color_temperature">Color temperature</string>
     <string name="screen_color_temperature_and_saturation">Colors &amp; saturation</string>
     <string name="screen_compatibility_label">Screen compatibility</string>
