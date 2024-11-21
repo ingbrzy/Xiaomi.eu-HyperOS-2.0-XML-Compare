@@ -1,4 +1,5 @@
 Removed: [az-rAZ] strings.xml: string/update_loading (wrong format)
+Removed: [bo-rCN] dimens.xml: dimen/miuix_appcompat_button_inline_content_safe_padding_vertical (wrong value unit)
 Removed: [bo-rCN] strings.xml: string/cinemaster_toast_monitor_all_disconnect (wrong format)
 Removed: [bo-rCN] strings.xml: string/friend_mode_intro_3_content (wrong attributes)
 Removed: [cs] strings.xml: string/street_tip_near (wrong format)
