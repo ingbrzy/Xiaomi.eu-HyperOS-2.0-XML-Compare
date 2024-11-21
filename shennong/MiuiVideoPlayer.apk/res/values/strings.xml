@@ -280,7 +280,7 @@
     <string name="columbus_reward_style_speed_confirm">Continue</string>
     <string name="columbus_skip_ad">Skip</string>
     <string name="columbus_skip_ad_time">Skip (%d)</string>
-    <string name="com.crashlytics.android.build_id">dca262a0e7fc441e8e6694b2284b410b</string>
+    <string name="com.crashlytics.android.build_id">062aae00a45d43c8872638c8eec2146a</string>
     <string name="com_permission_desc">"Mi Video can't access videos on your device. Allow access in the Settings."</string>
     <string name="com_permission_title">Permissions required</string>
     <string name="comment_model_add_comment">Add a comment</string>
