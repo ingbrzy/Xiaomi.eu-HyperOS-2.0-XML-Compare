@@ -10,7 +10,6 @@ Removed: [az] strings.xml: string/bluetooth_pairing_pin_error_message (wrong for
 Removed: [az] strings.xml: string/enable_service_title (wrong format)
 Removed: [az-rAZ] arrays.xml: array/default_gallery_package (wrong item count)
 Removed: [az-rAZ] arrays.xml: array/vpn_types (wrong item count)
-Removed: [be] plurals.xml: plurals/musical_rhythm_app_summary (wrong item format)
 Removed: [bg] arrays.xml: array/bluetooth_a2dp_codec_sample_rate_summaries (wrong item count)
 Removed: [bg] arrays.xml: array/bluetooth_a2dp_codec_sample_rate_titles (wrong item count)
 Removed: [bg] arrays.xml: array/bluetooth_a2dp_codec_summaries (wrong item count)
