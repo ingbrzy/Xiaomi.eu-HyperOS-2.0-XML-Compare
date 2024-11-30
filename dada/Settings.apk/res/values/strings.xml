@@ -4667,6 +4667,9 @@ To learn more, contact your credit provider."</string>
     <string name="font_cta_alert_btn_positive">Agree</string>
     <string name="font_cta_alert_message">Read and agree to the terms and conditions of Themes to continue.</string>
     <string name="font_cta_alert_title">Terms and conditions</string>
+    <string name="font_preview_text_content">"Example text:
+
+Xiaomi relentlessly builds amazing products with honest prices to let everyone in the world enjoy a better life through innovative technology."</string>
     <string name="font_scale_percentage">%1$d %%</string>
     <string name="font_setting_weight_toast">"Current font doesn't support adjusting font weight"</string>
     <string name="font_settings_jump">Accessibility > Display size</string>
@@ -8131,13 +8134,17 @@ Read and agree to %s before using this service."</string>
     <string name="photography_handle_button_function_settings">Set up grip button</string>
     <string name="photography_handle_charge_protected">Grip charging protection</string>
     <string name="photography_handle_charge_protected_summary">When camera grip is connected, device will stop charging and keep battery at %1$s</string>
+    <string name="photography_handle_charge_settings">Charging settings</string>
     <string name="photography_handle_charge_state">Charge from camera grips</string>
     <string name="photography_handle_charge_state_summary">"Charge this device from camera grips whenever they're connected"</string>
+    <string name="photography_handle_function_settings">Camera grip settings</string>
     <string name="photography_handle_launch_and_take_photo">Take photo</string>
     <string name="photography_handle_launch_camera">Open camera</string>
     <string name="photography_handle_long_press_camera_key_enter_camera">Press and hold the shutter button to perform an action</string>
     <string name="photography_handle_quick_launch_camera_title">Quick launch</string>
+    <string name="photography_handle_sn">Serial number</string>
     <string name="photography_handle_title">Camera grip</string>
+    <string name="photography_handle_update_and_maintain">Updates</string>
     <string name="physical_keyboard_title">Physical keyboard</string>
     <string name="pick_up_gesture_wakeup_title">Raise to wake</string>
     <string name="picker_text">Time picker</string>
@@ -11096,6 +11103,8 @@ Try using a faster ^3, or use this ^4 for portable storage instead."</string>
     <string name="tethering_help_button_text">Help</string>
     <string name="tethering_interface_options">Tethering</string>
     <string name="tethering_settings_not_available">Change tethering settings in First space</string>
+    <string name="text_layout_optimization_switch_label">Optimize text layout</string>
+    <string name="text_layout_optimization_switch_toast">"Can't optimize text layout with the current font"</string>
     <string name="texture_adjust_temperature_title">Color temperature</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>
     <string name="the_anti_aggression_day">Anti-Aggression Day</string>
@@ -12535,6 +12544,10 @@ Setting the network as hidden will not change your router settings."</string>
     <string name="wifi_protection_tip">Xiaomi will protect your personal data from Wi-Fi probe requests coming from random MAC addresses and Wi-Fi probe sniffers when your device is searching for Wi-Fi networks.</string>
     <string name="wifi_quick_toggle_summary">Turn on Wi-Fi</string>
     <string name="wifi_quick_toggle_title">Wi-Fi</string>
+    <string name="wifi_reconnect_failed_text">Your Wi-Fi password is incorrect. Enter it again.</string>
+    <string name="wifi_reconnect_failed_text_china">Your Wi-Fi password is incorrect. Enter it again.</string>
+    <string name="wifi_reconnect_failed_title">Incorrect Wi-Fi password</string>
+    <string name="wifi_reconnect_failed_title_china">Incorrect Wi-Fi password</string>
     <string name="wifi_region_summary">Requires Wi-Fi to be restarted to take effect</string>
     <string name="wifi_region_title">Wi-Fi region</string>
     <string name="wifi_remembered">Saved</string>
