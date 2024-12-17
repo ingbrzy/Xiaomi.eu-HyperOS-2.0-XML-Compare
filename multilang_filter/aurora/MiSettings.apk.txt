@@ -1,4 +1,5 @@
 Removed: [as-rIN] plurals.xml: plurals/usage_new_home_total_unlocks_new (wrong item format)
+Removed: [az-rAZ] plurals.xml: plurals/usage_new_home_total_unlocks_new (wrong item format)
 Removed: [bn-rBD] plurals.xml: plurals/usage_new_home_total_unlocks_new (wrong item format)
 Removed: [bn-rIN] plurals.xml: plurals/usage_new_home_total_unlocks_new (wrong item format)
 Removed: [bo-rCN] dimens.xml: dimen/miuix_appcompat_button_inline_content_safe_padding_vertical (wrong value unit)
