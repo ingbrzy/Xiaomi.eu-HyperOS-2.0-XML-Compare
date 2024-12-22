@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="ai_button_gradient_border_colors">
+        <item>0x1AFFFFFF</item>
+        <item>0x05FFFFFF</item>
+    </integer-array>
+    <integer-array name="ai_input_gradient_border_colors">
+        <item>0x1FFFFFFF</item>
+        <item>0x08FFFFFF</item>
+    </integer-array>
+    <integer-array name="ai_panel_blend_colors">
+        <item>0xB3363636</item>
+        <item>0xFF1C2600</item>
+    </integer-array>
+    <integer-array name="ai_panel_blend_modes">
+        <item>100</item>
+        <item>106</item>
+    </integer-array>
+    <integer-array name="ai_panel_gradient_border_colors">
+        <item>0x1FFFFFFF</item>
+        <item>0x14FFFFFF</item>
+    </integer-array>
+    <integer-array name="ai_panel_widget_blend_colors">
+        <item>0xCC292929</item>
+        <item>0xFF403600</item>
+    </integer-array>
+    <integer-array name="ai_panel_widget_blend_modes">
+        <item>100</item>
+        <item>106</item>
+    </integer-array>
+    <integer-array name="ai_recommend_bubble_blend_colors">
+        <item>0xB3303030</item>
+        <item>0xFF263300</item>
+    </integer-array>
+    <integer-array name="ai_recommend_icon_blend_colors">
+        <item>0xB3404040</item>
+        <item>0xFF479400</item>
+    </integer-array>
+    <integer-array name="ai_recommend_input_blend_colors">
+        <item>0x4DBABABA</item>
+        <item>0xFF333D00</item>
+    </integer-array>
+    <integer-array name="ai_recommend_tag_gradient_border_colors">
+        <item>0x1AFFFFFF</item>
+        <item>0x05FFFFFF</item>
+    </integer-array>
+    <integer-array name="ai_send_button_gradient_border_colors">
+        <item>0x1AFFFFFF</item>
+        <item>0x08FFFFFF</item>
+    </integer-array>
+    <integer-array name="ai_shader_effect_bg_colors">
+        <item>0x337F46FF</item>
+        <item>0x33FF48B6</item>
+        <item>0x331C8BFF</item>
+        <item>0x33FFB526</item>
+    </integer-array>
+    <integer-array name="ai_shader_panel_rim_colors">
+        <item>0x4D3181FF</item>
+        <item>0x4DFF6E1A</item>
+        <item>0x4D6D5BFF</item>
+        <item>0x4D0044FF</item>
+    </integer-array>
+    <integer-array name="ai_widget_blend_colors">
+        <item>0xCC292929</item>
+        <item>0xFF403600</item>
+    </integer-array>
+</resources>
