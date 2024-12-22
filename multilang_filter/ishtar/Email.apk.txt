@@ -1,0 +1,2 @@
+Removed: [bo-rCN] dimens.xml: dimen/miuix_appcompat_button_inline_content_safe_padding_vertical (wrong value unit)
+Removed: [fr] arrays.xml: array/error_message_respond (wrong item count)
