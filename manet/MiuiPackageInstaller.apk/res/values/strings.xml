@@ -445,6 +445,8 @@
     <string name="install_app_loading">Checking installation package…</string>
     <string name="install_apps_user_restriction_dlg_text">This user is not allowed to install apps</string>
     <string name="install_completed_pure_open_tip_title">Turn on Mi Protect to block risky apps and ensure your security.</string>
+    <string name="install_failed_market_enterprise_limit_reason">This is an internal enterprise app. Total downloads have exceeded the limit set by the company, so downloads are no longer available.</string>
+    <string name="install_failed_market_enterprise_limit_solution">Contact the company or organization and have their developers submit feedback to Xiaomi.</string>
     <string name="install_failed_secure_frp">"For your security, Android doesn't allow apps to be installed immediately after a device is reset if your Google Account is still signed in."</string>
     <string name="install_failed_secure_frp_suggestion">"Step 1: Tap \"Basic Google services\" and turn it on.
 Step 2: Add the Google Account you were signed in with before you reset your device.
@@ -1350,6 +1352,9 @@ Enhanced protection"</string>
     <string name="v7_preference_off">OFF</string>
     <string name="v7_preference_on">ON</string>
     <string name="verification_word">Verify</string>
+    <string name="verified_app_hint_content">"The app you're about to install comes from \"%1$s\""</string>
+    <string name="verified_app_hint_title">Source company</string>
+    <string name="verified_app_logo_text">Internal enterprise app</string>
     <string name="verify_account_default_title">Verify your identity</string>
     <string name="verify_account_title">Verify your identity</string>
     <string name="verify_and_install">Install</string>
@@ -1376,6 +1381,7 @@ Enhanced protection"</string>
     <string name="why_enhanced_protection_1">为什么需要开启</string>
     <string name="why_enhanced_protection_2">增强防护模式？</string>
     <string name="xiaomi_account_risk">Mi Account password</string>
+    <string name="xiaomi_getapps">GetApps</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Not now</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Update</string>
     <string name="xiaomi_market_sdk_update_dialog_title">An update is available</string>

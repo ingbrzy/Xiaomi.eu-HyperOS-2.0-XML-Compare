@@ -556,6 +556,13 @@
     <string name="global_actions_shutdown">Power off</string>
     <string name="global_actions_silent_mode">Silent mode</string>
     <string name="global_help">"Can't find device"</string>
+    <string name="global_imac">My iMac</string>
+    <string name="global_ipad">My iPad</string>
+    <string name="global_iphone">My iPhone</string>
+    <string name="global_macbook">My MacBook</string>
+    <string name="global_macmini">My Mac mini</string>
+    <string name="global_macpro">My Mac Pro</string>
+    <string name="global_macstudio">My Mac Studio</string>
     <string name="global_pad">My tablet</string>
     <string name="global_pc">My laptop</string>
     <string name="global_phone">My phone</string>
