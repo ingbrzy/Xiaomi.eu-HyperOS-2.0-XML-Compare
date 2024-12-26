@@ -1,4 +1,3 @@
-Removed: [az-rAZ] strings.xml: string/update_loading (wrong format)
 Removed: [bo-rCN] strings.xml: string/cinemaster_toast_monitor_all_disconnect (wrong format)
 Removed: [bo-rCN] strings.xml: string/friend_mode_intro_3_content (wrong attributes)
 Removed: [cs] strings.xml: string/street_tip_near (wrong format)
