@@ -1,11 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="account_user_gender_name">
-        <item>Male</item>
-        <item>Female</item>
+    <string-array name="aborted_intent_actions">
+        <item>com.miui.whetstone.kloserver.BROWSER_ABORTED</item>
+    </string-array>
+    <string-array name="aborted_packages">
+        <item>com.android.browser</item>
+    </string-array>
+    <string-array name="aborted_types">
+        <item>am_crash</item>
+        <item>am_kill</item>
+    </string-array>
+    <string-array name="alphabet_sub_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
     </string-array>
     <string-array name="alphabet_table">
-        <item>\#</item>
         <item>A</item>
         <item>B</item>
         <item>C</item>
@@ -32,6 +63,7 @@
         <item>X</item>
         <item>Y</item>
         <item>Z</item>
+        <item>\#</item>
     </string-array>
     <string-array name="alphabet_table_with_starred">
         <item>!</item>
@@ -144,11 +176,6 @@
         <item>@string/chinese_symbol_animals_dog</item>
         <item>@string/chinese_symbol_animals_pig</item>
     </string-array>
-    <string-array name="customer_service">
-        <item>@string/customer_service_apply</item>
-        <item>@string/customer_service_complain</item>
-        <item>@string/customer_service_station</item>
-    </string-array>
     <integer-array name="default_card_stroke_gradient_colors_dark">
         <item>0x1FFFFFFF</item>
         <item>0x14FFFFFF</item>
@@ -187,6 +214,79 @@
     <string-array name="eras">
         <item>@string/eras_bc</item>
         <item>@string/eras_ad</item>
+    </string-array>
+    <string-array name="face_trans_lang_list">
+        <item>@string/language_cn</item>
+        <item>@string/language_en</item>
+        <item>@string/language_de</item>
+        <item>@string/language_ru</item>
+        <item>@string/language_fr</item>
+        <item>@string/language_ko</item>
+        <item>@string/language_pt</item>
+        <item>@string/language_ja</item>
+        <item>@string/language_es</item>
+        <item>@string/language_it</item>
+        <item>@string/language_hi</item>
+        <item>@string/language_id</item>
+        <item>@string/language_ar_sa</item>
+        <item>@string/language_zh_hk</item>
+        <item>@string/language_pl</item>
+        <item>@string/language_sk</item>
+        <item>@string/language_cs</item>
+        <item>@string/language_ms</item>
+        <item>@string/language_th</item>
+        <item>@string/language_tr</item>
+        <item>@string/language_vi</item>
+        <item>@string/language_kk</item>
+        <item>@string/language_ro</item>
+        <item>@string/language_fil</item>
+        <item>@string/language_uz</item>
+        <item>@string/language_az</item>
+        <item>@string/language_nl</item>
+        <item>@string/language_el</item>
+        <item>@string/language_mm</item>
+    </string-array>
+    <integer-array name="face_trans_lang_list_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+    </integer-array>
+    <string-array name="filter_broadcasts">
+        <item>android.net.conn.CONNECTIVITY_CHANGE</item>
+    </string-array>
+    <string-array name="floating_window_background_entries">
+        <item>@string/black_color</item>
+        <item>@string/transparent_color</item>
+    </string-array>
+    <string-array name="floating_window_background_entry_values">
+        <item>0</item>
+        <item>1</item>
     </string-array>
     <string-array name="heavenly_stems">
         <item>@string/heavenly_stems_jia</item>
@@ -254,65 +354,8 @@
         <item>com.miui.cloudservice</item>
         <item>com.android.deskclock</item>
     </string-array>
-    <string-array name="net_diag_err_link_quality">
-        <item>Poor Wi-Fi connection. Switch wireless bands or reboot the router.</item>
-        <item>"Can't access network. Reconnect to Wi-Fi or reboot the router."</item>
-    </string-array>
-    <string-array name="net_diag_err_link_quality_china">
-        <item>Poor Wi-Fi connection. Switch wireless bands or reboot the router.</item>
-        <item>"Can't access network. Reconnect to Wi-Fi or reboot the router."</item>
-    </string-array>
-    <string-array name="net_diag_err_network_connectivity">
-        <item>Authentication is required for network access</item>
-        <item>"Network access is restricted. Adjust the time on this device and check the router's network settings."</item>
-        <item>Network error. Check HTTP proxy settings.</item>
-        <item>Network error. Check if the router can access the internet.</item>
-        <item>"Can't access network. Reconnect to Wi-Fi or reboot the router."</item>
-    </string-array>
-    <string-array name="net_diag_err_network_connectivity_china">
-        <item>Authentication is required for network access</item>
-        <item>"Network access is restricted. Adjust the time on this device and check the router's network settings."</item>
-        <item>Network error. Check HTTP proxy settings.</item>
-        <item>Network error. Check if the router can access the internet.</item>
-        <item>"Can't connect to the network. Reconnect to Wi-Fi or reboot the router."</item>
-    </string-array>
-    <string-array name="net_diag_err_network_dns">
-        <item>"DNS server error. Check router's DNS configuration."</item>
-        <item>"Major delays from DNS server. Check router's DNS configuration."</item>
-        <item>"Can't access network. Reconnect to Wi-Fi or reboot the router."</item>
-    </string-array>
-    <string-array name="net_diag_err_network_dns_china">
-        <item>"DNS server error. Check router's DNS configuration."</item>
-        <item>"Major delays from DNS server. Check router's DNS configuration."</item>
-        <item>"Can't access gateway. Reconnect to Wi-Fi or reboot the router."</item>
-    </string-array>
-    <string-array name="net_diag_err_network_latency">
-        <item>Major delays from the local network. Reboot the router or connect to another network.</item>
-        <item>Major delays from the internet. Check carrier network settings or connect to another network.</item>
-    </string-array>
-    <string-array name="net_diag_err_network_parameters">
-        <item>Switch from static IP to DHCP</item>
-    </string-array>
-    <string-array name="net_diag_err_network_protocol">
-        <item>Network protocol error. Reconnect to Wi-Fi or reboot the device.</item>
-    </string-array>
-    <string-array name="net_diag_err_network_protocol_china">
-        <item>Network protocol error. Reconnect to Wi-Fi or reboot the device.</item>
-    </string-array>
-    <string-array name="net_diag_err_network_rssi">
-        <item>Move to an area with better Wi-Fi coverage</item>
-    </string-array>
-    <string-array name="net_diag_err_network_rssi_china">
-        <item>Move to an area with better Wi-Fi coverage</item>
-    </string-array>
-    <string-array name="net_diag_err_network_topology">
-        <item>"Check router's DHCP settings and wired connection"</item>
-    </string-array>
-    <string-array name="reproductivity">
-        <item>@string/feedback_reproductivity_everytime</item>
-        <item>@string/feedback_reproductivity_often</item>
-        <item>@string/feedback_reproductivity_occasionally</item>
-        <item>@string/feedback_reproductivity_once</item>
+    <string-array name="runtime_permission_desc">
+        <item>用于语音翻译等功能的语音识别</item>
     </string-array>
     <string-array name="solar_terms">
         <item>@string/empty</item>
@@ -341,6 +384,46 @@
         <item>@string/solar_term_heavy_snow</item>
         <item>@string/solar_term_winter_solstice</item>
     </string-array>
+    <string-array name="sound_source_entries">
+        <item>@string/sys_sound</item>
+        <item>@string/mic_sound</item>
+    </string-array>
+    <string-array name="sound_source_entry_summaries">
+        <item>@string/sys_sound_content</item>
+        <item>@string/mic_sound_content</item>
+        <item>@string/meeting_sound_content_able</item>
+    </string-array>
+    <string-array name="sound_source_entry_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="text_size_entries">
+        <item>@string/caption_text_size_small</item>
+        <item>@string/caption_text_size_mid</item>
+        <item>@string/caption_text_size_large</item>
+    </string-array>
+    <string-array name="text_size_entry_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="tone_setting_entries">
+        <item>Melissa</item>
+        <item>Matt</item>
+    </string-array>
+    <string-array name="tone_setting_entry_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="voice_translation_fold_mode">
+        <item>@string/face_trans_layout_vertical</item>
+        <item>@string/face_trans_layout_face_to_face</item>
+        <item>@string/face_trans_layout_tongliang</item>
+    </string-array>
+    <string-array name="voice_translation_mode">
+        <item>@string/face_trans_layout_vertical</item>
+        <item>@string/face_trans_layout_face_to_face</item>
+    </string-array>
     <string-array name="week_days">
         <item>@string/sunday</item>
         <item>@string/monday</item>
@@ -367,21 +450,5 @@
         <item>@string/thursday_shortest</item>
         <item>@string/friday_shortest</item>
         <item>@string/saturday_shortest</item>
-    </string-array>
-    <string-array name="wifi_diag_err_wifi_base">
-        <item>"Couldn't turn on Wi-Fi. Reboot your device or update it to the latest system version."</item>
-        <item>"Couldn't locate hotspot. Reboot your device or update it to the latest system version."</item>
-        <item>"Can't turn on Wi-Fi. Turn Wi-Fi off and on again or reboot your router."</item>
-        <item>Wi-Fi has disconnected repeatedly. Turn Wi-Fi off and on again or reboot your router.</item>
-        <item>"Couldn't turn on hotspot. Reboot your device or update it to the latest system version."</item>
-        <item>"Couldn't turn on hotspot. Turn off Airplane mode and try again."</item>
-    </string-array>
-    <string-array name="wifi_diag_err_wifi_base_china">
-        <item>"Couldn't turn on Wi-Fi. Reboot your device or update it to the latest system version."</item>
-        <item>"Couldn't locate hotspot. Reboot your device or update it to the latest system version."</item>
-        <item>"Can't turn on Wi-Fi. Turn Wi-Fi off and on again or reboot your router."</item>
-        <item>Wi-Fi has disconnected repeatedly. Turn Wi-Fi off and on again or reboot your router.</item>
-        <item>"Couldn't turn on hotspot. Reboot your device or update it to the latest system version."</item>
-        <item>"Couldn't turn on hotspot. Turn off Airplane mode and try again."</item>
     </string-array>
 </resources>

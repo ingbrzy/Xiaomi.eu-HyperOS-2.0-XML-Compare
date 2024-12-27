@@ -6,10 +6,10 @@
     <string name="tomorrow">ئەتە</string>
     <string name="desc_weather_null">'سانلىق مەلۇمات يوق'</string>
     <string name="desc_weather">\'بۈگۈن\'+\', \'+@weather_location+\', \'+int(#month+1)+\'-ئاينىڭ\'+#date+\'-كۈنى\'+\', \'+\'ھەپتىگە\'+int(#day_of_week-1)+\',\'+#weather_temperature+\'سېلسىيە گرادۇس\'+\',\'+@weather_description+\',\'+@weather_aqi</string>
-    <string name="desc_weather_1">'بۈگۈن\'+@weather_description+\', \'+\'ئەڭ يۇقىرى تېمپېراتۇرا\'+#weather_temphigh+\'سېلسىيە گرادۇس\'+\',\'+\'ئەڭ تۆۋەن تېمپېراتۇرا\'+#weather_templow+\'سېلسىيە گرادۇس'</string>
-    <string name="desc_weather_2">'ئەتە\'+@weather_description1+\', \'+\'ئەڭ يۇقىرى تېمپېراتۇرا\'+#weather_temphigh1+\'سېلسىيە گرادۇس\'+\',\'+\'ئەڭ تۆۋەن تېمپېراتۇرا\'+#weather_templow1+\'سېلسىيە گرادۇس'</string>
-    <string name="desc_weather_3">'ئۆگۈنلۈككە\'+\', \'+@datetime2+\', \'+@weather_description2+\', \'+\'ئەڭ يۇقىرى تېمپېراتۇرا\'+#weather_temphigh2+\'سېلسىيە گرادۇس\'+\',\'+\'ئەڭ تۆۋەن تېمپېراتۇرا\'+#weather_templow2+\'سېلسىيە گرادۇس'</string>
-    <string name="desc_weather_4">'ئىندىنلىققا\'+\', \'+@datetime3+\', \'+@weather_description3+\', \'+\'ئەڭ يۇقىرى تېمپېراتۇرا\'+#weather_temphigh3+\'سېلسىيە گرادۇس\'+\',\'+\'ئەڭ تۆۋەن تېمپېراتۇرا\'+#weather_templow3+\'سېلسىيە گرادۇس'</string>
+    <string name="desc_weather_1">'بۈگۈن\'+@weather_description+\', \'+\'ئەڭ يۇقىرى تېمپېراتۇرا\'+#weather_temphigh_src+\'سېلسىيە گرادۇس\'+\',\'+\'ئەڭ تۆۋەن تېمپېراتۇرا\'+#weather_templow_src+\'سېلسىيە گرادۇس'</string>
+    <string name="desc_weather_2">'ئەتە\'+@weather_description1+\', \'+\'ئەڭ يۇقىرى تېمپېراتۇرا\'+#weather_temphigh1_src+\'سېلسىيە گرادۇس\'+\',\'+\'ئەڭ تۆۋەن تېمپېراتۇرا\'+#weather_templow1_src+\'سېلسىيە گرادۇس'</string>
+    <string name="desc_weather_3">'ئۆگۈنلۈككە\'+\', \'+@datetime2+\', \'+@weather_description2+\', \'+\'ئەڭ يۇقىرى تېمپېراتۇرا\'+#weather_temphigh2_src+\'سېلسىيە گرادۇس\'+\',\'+\'ئەڭ تۆۋەن تېمپېراتۇرا\'+#weather_templow2_src+\'سېلسىيە گرادۇس'</string>
+    <string name="desc_weather_4">'ئىندىنلىققا\'+\', \'+@datetime3+\', \'+@weather_description3+\', \'+\'ئەڭ يۇقىرى تېمپېراتۇرا\'+#weather_temphigh3_src+\'سېلسىيە گرادۇس\'+\',\'+\'ئەڭ تۆۋەن تېمپېراتۇرا\'+#weather_templow3_src+\'سېلسىيە گرادۇس'</string>
     <string name="weather_type_null">'سانلىق مەلۇمات يوق'</string>
     <string name="aqi_pure">''</string>
     <string name="aqi_good">'ھاۋا سۈپىتى ئەلا'</string>

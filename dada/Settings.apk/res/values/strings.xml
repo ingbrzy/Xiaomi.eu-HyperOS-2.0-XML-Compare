@@ -8151,7 +8151,12 @@ Read and agree to %s before using this service."</string>
     <string name="photography_handle_charge_protected_summary">When camera grip is connected, device will stop charging and keep battery at %1$s</string>
     <string name="photography_handle_charge_settings">Charging settings</string>
     <string name="photography_handle_charge_state">Charge from camera grips</string>
+    <string name="photography_handle_charge_state_choice_always">Always</string>
+    <string name="photography_handle_charge_state_choice_emergency">Emergency</string>
     <string name="photography_handle_charge_state_summary">"Charge this device from camera grips whenever they're connected"</string>
+    <string name="photography_handle_charge_state_summary_new">Start charging this device from camera grip once connected</string>
+    <string name="photography_handle_emergency_charge_summary">Start emergency charging when battery drops below %1$s</string>
+    <string name="photography_handle_emergency_charge_title">Emergency charging level</string>
     <string name="photography_handle_function_settings">Camera grip settings</string>
     <string name="photography_handle_launch_and_take_photo">Take photo</string>
     <string name="photography_handle_launch_camera">Open camera</string>
