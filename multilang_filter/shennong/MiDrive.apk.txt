@@ -1,3 +1,2 @@
 Removed: [cs] plurals.xml: plurals/text_group_count (wrong item attributes)
 Removed: [cs] plurals.xml: plurals/view_all (wrong item attributes)
-Removed: [hr] strings.xml: string/xiaomi_update_sdk_dialog_title (wrong format)
