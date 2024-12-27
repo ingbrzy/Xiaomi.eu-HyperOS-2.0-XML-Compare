@@ -674,6 +674,7 @@ Your admin has the ability to monitor and manage settings, access, apps, and dat
     <string name="advanced_battery_title">Battery usage</string>
     <string name="advanced_gesture">Custom gestures</string>
     <string name="advanced_screen_paper_mode_title">Reading mode</string>
+    <string name="advanced_screen_paper_mode_title_new">Eye comfort</string>
     <string name="advanced_section_header">General</string>
     <string name="advanced_security_title">Advanced</string>
     <string name="advanced_settings">Additional settings</string>
@@ -724,6 +725,7 @@ If this permission is off, existing alarms and time-based events scheduled by th
     <string name="all_volume_title">Volume</string>
     <string name="allow">Allow</string>
     <string name="allow_all_rotations_title">Allow all rotations</string>
+    <string name="allow_badge_summary">Allow a numbered red dot to be shown on Home screen icons to indicate notifications or new content</string>
     <string name="allow_bind_app_widget_activity_allow_bind">"After you create the widget, the application can access everything displayed.
 
 Application: %1$s
@@ -746,6 +748,7 @@ Widget: %2$s
     <string name="allow_mock_location_summary">Allow mock locations</string>
     <string name="allow_mock_modem">Allow Mock Modem</string>
     <string name="allow_mock_modem_summary">Allow this device to run Mock Modem service for instrumentation testing. Do not enable this during normal usage of the phone.</string>
+    <string name="allow_ongoing_summary">Allow notifications that can only be deleted manually</string>
     <string name="allow_ongoing_title">Permanent notifications</string>
     <string name="allow_overlay_description">Allow this app to display on top of other apps you’re using. This app will be able to see where you tap or change what’s displayed on the screen.</string>
     <string name="allow_sound_title">Sound</string>
@@ -1307,7 +1310,8 @@ Last ran on %2$s"</string>
     <string name="back_navigation_animation_summary">Enable system animations for predictive back.</string>
     <string name="back_sensitivity_dialog_message">Higher sensitivity may conflict with any app gestures along the edges of the screen.</string>
     <string name="back_sensitivity_dialog_title">Back Sensitivity</string>
-    <string name="back_strap_image_text">Get notification reminders and lighting effects for different scenes</string>
+    <string name="back_strap_image_simplified_text">When the device is face down with the screen off, the back light will display notification reminders</string>
+    <string name="back_strap_image_text">When the device is face down with the screen off, the back light will display notification reminders and lighting effects for different scenes</string>
     <string name="back_strap_status_close">Off</string>
     <string name="back_strap_status_open">On</string>
     <string name="back_strap_title">Back light effects</string>
@@ -3339,7 +3343,6 @@ If you interrupt it, you'll lose some or all of your data."</string>
     <string name="dark_mode_day_night_mode_summary">Your device will switch to Dark mode at sunset and back to Light mode at sunrise. Turn on location services for most accurate results.</string>
     <string name="dark_mode_day_night_mode_title">Sunset to sunrise</string>
     <string name="dark_mode_display_enable_summary">Switch to a low-light UI that displays mostly dark surfaces</string>
-    <string name="dark_mode_font_background_title">Adjust text and backgrounds automatically</string>
     <string name="dark_mode_power_save_alert_dialog_confirm">Got it</string>
     <string name="dark_mode_power_save_alert_dialog_message">"If you turn off system optimization and turn on Battery saver, Dark mode will be turned on automatically.
 To turn off Dark mode, turn off Battery saver, or turn on system optimization in Settings > Developer options > Turn on system optimization."</string>
@@ -4305,7 +4308,7 @@ Restart your device and try again."</string>
     <string name="external_source_untrusted">Not allowed</string>
     <string name="extreme_threats_summary">Receive alerts for extreme threats to life and property</string>
     <string name="extreme_threats_title">Extreme threats</string>
-    <string name="eye_gaze_dialog_message">"When you turn on Detect gaze, the device won't lock when it detects that you're looking at the screen. Your facial characteristics won't be analyzed, and your face information won't be stored on your device or uploaded to the cloud. Turn on now?"</string>
+    <string name="eye_gaze_dialog_message">"When this feature is on, the system will detect whether you're looking at the screen, but your facial features won't be analyzed and this data won't be stored on your device or uploaded to the cloud. Turn on now?"</string>
     <string name="eye_gaze_dialog_title">Security notice</string>
     <string name="eye_gaze_summary">"Device won't lock when it detects that you're looking at the screen"</string>
     <string name="eye_gaze_summary_fold_device">"Device won't lock when it detects that you're looking at outer screen"</string>
@@ -4567,6 +4570,7 @@ To learn more, contact your credit provider."</string>
     <string name="flash_notifications_keywords">flash, light, hard of hearing, hearing loss</string>
     <string name="flash_notifications_note">"\"Beam for notifications\" visualizes notification sounds and ringtones using camera flash and screen. If you're sensitive to light, use this feature with caution."</string>
     <string name="flash_notifications_preview">Preview</string>
+    <string name="flash_notifications_settings_title">Flash notifications</string>
     <string name="flash_notifications_summary">Use camera flash or show color beams on the screen as notifications arrive or device is ringing</string>
     <string name="flash_notifications_summary_off">Off</string>
     <string name="flash_notifications_summary_on_camera">On / Camera flash</string>
@@ -4665,6 +4669,9 @@ To learn more, contact your credit provider."</string>
     <string name="font_cta_alert_btn_positive">Agree</string>
     <string name="font_cta_alert_message">Read and agree to the terms and conditions of Themes to continue.</string>
     <string name="font_cta_alert_title">Terms and conditions</string>
+    <string name="font_preview_text_content">"Example text:
+
+Xiaomi relentlessly builds amazing products with honest prices to let everyone in the world enjoy a better life through innovative technology."</string>
     <string name="font_scale_percentage">%1$d %%</string>
     <string name="font_setting_weight_toast">"Current font doesn't support adjusting font weight"</string>
     <string name="font_settings_jump">Accessibility > Display size</string>
@@ -4831,7 +4838,7 @@ When you turn on automatic backup, device and app data is periodically saved rem
     <string name="game_booster_title">Game Turbo</string>
     <string name="game_controller_settings_category">Game Controller</string>
     <string name="game_storage_settings">Games</string>
-    <string name="gaze_lock_screen_summary">Device will remain unlocked when your presence is detected and lock when you move away from the screen</string>
+    <string name="gaze_lock_screen_summary">"Device will remain unlocked when you're looking at the screen and lock when you look away to protect your privacy, overriding your automatic lock time setting"</string>
     <string name="gaze_lock_screen_title">Detect presence</string>
     <string name="gd_setting_title">Sidebar</string>
     <string name="general_category_title">General</string>
@@ -4848,6 +4855,12 @@ When you turn on automatic backup, device and app data is periodically saved rem
     <string name="gesture_double_twist_sensor_type" />
     <string name="gesture_double_twist_sensor_vendor" />
     <string name="gesture_function_dialog_message">%1$s is used for \"%2$s\". Replace with \"%3$s\"?</string>
+    <string name="gesture_lockcreen_doubletap_wakeup_title">Double tap Lock screen to wake</string>
+    <string name="gesture_lockcreen_sleep_title">Double tap Lock screen to sleep</string>
+    <string name="gesture_lockcreen_wakeup_mode_doubletap">On double tap</string>
+    <string name="gesture_lockcreen_wakeup_mode_none">None</string>
+    <string name="gesture_lockcreen_wakeup_mode_singletap">On tap</string>
+    <string name="gesture_lockcreen_wakeup_title">Wake screen</string>
     <string name="gesture_preference_title">Gestures</string>
     <string name="gesture_prevent_ringing_screen_title">Prevent ringing</string>
     <string name="gesture_prevent_ringing_sound_title">Shortcut to prevent ringing</string>
@@ -5012,6 +5025,12 @@ The area where you can confirm your screen lock will move to the right."</string
     <string name="gxzw_quick_open_slow_summary">Press and hold the fingerprint icon to open shortcut menu. Swipe to use a shortcut.</string>
     <string name="gxzw_quick_open_slow_title">Press and hold</string>
     <string name="gxzw_quick_open_title">Shortcuts</string>
+    <string name="gxzw_recognizing_anim_a">Ripple</string>
+    <string name="gxzw_recognizing_anim_b">Spiral</string>
+    <string name="gxzw_recognizing_anim_c">Halo</string>
+    <string name="gxzw_recognizing_anim_d">Wave</string>
+    <string name="gxzw_recognizing_anim_e">Aperture</string>
+    <string name="gxzw_recognizing_anim_f">Diffusion</string>
     <string name="gxzw_vibrate_summary">"Vibration won't occur when no fingerprint animation is selected"</string>
     <string name="gxzw_vibrate_title">Vibrate while unlocking</string>
     <string name="handle_ota_connect_first">Connect grip</string>
@@ -5823,6 +5842,7 @@ Open Xiaomi Cloud and restore items from there."</string>
     <string name="layout_size_small_text">Extra small</string>
     <string name="le_audio_title">LE Audio</string>
     <string name="learn_more">Learn more</string>
+    <string name="leave_lockscreen_summary">Device will lock when you move away from the screen</string>
     <string name="leave_loclscreen_summary">Screen will lock automatically when you walk a certain distance away from your device</string>
     <string name="leave_loclscreen_title">Lock screen when leaving</string>
     <string name="led_colors_summary">Notifications light color</string>
@@ -6551,7 +6571,7 @@ You won't be able to reverse this action."</string>
     <string name="media_controls_show_player">Show player</string>
     <string name="media_controls_title">Media</string>
     <string name="media_dialog_ok">Got it</string>
-    <string name="media_dialog_summary">When this feature is turned on, the device will vibrate along with the rhythm of supported music and videos, giving a fuller, more immersive experience.</string>
+    <string name="media_dialog_summary">When this feature is turned on, the device will vibrate along with the rhythm of supported music, giving a fuller, more immersive experience.</string>
     <string name="media_dialog_title">Turn on Media haptic feedback</string>
     <string name="media_drm_settings_title">Media DRM settings</string>
     <string name="media_feedback_enable_title">Vibrate with the beat</string>
@@ -8129,13 +8149,22 @@ Read and agree to %s before using this service."</string>
     <string name="photography_handle_button_function_settings">Set up grip button</string>
     <string name="photography_handle_charge_protected">Grip charging protection</string>
     <string name="photography_handle_charge_protected_summary">When camera grip is connected, device will stop charging and keep battery at %1$s</string>
+    <string name="photography_handle_charge_settings">Charging settings</string>
     <string name="photography_handle_charge_state">Charge from camera grips</string>
+    <string name="photography_handle_charge_state_choice_always">Always</string>
+    <string name="photography_handle_charge_state_choice_emergency">Emergency</string>
     <string name="photography_handle_charge_state_summary">"Charge this device from camera grips whenever they're connected"</string>
+    <string name="photography_handle_charge_state_summary_new">Start charging this device from camera grip once connected</string>
+    <string name="photography_handle_emergency_charge_summary">Start emergency charging when battery drops below %1$s</string>
+    <string name="photography_handle_emergency_charge_title">Emergency charging level</string>
+    <string name="photography_handle_function_settings">Camera grip settings</string>
     <string name="photography_handle_launch_and_take_photo">Take photo</string>
     <string name="photography_handle_launch_camera">Open camera</string>
     <string name="photography_handle_long_press_camera_key_enter_camera">Press and hold the shutter button to perform an action</string>
     <string name="photography_handle_quick_launch_camera_title">Quick launch</string>
+    <string name="photography_handle_sn">Serial number</string>
     <string name="photography_handle_title">Camera grip</string>
+    <string name="photography_handle_update_and_maintain">Updates</string>
     <string name="physical_keyboard_title">Physical keyboard</string>
     <string name="pick_up_gesture_wakeup_title">Raise to wake</string>
     <string name="picker_text">Time picker</string>
@@ -9025,6 +9054,7 @@ All apps in your space and their data will also be permanently deleted from your
     <string name="sar">RF Exposure Information</string>
     <string name="satellite_call_assistant">Call settings</string>
     <string name="satellite_imei_title">IMEI3</string>
+    <string name="satellite_management_title">Satellite network</string>
     <string name="satellite_network_title">Satellite call features</string>
     <string name="satellite_setting">Satellite messaging</string>
     <string name="satellite_setting_disabled_summary">Send and receive text messages by satellite. Non included with your account.</string>
@@ -9059,7 +9089,7 @@ It may take some time for account changes to show in Settings. Contact your carr
     <string name="screen_cancel">Cancel</string>
     <string name="screen_color_and_optimize">Colors &amp; contrast</string>
     <string name="screen_color_and_optimize_disabled">"Can't adjust color scheme and color temperature in Reading mode"</string>
-    <string name="screen_color_preview_ratio">2.6:1</string>
+    <string name="screen_color_preview_ratio">2:1</string>
     <string name="screen_color_temperature">Color temperature</string>
     <string name="screen_color_temperature_and_saturation">Colors &amp; saturation</string>
     <string name="screen_compatibility_label">Screen compatibility</string>
@@ -9350,6 +9380,7 @@ To use app pinning: \u0009
     <string name="search_dtmf_tone_enable_title">Turn on Dial pad touch tones;Dial pad touch tones;touch tones;touch sounds;dialer tones;dialer sounds</string>
     <string name="search_empty">"Couldn't find results"</string>
     <string name="search_enable_adb">USB debugging</string>
+    <string name="search_flash_notifications_settings_title">环闪;闪烁;通知;提示;提醒;闪光灯</string>
     <string name="search_flip_aod_settings_title">外屏;大屏;全面屏</string>
     <string name="search_flip_application_settings_title">外屏;大屏;全面屏</string>
     <string name="search_flip_dial_settings_title">外屏;大屏;全面屏</string>
@@ -11092,6 +11123,8 @@ Try using a faster ^3, or use this ^4 for portable storage instead."</string>
     <string name="tethering_help_button_text">Help</string>
     <string name="tethering_interface_options">Tethering</string>
     <string name="tethering_settings_not_available">Change tethering settings in First space</string>
+    <string name="text_layout_optimization_switch_label">Optimize text layout</string>
+    <string name="text_layout_optimization_switch_toast">"Can't optimize text layout with the current font"</string>
     <string name="texture_adjust_temperature_title">Color temperature</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>
     <string name="the_anti_aggression_day">Anti-Aggression Day</string>
@@ -12531,6 +12564,10 @@ Setting the network as hidden will not change your router settings."</string>
     <string name="wifi_protection_tip">Xiaomi will protect your personal data from Wi-Fi probe requests coming from random MAC addresses and Wi-Fi probe sniffers when your device is searching for Wi-Fi networks.</string>
     <string name="wifi_quick_toggle_summary">Turn on Wi-Fi</string>
     <string name="wifi_quick_toggle_title">Wi-Fi</string>
+    <string name="wifi_reconnect_failed_text">Your Wi-Fi password is incorrect. Enter it again.</string>
+    <string name="wifi_reconnect_failed_text_china">Your Wi-Fi password is incorrect. Enter it again.</string>
+    <string name="wifi_reconnect_failed_title">Incorrect Wi-Fi password</string>
+    <string name="wifi_reconnect_failed_title_china">Incorrect Wi-Fi password</string>
     <string name="wifi_region_summary">Requires Wi-Fi to be restarted to take effect</string>
     <string name="wifi_region_title">Wi-Fi region</string>
     <string name="wifi_remembered">Saved</string>
