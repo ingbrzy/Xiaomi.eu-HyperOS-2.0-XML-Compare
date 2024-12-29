@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="background_access_chooser_dialog_choices">
+        <item>@string/permission_access_always</item>
+        <item>@string/permission_access_only_foreground</item>
+        <item>@string/permission_access_never</item>
+    </string-array>
+    <array name="car_ui_ime_wide_screen_allowed_package_list" />
+    <array name="circular_progress_layout_color_scheme_colors">
+        <item>@color/circular_progress_layout_red</item>
+        <item>@color/circular_progress_layout_yellow</item>
+        <item>@color/circular_progress_layout_green</item>
+        <item>@color/circular_progress_layout_blue</item>
+    </array>
+</resources>
