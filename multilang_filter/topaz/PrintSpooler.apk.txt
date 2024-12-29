@@ -1,0 +1,3 @@
+Removed: [gu-rIN] strings.xml: string/label_pages (wrong format)
+Removed: [it] arrays.xml: array/multi_floating_package_allow_list (wrong item count)
+Removed: [pa-rIN] strings.xml: string/label_pages (wrong format)
