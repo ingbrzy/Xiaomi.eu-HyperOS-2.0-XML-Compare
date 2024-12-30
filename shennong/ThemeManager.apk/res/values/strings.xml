@@ -116,8 +116,8 @@
     <string name="ai_in_line_match">排队人数较多</string>
     <string name="ai_inquire_apply_wallpaper">Apply this wallpaper?</string>
     <string name="ai_moving_your_wallpaper">See how AI can bring your wallpapers to life</string>
-    <string name="ai_pic_unavailable_content">请保证图片主体清晰无遮挡</string>
-    <string name="ai_pic_unavailable_title">图片不符合生成要求</string>
+    <string name="ai_pic_unavailable_content">Please ensure that the subject of the photo is clear and unobstructed.</string>
+    <string name="ai_pic_unavailable_title">"This photo doesn't meet the generation requirements"</string>
     <string name="ai_read_the_privacy_policy">&lt;Data>Read and agree to our &lt;a href=\"%1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Privacy Policy&lt;/a> before you continue.&lt;/Data></string>
     <string name="ai_read_the_privacy_policy_pad">&lt;Data>Read and agree to our &lt;a href=\"%1$s\">User Agreement&lt;/a> and &lt;a href=\"%2$s\">Wallpaper and Personalization Privacy Policy&lt;/a> before you continue.&lt;/Data></string>
     <string name="ai_select_again">Select</string>
@@ -143,7 +143,7 @@
     <string name="ai_wallpaper_inside_invitation">Beta test AI dynamic wallpapers</string>
     <string name="ai_wallpaper_inside_invitation_agree">Agree</string>
     <string name="ai_wallpaper_inside_invitation_description">This feature uses large model capabilities to use photos of landscapes, cities, plants, and cars to create dynamic video wallpapers. Tap \"Agree\" to try it out!</string>
-    <string name="ai_wallpaper_inside_invitation_description_all">基于大模型能力，将静态图片升级成动态视频，让你的壁纸动起来。选择“同意”即可体验！</string>
+    <string name="ai_wallpaper_inside_invitation_description_all">This feature uses large model capabilities to use photos to create dynamic video wallpapers. Tap "Agree" to try it out!</string>
     <string name="ai_wallpaper_inside_invitation_disagree">"Don't agree"</string>
     <string name="ai_wallpaper_network_connection_exception">"Couldn't connect to the network"</string>
     <string name="ai_wallpaper_network_exception">A network error occurred</string>
