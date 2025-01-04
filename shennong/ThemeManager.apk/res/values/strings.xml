@@ -92,12 +92,12 @@
     <string formatted="false" name="ai_estimated_two_three_minutes">This will take %d–%d minutes</string>
     <string name="ai_generate">AI-generated</string>
     <string name="ai_generate_action">Generate</string>
-    <string name="ai_generate_add_latter">请在完成后再添加新的图片</string>
+    <string name="ai_generate_add_latter">Please wait until completion before adding new photos.</string>
     <string name="ai_generate_background">Finish in background</string>
     <string name="ai_generate_determine">Analyzing photos…</string>
     <string name="ai_generate_fail">"Couldn't generate"</string>
     <string name="ai_generate_forbid">"We're upgrading this feature. Stay tuned!"</string>
-    <string name="ai_generate_latter">请稍后再试</string>
+    <string name="ai_generate_latter">Try again later</string>
     <string name="ai_generate_loading">Generating wallpaper…</string>
     <string name="ai_generate_message">"If you generate a dynamic wallpaper, any changes you've made to the static version of the wallpaper won't be saved. Generate now?"</string>
     <string name="ai_generate_text">Generate dynamic wallpaper</string>
@@ -108,12 +108,12 @@
     <string name="ai_generate_wallpaper_fail">"Couldn't generate AI dynamic wallpaper"</string>
     <string name="ai_generate_wallpaper_fail_message">The photos you selected may have violated our guidelines. Select new photos.</string>
     <string name="ai_generating">Generating…</string>
-    <string name="ai_generating_loading">正在生成中</string>
+    <string name="ai_generating_loading">Generating</string>
     <string name="ai_generating_wallpaper">Generating wallpaper…</string>
     <string name="ai_image_format_does_not_support_generation">Unsupported format</string>
     <string name="ai_image_size_too_large">Image is too large</string>
     <string name="ai_in_line">"You're in line…"</string>
-    <string name="ai_in_line_match">排队人数较多</string>
+    <string name="ai_in_line_match">The line is quite busy.</string>
     <string name="ai_inquire_apply_wallpaper">Apply this wallpaper?</string>
     <string name="ai_moving_your_wallpaper">See how AI can bring your wallpapers to life</string>
     <string name="ai_pic_unavailable_content">Please ensure that the subject of the photo is clear and unobstructed.</string>
