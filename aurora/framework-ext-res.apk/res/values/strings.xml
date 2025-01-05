@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="Redmi_Pad_Pro">Redmi Pad Pro</string>
+    <string name="Redmi_Pad_Pro_5G">Redmi Pad Pro 5G</string>
+    <string name="Xiaomi_Civi_3">Xiaomi Civi 3</string>
+    <string name="Xiaomi_Civi_4_Pro">Xiaomi Civi 4 Pro</string>
+    <string name="Xiaomi_Pad_6S_Pro">Xiaomi Pad 6S Pro 12.4</string>
     <string name="ability_dialog_button">Got it</string>
     <string name="ability_dialog_text">Due to screen size, some apps might be displayed incorrecly on outer screen.</string>
     <string name="ability_dialog_title">Attention</string>
@@ -456,7 +461,7 @@
     <string name="device_redmi">Redmi</string>
     <string name="device_status_failed">"Couldn't send"</string>
     <string name="device_status_sending">Sending…</string>
-    <string name="device_status_success">Sent successfully</string>
+    <string name="device_status_success">Sent</string>
     <string name="device_status_waiting">Waiting…</string>
     <string name="device_type_pc">Computer</string>
     <string name="device_xiaomi">Mi Phone</string>
@@ -547,6 +552,15 @@
     <string name="global_actions_shutdown">Power off</string>
     <string name="global_actions_silent_mode">Silent mode</string>
     <string name="global_help">"Can't find device"</string>
+    <string name="global_imac">My iMac</string>
+    <string name="global_ipad">My iPad</string>
+    <string name="global_iphone">My iPhone</string>
+    <string name="global_macbook">My MacBook</string>
+    <string name="global_macmini">My Mac mini</string>
+    <string name="global_macpro">My Mac Pro</string>
+    <string name="global_macstudio">My Mac Studio</string>
+    <string name="global_my">"My device
+%1$s"</string>
     <string name="global_pad">My tablet</string>
     <string name="global_pc">My laptop</string>
     <string name="global_phone">My phone</string>
@@ -663,11 +677,14 @@
     <string name="mi_9t_pro">Mi 9T Pro</string>
     <string name="mi_a3">Mi A3</string>
     <string name="mi_drop">Mi Share</string>
+    <string name="mi_pad_6">Xiaomi Pad 6</string>
+    <string name="mi_pad_6_pro">Xiaomi Pad 6 Pro</string>
     <string name="mi_pay">Mi Wallet</string>
     <string name="miaudiovisual_notification_summary">Turn on to show effects on the Lock screen</string>
     <string name="miaudiovisual_notification_title">Audio and visual effects</string>
     <string name="mihouse">Mi Electronic</string>
     <string name="mijazz">Mi Jazz</string>
+    <string name="mini_pc_xiaomi_device_model_name">Xiaomi Mini PC</string>
     <string name="miremix">Mi (Remix)</string>
     <string name="miui">miui</string>
     <string name="miui_device_name">Android</string>
@@ -780,6 +797,7 @@
     <string name="redmi_7a">Redmi 7A</string>
     <string name="redmi_k20">Redmi K20</string>
     <string name="redmi_k20_pro">Redmi K20 Pro</string>
+    <string name="redmi_k70">Redmi K70</string>
     <string name="redmi_note_5">Redmi Note 5</string>
     <string name="redmi_note_7">Redmi Note 7</string>
     <string name="redmi_note_7_pro">Redmi Note 7 Pro</string>
@@ -1059,6 +1077,11 @@ use the front camera"</string>
     <string name="wireless_charging_notification_message3">An error occurred during charging. Reverse wireless charging is turned off now.</string>
     <string name="wireless_charging_notification_titile">Turned off reverse wireless charging</string>
     <string name="xiaomi">Mi</string>
+    <string name="xiaomi_13">Xiaomi 13</string>
+    <string name="xiaomi_13t">Xiaomi 13T</string>
+    <string name="xiaomi_14">Xiaomi 14</string>
+    <string name="xiaomi_14_pro">Xiaomi 14 Pro</string>
+    <string name="xiaomi_14_ultra">Xiaomi 14 Ultra</string>
     <string name="xiaomi_6">Mi 6</string>
     <string name="xiaomi_8">Mi 8</string>
     <string name="xiaomi_8_exp">Mi 8 Explorer Edition</string>
@@ -1070,6 +1093,7 @@ use the front camera"</string>
     <string name="xiaomi_cc_9">Mi CC9</string>
     <string name="xiaomi_cc_9_custom">Mi CC9 Meitu Edition</string>
     <string name="xiaomi_cc_9e">Mi CC9e</string>
+    <string name="xiaomi_civi2">Xiaomi Civi 2</string>
     <string name="xiaomi_max_3">Mi MAX 3</string>
     <string name="xiaomi_mix_2">Mi MIX 2</string>
     <string name="xiaomi_mix_2s">Mi MIX 2S</string>

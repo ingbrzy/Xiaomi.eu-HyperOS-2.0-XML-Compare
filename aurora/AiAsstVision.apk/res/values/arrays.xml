@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="aborted_intent_actions">
+        <item>com.miui.whetstone.kloserver.BROWSER_ABORTED</item>
+    </string-array>
+    <string-array name="aborted_packages">
+        <item>com.android.browser</item>
+    </string-array>
+    <string-array name="aborted_types">
+        <item>am_crash</item>
+        <item>am_kill</item>
+    </string-array>
     <string-array name="alphabet_sub_table_with_starred">
         <item>!</item>
         <item>A</item>
@@ -178,13 +188,6 @@
         <item>@fraction/miuix_default_card_stroke_gradient_color_start_position</item>
         <item>@fraction/miuix_default_card_stroke_gradient_color_end_position</item>
     </array>
-    <string-array name="default_reason_list">
-        <item>@string/default_reason_list1</item>
-        <item>@string/default_reason_list2</item>
-        <item>@string/default_reason_list3</item>
-        <item>@string/default_reason_list4</item>
-        <item>@string/default_reason_list5</item>
-    </string-array>
     <string-array name="detailed_am_pms">
         <item>@string/midnight</item>
         <item>@string/early_morning</item>
@@ -211,6 +214,79 @@
     <string-array name="eras">
         <item>@string/eras_bc</item>
         <item>@string/eras_ad</item>
+    </string-array>
+    <string-array name="face_trans_lang_list">
+        <item>@string/language_cn</item>
+        <item>@string/language_en</item>
+        <item>@string/language_de</item>
+        <item>@string/language_ru</item>
+        <item>@string/language_fr</item>
+        <item>@string/language_ko</item>
+        <item>@string/language_pt</item>
+        <item>@string/language_ja</item>
+        <item>@string/language_es</item>
+        <item>@string/language_it</item>
+        <item>@string/language_hi</item>
+        <item>@string/language_id</item>
+        <item>@string/language_ar_sa</item>
+        <item>@string/language_zh_hk</item>
+        <item>@string/language_pl</item>
+        <item>@string/language_sk</item>
+        <item>@string/language_cs</item>
+        <item>@string/language_ms</item>
+        <item>@string/language_th</item>
+        <item>@string/language_tr</item>
+        <item>@string/language_vi</item>
+        <item>@string/language_kk</item>
+        <item>@string/language_ro</item>
+        <item>@string/language_fil</item>
+        <item>@string/language_uz</item>
+        <item>@string/language_az</item>
+        <item>@string/language_nl</item>
+        <item>@string/language_el</item>
+        <item>@string/language_mm</item>
+    </string-array>
+    <integer-array name="face_trans_lang_list_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+    </integer-array>
+    <string-array name="filter_broadcasts">
+        <item>android.net.conn.CONNECTIVITY_CHANGE</item>
+    </string-array>
+    <string-array name="floating_window_background_entries">
+        <item>@string/black_color</item>
+        <item>@string/transparent_color</item>
+    </string-array>
+    <string-array name="floating_window_background_entry_values">
+        <item>0</item>
+        <item>1</item>
     </string-array>
     <string-array name="heavenly_stems">
         <item>@string/heavenly_stems_jia</item>
@@ -278,107 +354,8 @@
         <item>com.miui.cloudservice</item>
         <item>com.android.deskclock</item>
     </string-array>
-    <string-array name="passport_account_user_gender_name">
-        <item>Male</item>
-        <item>Female</item>
-    </string-array>
-    <string-array name="passport_alphabet_table">
-        <item>\#</item>
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        <item>E</item>
-        <item>F</item>
-        <item>G</item>
-        <item>H</item>
-        <item>I</item>
-        <item>J</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
-    </string-array>
-    <string-array name="permission_risk_privacy">
-        <item>android.permission.SYSTEM_CAMERA</item>
-        <item>android.permission.MANAGE_OWN_CALLS</item>
-        <item>android.permission.GET_TASKS</item>
-        <item>android.permission.CALL_COMPANION_APP</item>
-        <item>android.permission.WRITE_EXTERNAL_STORAGE</item>
-        <item>android.permission.WRITE_CALENDAR</item>
-        <item>android.permission.RECORD_AUDIO</item>
-        <item>android.permission.RECEIVE_WAP_PUSH</item>
-        <item>android.permission.RECEIVE_SMS</item>
-        <item>android.permission.RECEIVE_MMS</item>
-        <item>android.permission.READ_SMS</item>
-        <item>android.permission.READ_PHONE_STATE</item>
-        <item>android.permission.READ_PHONE_NUMBERS</item>
-        <item>android.permission.READ_EXTERNAL_STORAGE</item>
-        <item>android.permission.READ_CONTACTS</item>
-        <item>android.permission.READ_CELL_BROADCASTS</item>
-        <item>android.permission.READ_CALL_LOG</item>
-        <item>android.permission.READ_CALENDAR</item>
-        <item>android.permission.GET_ACCOUNTS</item>
-        <item>android.permission.CAMERA</item>
-        <item>android.permission.BODY_SENSORS</item>
-        <item>android.permission.ACTIVITY_RECOGNITION</item>
-        <item>android.permission.ACCESS_MEDIA_LOCATION</item>
-        <item>android.permission.ACCESS_FINE_LOCATION</item>
-        <item>android.permission.ACCESS_COARSE_LOCATION</item>
-        <item>android.permission.ACCESS_BACKGROUND_LOCATION</item>
-        <item>android.permission.GET_INSTALLED_APPS</item>
-        <item>android.permission.PERMLAB_BLUETOOTH_SCAN</item>
-        <item>android.permission.ACCESS_NOTIFICATIONS</item>
-    </string-array>
-    <string-array name="permission_risk_security">
-        <item>android.permission.ACCESS_LOCATION_EXTRA_COMMANDS</item>
-        <item>android.permission.ACCESS_MOCK_LOCATION</item>
-        <item>android.permission.BROADCAST_PACKAGE_REMOVED</item>
-        <item>android.permission.BROADCAST_SMS</item>
-        <item>android.permission.BROADCAST_STICKY</item>
-        <item>android.permission.BROADCAST_WAP_PUSH</item>
-        <item>android.permission.CHANGE_COMPONENT_ENABLED_STATE</item>
-        <item>android.permission.DELETE_PACKAGES</item>
-        <item>android.permission.INJECT_EVENTS</item>
-        <item>android.permission.INSTALL_PACKAGES</item>
-        <item>android.permission.INTERNET</item>
-        <item>android.permission.MODIFY_AUDIO_SETTINGS</item>
-        <item>android.permission.MODIFY_PHONE_STATE</item>
-        <item>android.permission.PERFORM_CDMA_PROVISIONING</item>
-        <item>android.permission.PROCESS_OUTGOING_CALLS</item>
-        <item>android.permission.REMOVE_TASKS</item>
-        <item>android.permission.REORDER_TASKS</item>
-        <item>android.permission.SET_ACTIVITY_WATCHER</item>
-        <item>android.permission.SET_DEBUG_APP</item>
-        <item>android.permission.SET_PREFERRED_APPLICATIONS</item>
-        <item>android.permission.SUBSCRIBED_FEEDS_WRITE</item>
-        <item>android.permission.SYSTEM_ALERT_WINDOW</item>
-        <item>android.permission.WRITE_APN_SETTINGS</item>
-        <item>android.permission.WRITE_CALENDAR</item>
-        <item>android.permission.WRITE_CONTACTS</item>
-        <item>android.permission.WRITE_SETTINGS</item>
-        <item>android.permission.WRITE_SMS</item>
-        <item>android.permission.WRITE_SOCIAL_STREAM</item>
-        <item>com.android.browser.permission.WRITE_HISTORY_BOOKMARKS</item>
-    </string-array>
-    <string-array name="pure_introduction_label">
-        <item>@string/pure_introduction_label1</item>
-        <item>@string/pure_introduction_label2</item>
-        <item>@string/pure_introduction_label3</item>
-        <item>@string/pure_introduction_label4</item>
-        <item>@string/pure_introduction_label5</item>
+    <string-array name="runtime_permission_desc">
+        <item>用于语音翻译等功能的语音识别</item>
     </string-array>
     <string-array name="solar_terms">
         <item>@string/empty</item>
@@ -406,6 +383,46 @@
         <item>@string/solar_term_light_snow</item>
         <item>@string/solar_term_heavy_snow</item>
         <item>@string/solar_term_winter_solstice</item>
+    </string-array>
+    <string-array name="sound_source_entries">
+        <item>@string/sys_sound</item>
+        <item>@string/mic_sound</item>
+    </string-array>
+    <string-array name="sound_source_entry_summaries">
+        <item>@string/sys_sound_content</item>
+        <item>@string/mic_sound_content</item>
+        <item>@string/meeting_sound_content_able</item>
+    </string-array>
+    <string-array name="sound_source_entry_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="text_size_entries">
+        <item>@string/caption_text_size_small</item>
+        <item>@string/caption_text_size_mid</item>
+        <item>@string/caption_text_size_large</item>
+    </string-array>
+    <string-array name="text_size_entry_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="tone_setting_entries">
+        <item>Melissa</item>
+        <item>Matt</item>
+    </string-array>
+    <string-array name="tone_setting_entry_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="voice_translation_fold_mode">
+        <item>@string/face_trans_layout_vertical</item>
+        <item>@string/face_trans_layout_face_to_face</item>
+        <item>@string/face_trans_layout_tongliang</item>
+    </string-array>
+    <string-array name="voice_translation_mode">
+        <item>@string/face_trans_layout_vertical</item>
+        <item>@string/face_trans_layout_face_to_face</item>
     </string-array>
     <string-array name="week_days">
         <item>@string/sunday</item>
