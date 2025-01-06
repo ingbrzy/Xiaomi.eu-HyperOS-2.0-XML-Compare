@@ -1246,11 +1246,9 @@
     <string-array name="charge_animation_style_entries">
         <item>@string/charge_animation_style_none</item>
         <item>@string/charge_animation_style_lollipop</item>
-        <item>@string/charge_animation_style_video</item>
         <item>@string/charge_animation_style_wave</item>
     </string-array>
     <string-array name="charge_animation_style_values">
-        <item>-1</item>
         <item>0</item>
         <item>1</item>
         <item>2</item>
@@ -3015,6 +3013,12 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Light colors</item>
         <item>Black and white</item>
     </string-array>
+    <integer-array name="pc_charge_protection_handle_limits">
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+    </integer-array>
     <string-array name="perm_hips_action">
         <item>Allow</item>
         <item>Ask</item>

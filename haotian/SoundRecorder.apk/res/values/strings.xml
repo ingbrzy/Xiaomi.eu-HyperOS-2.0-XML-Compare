@@ -45,10 +45,12 @@
     <string name="airecorder_notification_recording_pause">Recorder paused</string>
     <string name="airecorder_notification_recording_stopped">Recording stopped</string>
     <string name="airecorder_notification_recording_ticker">Phone muted</string>
+    <string name="airecorder_os2_notification_recording">Recording</string>
+    <string name="airecorder_os2_off_screen_notification_stop">Recording complete</string>
     <string name="airecorder_pause_status_focus_notification">Recording paused</string>
     <string name="airecorder_record_while_in_call_tip">"Can't record during calls"</string>
     <string name="airecorder_recording_status_focus_notification">Recording</string>
-    <string name="airecorder_speaker">SpeakerȀ</string>
+    <string name="airecorder_speaker">"Speaker "</string>
     <string name="airecorder_stop_status_focus_notification">Finished recording</string>
     <string name="airecorder_text_btn_complete">Finish</string>
     <string name="airecorder_text_btn_pause">Pause</string>
@@ -87,6 +89,15 @@
     <string name="call_record_list_group_all">All</string>
     <string name="call_record_list_group_connected">Connected</string>
     <string name="call_record_list_group_unconnected">Not connected</string>
+    <string name="cant_generate_summary_by_account_un_login1">"Sign in to your Xiaomi Account to generate summaries. "</string>
+    <string name="cant_generate_summary_by_account_un_login2">Sign in</string>
+    <string name="cant_generate_summary_by_block_list_error">"You've been blocked from using this feature for multiple violations of our guidelines"</string>
+    <string name="cant_generate_summary_by_language_type_limit">"Can't generate summaries for this language"</string>
+    <string name="cant_generate_summary_by_network_error1">"A network error occurred. "</string>
+    <string name="cant_generate_summary_by_network_error2">Try again</string>
+    <string name="cant_generate_summary_by_sensitive_content">"Can't summarize sensitive content"</string>
+    <string name="cant_generate_summary_by_unkonw_error">An unknown error occurred</string>
+    <string name="cant_generate_summary_by_word_limit">"Too few or too many characters. Can't create summary."</string>
     <string name="character_counter_content_description">Characters entered %1$d of %2$d</string>
     <string name="character_counter_overflowed_content_description">Character limit exceeded %1$d of %2$d</string>
     <string name="character_counter_pattern">%1$d/%2$d</string>
@@ -512,6 +523,7 @@ Tap \"%1$s\", and then select \"%2$s\"."</string>
     <string name="noon">Midday</string>
     <string name="not_allowed">Not granted</string>
     <string name="not_set">Not set</string>
+    <string name="notice_for_ai_search_tips">Details</string>
     <string name="notification_message_all_paused">Waiting for Wi-Fi connection.</string>
     <string name="notification_playback">Playing…</string>
     <string name="notification_recording">Recording…</string>
@@ -915,7 +927,7 @@ Tap \"%1$s\", and then select \"%2$s\"."</string>
     <string name="solar_term_winter_begins">Winter begins</string>
     <string name="solar_term_winter_solstice">Winter solstice</string>
     <string name="sound_recorder_settings">Settings</string>
-    <string name="speaker">SpeakerȀ</string>
+    <string name="speaker">"Speaker "</string>
     <string name="status_bar_back">Tap to return to Recorder</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_recording">Recording…</string>
@@ -933,6 +945,7 @@ Tap \"%1$s\", and then select \"%2$s\"."</string>
     <string name="summary_error_limit_tip">Your use of this feature has been blocked</string>
     <string name="summary_error_tip">"Can't summarize sensitive or offensive content"</string>
     <string name="summary_information_tip">The above content is AI-generated and is provided for your reference only.</string>
+    <string name="summary_is_generating">Generating summary…</string>
     <string name="summary_size_max_tip">Too much content to summarize</string>
     <string name="summary_size_min_tip">Too little content to summarize</string>
     <string name="sunday">Sunday</string>
@@ -945,7 +958,10 @@ Tap \"%1$s\", and then select \"%2$s\"."</string>
     <string name="tab_call">Calls</string>
     <string name="tab_fm">FM</string>
     <string name="tab_record">@string/app_name</string>
+    <string name="talkback_component_exit_button">Close floating window</string>
+    <string name="talkback_return_speak_location">Switch back to synced playback</string>
     <string name="talkback_traslation">Translate</string>
+    <string name="talkback_traslation_ai_recognize">Hide text box</string>
     <string name="talkback_traslation_close">Stop translating</string>
     <string name="text_btn_backward_3_seconds">%d seconds back</string>
     <string name="text_btn_complete">Stop</string>
@@ -961,6 +977,10 @@ Tap \"%1$s\", and then select \"%2$s\"."</string>
     <string name="text_copy_complete">已复制到剪贴板</string>
     <string name="text_finish">Confirm</string>
     <string name="text_for_build_database_progress">Analyzing recording…(%s)</string>
+    <string name="text_for_build_database_progress_state_paused">Recordings will be analyzed on your device to provide more accurate results</string>
+    <string name="text_for_build_database_progress_state_running">Analyzing recordings to provide more accurate results…</string>
+    <string name="text_for_build_database_progress_state_stooping">"Recordings will be analyzed on your device to provide more accurate results.
+Currently paused. Analysis will resume when you aren't using your device."</string>
     <string name="text_play_speed_0_5">0.5X playback speed</string>
     <string name="text_play_speed_1_0">Regular playback speed</string>
     <string name="text_play_speed_1_5">1.5X playback speed</string>

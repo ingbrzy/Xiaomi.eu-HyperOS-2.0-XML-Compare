@@ -5665,10 +5665,12 @@
     <string-array name="fullscreen_activity_list_virtual_carwith">
         <item>com.tencent.qqlive/.ona.activity.VideoDetailActivity,psc:uc</item>
         <item>com.baidu.BaiduMap/com.baidu.baidumaps.MapsActivity,psc:uc</item>
+        <item>com.ifeng.fhdt/.video.channel.activity.VideoContentActivity,psc:uc</item>
     </string-array>
     <string-array name="fullscreen_activity_list_virtual_milink">
         <item>com.miui.securitycenter/com.miui.applicationlock.ConfirmAccessControl,psm</item>
         <item>com.instagram.android/com.instagram.modal.ModalActivity,psm:nr</item>
+        <item>com.tencent.mm/.plugin.account.ui.WelcomeActivity,psm:uc</item>
     </string-array>
     <string-array name="fullscreen_landscape_list">
         <item>com.tencent.mm,de:nrs:nra</item>
@@ -6193,10 +6195,10 @@
         <item>com.autonavi.minimap,psc</item>
         <item>com.baidu.BaiduMap,psc</item>
         <item>com.ss.android.lark,psc</item>
-        <item>com.tencent.wemeet.app,psc</item>
+        <item>com.tencent.wemeet.app,psc:fk</item>
         <item>com.tencent.qqlive,psc</item>
         <item>com.ximalaya.ting.android,psc:uc</item>
-        <item>com.ifeng.fhdt,psc</item>
+        <item>com.ifeng.fhdt,psc:fk</item>
         <item>com.ximalaya.ting.lite,psc</item>
     </string-array>
     <string-array name="fullscreen_landscape_list_virtual_milink">
@@ -6215,7 +6217,7 @@
         <item>com.lemon.lv,psm:ssa:fk</item>
         <item>com.fenbi.android.leo,psm:ssa</item>
         <item>com.tencent.wework,psm:ssa</item>
-        <item>com.tencent.mobileqq,psm:ssa</item>
+        <item>com.tencent.mobileqq,psm:fk:ssa</item>
         <item>com.baidu.BaiduMap,psm:fk</item>
         <item>com.smile.gifmaker,psm:ssa</item>
         <item>com.xingin.xhs,psm:ssa</item>
@@ -6302,6 +6304,7 @@
         <item>com.miui.mediaeditor,psm:ssa</item>
         <item>com.miui.mediaviewer,psm:ssa</item>
         <item>com.android.settings,psm:ssa</item>
+        <item>com.jingdong.app.mall,psm:ssa</item>
     </string-array>
     <array name="fullscreen_landscape_list_virtual_milink_global" />
     <string-array name="gamemode_list">
@@ -6460,6 +6463,7 @@
         <item>taro</item>
         <item>mt6983</item>
         <item>mt6895</item>
+        <item>mt6897</item>
         <item>pineapple</item>
         <item>mt6985</item>
         <item>sun</item>
@@ -6473,6 +6477,7 @@
         <item>taro</item>
         <item>mt6983</item>
         <item>mt6895</item>
+        <item>mt6897</item>
         <item>pineapple</item>
         <item>mt6985</item>
         <item>sun</item>
@@ -7828,7 +7833,6 @@
         <item>mt6893</item>
         <item>mt6877</item>
         <item>mt6789</item>
-        <item>mt6897</item>
         <item>mt6886</item>
     </string-array>
     <string-array name="middle_device_gpu_list">
@@ -7844,7 +7848,6 @@
         <item>mt6893</item>
         <item>mt6877</item>
         <item>mt6789</item>
-        <item>mt6897</item>
         <item>mt6886</item>
     </string-array>
     <string-array name="miui_camera_refresh_rate_black_list">
@@ -8202,6 +8205,9 @@
         <item>com.android.phone</item>
         <item>com.android.nfc</item>
         <item>com.fingerprints.serviceext</item>
+    </string-array>
+    <string-array name="not_start_browser_in_freeform_apps">
+        <item>com.blizzard.wtcg.hearthstone</item>
     </string-array>
     <string-array name="organized_languages_default">
         <item>zh_CN</item>
@@ -9082,6 +9088,8 @@
         <item>com.miui.newhome/.business.ui.details.VideoDetailActivity,topVideo</item>
         <item>com.smile.gifmaker/com.yxcorp.gifshow.HomeActivity,centerTopVideo:captureScreenShot</item>
         <item>com.kuaishou.nebula/com.yxcorp.gifshow.HomeActivity,centerTopVideo:captureScreenShot</item>
+        <item>com.google.android.youtube/com.google.android.apps.youtube.app.watchwhile.MainActivity,topVideo</item>
+        <item>com.bilibili.app.in/com.bilibili.ship.theseus.detail.UnitedBizDetailsActivity,topVideo</item>
     </string-array>
     <string-array name="screen_rotation_animation_package_list">
         <item>com.qiyi.video,topVideo</item>
@@ -9101,6 +9109,17 @@
         <item>com.baidu.searchbox.lite,centerVideo</item>
         <item>cn.xuexi.android,centerVideo</item>
         <item>com.tencent.qqlive,topVideo</item>
+        <item>com.google.android.youtube,centerVideo</item>
+        <item>com.netflix.mediaclient,topVideo</item>
+        <item>com.instagram.android,centerTopVideo</item>
+        <item>com.facebook.katana,centerTopVideo</item>
+        <item>com.twitter.android,centerVideo</item>
+        <item>com.miui.videoplayer,topVideo</item>
+        <item>com.bilibili.app.in,centerTopVideo</item>
+        <item>com.iqiyi.i18n,topVideo</item>
+        <item>com.youku.international.phone,topVideo</item>
+        <item>com.tencent.qqlivei18n,topVideo</item>
+        <item>com.hunantv.imgo.activity.inter,topVideo</item>
     </string-array>
     <string-array name="sensor_disable_list">
         <item>tv.danmaku.bili</item>
