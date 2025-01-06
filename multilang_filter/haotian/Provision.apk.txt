@@ -1,4 +1,5 @@
 Removed: [ar] strings.xml: string/service_security_over_r (wrong format)
+Removed: [az-rAZ] strings.xml: string/service_security_over_r (wrong format)
 Removed: [bg] strings.xml: string/service_security_over_r (wrong format)
 Removed: [bo-rCN] dimens.xml: dimen/miuix_appcompat_button_inline_content_safe_padding_vertical (wrong value unit)
 Removed: [cs] strings.xml: string/service_security_over_r (wrong format)
