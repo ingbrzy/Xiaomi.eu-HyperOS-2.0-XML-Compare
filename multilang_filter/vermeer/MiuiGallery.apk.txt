@@ -1,7 +1,6 @@
 Removed: [ar] plurals.xml: plurals/video_editor_component_hint_text (wrong item format)
 Removed: [as-rIN] plurals.xml: plurals/video_editor_component_hint_text (wrong item format)
 Removed: [az-rAZ] plurals.xml: plurals/video_editor_component_hint_text (wrong item format)
-Removed: [be] plurals.xml: plurals/video_editor_component_hint_text (wrong item format)
 Removed: [bg] plurals.xml: plurals/video_editor_component_hint_text (wrong item format)
 Removed: [bn-rBD] plurals.xml: plurals/video_editor_component_hint_text (wrong item format)
 Removed: [bn-rIN] plurals.xml: plurals/video_editor_component_hint_text (wrong item format)
