@@ -1219,6 +1219,8 @@ Scan something else instead."</string>
     <string name="waybill_num">"Order: "</string>
     <string name="web">Website:</string>
     <string name="web_url">URL</string>
+    <string name="web_url_confirm_content">您扫描的二维码将引导至一个链接，此链接有风险可能性。它也许与恶意网站、网络陷阱相关，可能损害您的设备安全或者个人隐私。如果您选择继续，请确认您已充分了解相关风险。</string>
+    <string name="web_url_confirm_title">安全提醒</string>
     <string name="website_details">Website:</string>
     <string name="wechat_pay">WeChat Pay</string>
     <string name="wechat_scan_code">WeChat scanner</string>
