@@ -1,6 +1,0 @@
-Removed: [de] strings.xml: string/chooser_title (wrong format)
-Removed: [de] strings.xml: string/summary_watch (wrong format)
-Removed: [ro] strings.xml: string/chooser_title (wrong format)
-Removed: [ro] strings.xml: string/summary_watch (wrong format)
-Removed: [sl] strings.xml: string/chooser_title (wrong format)
-Removed: [sl] strings.xml: string/summary_watch (wrong format)
