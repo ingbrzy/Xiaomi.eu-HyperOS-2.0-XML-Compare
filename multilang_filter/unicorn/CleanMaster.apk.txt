@@ -1,0 +1,7 @@
+Removed: [bo-rCN] dimens.xml: dimen/miuix_appcompat_button_inline_content_safe_padding_vertical (wrong value unit)
+Removed: [bo-rCN] plurals.xml: plurals/dialog_content_delete_image_from_all_devices_confirm (wrong item format)
+Removed: [it] plurals.xml: plurals/wechat_empty_files (wrong item format)
+Removed: [ug-rCN] plurals.xml: plurals/dialog_content_delete_image_from_all_devices_confirm (wrong item format)
+Removed: [zh-rCN] plurals.xml: plurals/dialog_content_delete_image_from_all_devices_confirm (wrong item format)
+Removed: [zh-rHK] plurals.xml: plurals/dialog_content_delete_image_from_all_devices_confirm (wrong item format)
+Removed: [zh-rTW] plurals.xml: plurals/dialog_content_delete_image_from_all_devices_confirm (wrong item format)
