@@ -32,4 +32,5 @@
     <string name="weather_type_23">گرد و خاک</string>
     <string name="weather_type_24">مه</string>
     <string name="weather_type_25">باران یخی</string>
+    <string name="RTL">1</string>
 </resources>
