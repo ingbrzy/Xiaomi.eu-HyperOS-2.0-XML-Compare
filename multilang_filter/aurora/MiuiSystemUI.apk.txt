@@ -1,5 +1,6 @@
 Removed: [ar] arrays.xml: array/bt_hci_snoop_log_entries (wrong item count)
 Removed: [az] arrays.xml: array/bt_hci_snoop_log_entries (wrong item count)
+Removed: [az-rAZ] arrays.xml: array/wifitrackerlib_wifi_status (wrong item count)
 Removed: [bg] arrays.xml: array/bt_hci_snoop_log_entries (wrong item count)
 Removed: [bo-rCN] arrays.xml: array/bluetooth_a2dp_codec_summaries (wrong item count)
 Removed: [bo-rCN] arrays.xml: array/bluetooth_a2dp_codec_titles (wrong item count)
