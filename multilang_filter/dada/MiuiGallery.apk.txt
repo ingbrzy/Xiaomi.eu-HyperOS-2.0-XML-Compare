@@ -1,3 +1,4 @@
+Removed: [az-rAZ] arrays.xml: array/menu_copy_or_move (wrong item count)
 Removed: [bo-rCN] plurals.xml: plurals/ai_create_remain_time_minute (wrong item format)
 Removed: [bo-rCN] strings.xml: string/album_share_subtitle_quitting (wrong format)
 Removed: [bo-rCN] strings.xml: string/confirm_download_video_message (wrong format)
