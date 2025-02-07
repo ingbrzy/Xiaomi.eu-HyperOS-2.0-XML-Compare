@@ -1,3 +1,8 @@
+Removed: [az-rAZ] strings.xml: string/audio_track_mutex_truecolor_setting_tips (wrong format)
+Removed: [az-rAZ] strings.xml: string/cine_screen_prompt (wrong format)
+Removed: [az-rAZ] strings.xml: string/connect_view_sub_title_new2 (wrong attributes)
+Removed: [az-rAZ] strings.xml: string/update_loading (wrong format)
+Removed: [az-rAZ] strings.xml: string/video_quality_audio_track_conflict_toast (wrong format)
 Removed: [be] strings.xml: string/audio_track_mutex_truecolor_setting_tips (wrong format)
 Removed: [be] strings.xml: string/cine_screen_prompt (wrong format)
 Removed: [be] strings.xml: string/connect_view_sub_title_new2 (wrong attributes)

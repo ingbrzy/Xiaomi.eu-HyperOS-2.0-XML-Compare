@@ -1,3 +1,4 @@
+Removed: [az-rAZ] plurals.xml: plurals/number_items (wrong item format)
 Removed: [be] plurals.xml: plurals/number_items (wrong item format)
 Removed: [bo-rCN] dimens.xml: dimen/miuix_appcompat_button_inline_content_safe_padding_vertical (wrong value unit)
 Removed: [ca] plurals.xml: plurals/number_items (wrong item format)
