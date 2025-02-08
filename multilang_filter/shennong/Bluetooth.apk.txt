@@ -1,3 +1,5 @@
+Removed: [az-rAZ] strings.xml: string/bt_sm_2_1_default (wrong format)
+Removed: [az-rAZ] strings.xml: string/bt_sm_2_1_nosdcard (wrong format)
 Removed: [be-v34] strings.xml: string/bt_sm_2_1_default (wrong format)
 Removed: [be-v34] strings.xml: string/bt_sm_2_1_nosdcard (wrong format)
 Removed: [bo-rCN] dimens.xml: dimen/miuix_appcompat_button_inline_content_safe_padding_vertical (wrong value unit)
