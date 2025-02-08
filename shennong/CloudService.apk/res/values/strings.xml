@@ -135,6 +135,7 @@
     <string name="cloud_storage_almost_full_upgrade_text">Storage is almost full. May not be able to sync photos.</string>
     <string name="cloud_storage_common_functions_text">Frequently used</string>
     <string name="cloud_storage_default_title">Cloud storage</string>
+    <string name="cloud_storage_full_international_upgrade_default_text">Insufficient storage. Cloud sync paused.</string>
     <string name="cloud_storage_full_upgrade_default_text">"Insufficient storage. Couldn't sync photos."</string>
     <string name="cloud_storage_info_type_creation">Mi Canvas</string>
     <string name="cloud_storage_info_type_drive">Mi Drive</string>
@@ -142,6 +143,7 @@
     <string name="cloud_storage_info_type_family">Family</string>
     <string name="cloud_storage_info_type_others">Other</string>
     <string name="cloud_storage_info_type_pdc">System settings</string>
+    <string name="cloud_storage_international_almost_full_upgrade_text">Storage is full. Pausing cloud sync.</string>
     <string name="cloud_storage_loading_data">Just a sec…</string>
     <string name="cloud_storage_manage_title">Manage storage</string>
     <string name="cloud_storage_no_data">No items in the cloud yet</string>
