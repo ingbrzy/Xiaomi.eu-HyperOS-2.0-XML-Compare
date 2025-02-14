@@ -135,6 +135,7 @@
     <string name="cloud_storage_almost_full_upgrade_text">Storage is almost full. May not be able to sync photos.</string>
     <string name="cloud_storage_common_functions_text">Frequently used</string>
     <string name="cloud_storage_default_title">Cloud storage</string>
+    <string name="cloud_storage_full_international_upgrade_default_text">Insufficient storage. Cloud sync paused.</string>
     <string name="cloud_storage_full_upgrade_default_text">"Insufficient storage. Couldn't sync photos."</string>
     <string name="cloud_storage_info_type_creation">Mi Canvas</string>
     <string name="cloud_storage_info_type_drive">Mi Drive</string>
@@ -142,6 +143,7 @@
     <string name="cloud_storage_info_type_family">Family</string>
     <string name="cloud_storage_info_type_others">Other</string>
     <string name="cloud_storage_info_type_pdc">System settings</string>
+    <string name="cloud_storage_international_almost_full_upgrade_text">Storage is full. Pausing cloud sync.</string>
     <string name="cloud_storage_loading_data">Just a sec…</string>
     <string name="cloud_storage_manage_title">Manage storage</string>
     <string name="cloud_storage_no_data">No items in the cloud yet</string>
@@ -434,6 +436,10 @@ You can also anonymously help others locate their Xiaomi devices."</string>
     <string name="help_and_feedback">Help and feedback</string>
     <string name="i_know">OK</string>
     <string name="input_password_hint">Enter password</string>
+    <string name="jump_market_dialog_btn_cancel">Cancel</string>
+    <string name="jump_market_dialog_btn_open">Open</string>
+    <string name="jump_market_dialog_message">"This feature isn't supported by the system framework. You can update it in GetApps. Open GetApps now?"</string>
+    <string name="jump_market_dialog_title">Attention</string>
     <string name="keybag_create_by_new_passcode_prompt">"This passcode protects your passwords stored in the cloud. You won't be able to access them if you forget this passcode."</string>
     <string name="keybag_create_by_screen_password_prompt">This passcode protects your passwords stored in the cloud. Enter your screen lock to set it as the passcode for Password manager.</string>
     <string name="keybag_dialog_cancel">Cancel</string>
@@ -688,6 +694,7 @@ You can also anonymously help others locate their Xiaomi devices."</string>
     <string name="micloud_setting_browser_summary">Bookmarks, history, and tabs</string>
     <string name="micloud_setting_calendar_summary">Events</string>
     <string name="micloud_setting_calllog_summary">Call history</string>
+    <string name="micloud_setting_cloudkit_summary">%s数据</string>
     <string name="micloud_setting_contact_summary">Contacts and profile photos</string>
     <string name="micloud_setting_gallery_summary">Photos and videos</string>
     <string name="micloud_setting_notes_summary">Notes</string>
@@ -938,6 +945,9 @@ Location info might not be reported when network connection is poor."</string>
     <string name="privacy_runtime_perm_sms_desc">For syncing messages</string>
     <string name="privacy_runtime_perm_sms_title">Access messages</string>
     <string name="privacy_settings">Privacy</string>
+    <string name="progress_notification_downloaded">Download complete</string>
+    <string name="progress_notification_downloading">Progress: %d%%</string>
+    <string name="progress_notification_name">Downloading plug-in</string>
     <string name="project_id">micloud-43705</string>
     <string name="provision_back">Back</string>
     <string name="provision_next">Next</string>
