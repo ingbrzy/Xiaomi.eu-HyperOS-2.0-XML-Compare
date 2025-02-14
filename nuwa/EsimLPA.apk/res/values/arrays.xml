@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="alphabet_sub_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
     <string-array name="alphabet_table">
         <item>A</item>
         <item>B</item>
@@ -62,20 +88,6 @@
     <string-array name="am_pms">
         <item>@string/am</item>
         <item>@string/pm</item>
-    </string-array>
-    <string-array name="bh_array_switch_unit">
-        <item>GB</item>
-        <item>MB</item>
-    </string-array>
-    <string-array name="bh_required_permission_list_all_desc">
-        <item>For providing services to a specific device</item>
-    </string-array>
-    <string-array name="callrecordview_menu_show_values">
-        <item>@string/callrecordview_menu_show_all</item>
-        <item>@string/callrecordview_menu_show_missed</item>
-        <item>@string/callrecordview_menu_show_called</item>
-        <item>@string/callrecordview_menu_show_accepted</item>
-        <item>@string/callrecordview_menu_show_stranger</item>
     </string-array>
     <string-array name="chinese_days">
         <item>@string/chinese_day_1</item>
@@ -193,6 +205,46 @@
         <item>@string/eras_bc</item>
         <item>@string/eras_ad</item>
     </string-array>
+    <string-array name="error_origins">
+        <item>Unknown error source</item>
+        <item>Get Profile info</item>
+        <item>Delete Profile</item>
+        <item>Disable Profile</item>
+        <item>Enable Profile</item>
+        <item>Get Rules Authorization Table</item>
+        <item>Edit nickname</item>
+        <item>Get device EID</item>
+        <item>Reset eSIM</item>
+        <item>Set default SM-DP+ address</item>
+        <item>Get eSIM challenge number</item>
+        <item>Get eSIM configured address</item>
+        <item>Get eSIM information</item>
+        <item>Initialize authentication</item>
+        <item>Verify Profile Policy Rules</item>
+        <item>Prepare download</item>
+        <item>Get Bound Profile Package</item>
+        <item>Verify Profile metadata</item>
+        <item>Download Bound Profile Package</item>
+        <item>Initialize secure channel</item>
+        <item>Configure Profile security domain</item>
+        <item>Store metadata</item>
+        <item>Replace session key</item>
+        <item>Download Profile metadata</item>
+        <item>Sequence of Profile security domain configuration</item>
+        <item>Sequence of Profile protection keys</item>
+        <item>Sequence of stored metadata</item>
+        <item>Sequence of Profile elements</item>
+        <item>Process Profile installation results</item>
+        <item>Delete Profile installation results</item>
+        <item>Authenticate client</item>
+        <item>Authenticate server</item>
+        <item>Download Profile</item>
+        <item>Get notifications</item>
+        <item>Delete notification results</item>
+        <item>Process notifications</item>
+        <item>List notifications</item>
+        <item>Download SM-DS configuration files</item>
+    </string-array>
     <string-array name="heavenly_stems">
         <item>@string/heavenly_stems_jia</item>
         <item>@string/heavenly_stems_yi</item>
@@ -259,13 +311,11 @@
         <item>com.miui.cloudservice</item>
         <item>com.android.deskclock</item>
     </string-array>
-    <string-array name="preference_dial_pad_touch_tone_entries">
-        <item>@string/preference_dial_pad_touch_tone_default</item>
-        <item>@string/preference_dial_pad_touch_tone_piano</item>
-    </string-array>
-    <string-array name="preference_dial_pad_touch_tone_entry_values">
-        <item>-1</item>
-        <item>0</item>
+    <string-array name="ppr_ids">
+        <item></item>
+        <item>"Can't disable this Profile"</item>
+        <item>"Can't delete this Profile"</item>
+        <item>Disable this Profile to be able to delete it</item>
     </string-array>
     <string-array name="solar_terms">
         <item>@string/empty</item>

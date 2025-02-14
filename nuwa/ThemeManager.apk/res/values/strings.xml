@@ -854,10 +854,6 @@ To turn this feature off, go to Settings > Sound &amp; vibration > Profile video
     <string name="kg_classic_item_step_number">Steps</string>
     <string name="kg_classic_item_sunrise_or_sunset">Sunrise and sunset</string>
     <string name="kg_classic_item_temperature">Temperature</string>
-    <string name="kg_classic_item_type_date">日期</string>
-    <string name="kg_classic_item_type_health">健康</string>
-    <string name="kg_classic_item_type_time">时间</string>
-    <string name="kg_classic_item_type_weather">天气</string>
     <string name="kg_classic_item_ultraviolet_ray">UV index</string>
     <string name="kg_classic_item_vitality">Stats</string>
     <string name="kg_classic_item_weather_cloudy">Cloudy</string>
@@ -874,6 +870,10 @@ To turn this feature off, go to Settings > Sound &amp; vibration > Profile video
     <string name="kg_color_value_editor_title">Edit color</string>
     <string name="kg_confirm">OK</string>
     <string name="kg_customize">Customize</string>
+    <string name="kg_dialog_apply_link_video_wallpaper_confirm_title">Apply theme</string>
+    <string name="kg_dialog_apply_link_video_wallpaper_nagetive_button">Cancel</string>
+    <string name="kg_dialog_apply_link_video_wallpaper_positive_button">Apply</string>
+    <string name="kg_dialog_apply_link_video_wallpaper_wallpaper_confirm">"You're using a wallpaper set now. If you apply a new theme, both the Lock screen and Home screen wallpapers will be replaced, and the Always-on display will be restored to the previous style. Apply anyway?"</string>
     <string name="kg_dialog_apply_not_support_super_wallpaper_confirm">"This Lock screen doesn't support Super wallpapers. Wallpaper on both your Home and Lock screens will be replaced if you continue. Continue anyway?"</string>
     <string name="kg_dialog_apply_super_wallpaper_confirm">"You're currently using a Super wallpaper. It'll be replaced with a new wallpaper on both your Home and Lock screens if you continue. Continue anyway?"</string>
     <string name="kg_dialog_apply_super_wallpaper_nagetive_button">Cancel</string>
@@ -890,9 +890,11 @@ To turn this feature off, go to Settings > Sound &amp; vibration > Profile video
     <string name="kg_doodle_secondary_disable_tip">Turn on depth effect</string>
     <string name="kg_doodle_secondary_label">Background</string>
     <string name="kg_doodle_text_not_support_gallery_tip">"Wallpaper Carousel doesn't support doodles"</string>
+    <string name="kg_doodle_text_not_support_third_party_wallpaper_service_tip">"Third party wallpapers don't support doodles"</string>
     <string name="kg_doodle_text_not_support_wallpaper_tip">"This wallpaper doesn't support doodles"</string>
     <string name="kg_edit_cancel_dialog_content">Discard all changes now?</string>
     <string name="kg_edit_cancel_dialog_title">Discard changes?</string>
+    <string name="kg_effects_not_support_gallery_tip">"Can't set effects when using wallpaper slideshow"</string>
     <string name="kg_effects_tip_button">Got it</string>
     <string name="kg_effects_tip_desc">"Depth of field effect can't be combined with filters. Using one of them will replace the other."</string>
     <string name="kg_effects_tip_not_support">"Can't apply effects to dynamic wallpapers"</string>
@@ -943,7 +945,7 @@ To turn this feature off, go to Settings > Sound &amp; vibration > Profile video
     <string name="kg_guidance_dialog_title">All-new personalized Lock screen</string>
     <string name="kg_hierarchy_loading_tip">Detecting layers…</string>
     <string name="kg_hierarchy_not_support_avoid_tip">Adjust wallpaper position to make depth effect visible</string>
-    <string name="kg_hierarchy_not_support_gallery_tip">"Can't apply depth effects to slideshow items"</string>
+    <string name="kg_hierarchy_not_support_gallery_tip">"Can't turn on depth effect when using wallpaper slideshow"</string>
     <string name="kg_hierarchy_not_support_third_party_wallpaper_service_tip">"Third-party wallpapers don't support depth effects"</string>
     <string name="kg_hierarchy_not_support_wallpaper_tip">"This wallpaper doesn't support depth effect"</string>
     <string name="kg_hierarchy_switch_label">Depth effect</string>
@@ -1129,7 +1131,7 @@ MM/dd/yyyy"</string>
     <string name="miui_eastern_art_b_data2_view_format">yyyy</string>
     <string name="miui_eastern_art_b_data_view_format">M月d日</string>
     <string name="miui_eastern_art_b_week_view_format">EEEa</string>
-    <string name="miui_eastern_art_b_year_view_format">YYYY</string>
+    <string name="miui_eastern_art_b_year_view_format">yyyy</string>
     <string name="miui_lock_aqi_level_description_critical">Hazardous</string>
     <string name="miui_lock_aqi_level_description_excellent">Good</string>
     <string name="miui_lock_aqi_level_description_good">Fair</string>
@@ -1233,6 +1235,7 @@ mm"</string>
     <string name="miuix_appcompat_select_all">Select all</string>
     <string name="miuix_appcompat_select_all_description">Select all</string>
     <string name="miuix_appcompat_select_item">Select items</string>
+    <string name="miuix_appcompat_show_dialog_description">Popup Window</string>
     <string name="miuix_bottom_sheet_behavior">miuix.bottomsheet.BottomSheetBehavior</string>
     <string name="miuix_compat_contact">Contacts</string>
     <string name="miuix_compat_dialog_button">Got it</string>
@@ -1256,6 +1259,7 @@ mm"</string>
     <string name="miuix_font_style_misans_thin_font_family">sans-serif-thin</string>
     <string name="miuix_indexer_collect">Collections</string>
     <string name="miuix_indexer_selected">Selected %s</string>
+    <string name="miuix_popup_window_default_title">Popup Window</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Pull down to refresh</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Refreshed successfully</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Refreshing…</string>
@@ -2006,6 +2010,8 @@ You can grant this permission in Settings > Privacy."</string>
     <string name="task_already_exist">This task already exists</string>
     <string name="temperature_unit">°</string>
     <string name="ten_thousand_unit">万</string>
+    <string name="text_input_layout_default_content_description">这是默认的content description</string>
+    <string name="text_input_layout_default_error">这是默认的error</string>
     <string name="text_slash">/</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>
     <string name="the_anti_aggression_day">Anti-Aggression Day</string>
