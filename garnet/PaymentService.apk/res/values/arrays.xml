@@ -63,20 +63,6 @@
         <item>@string/am</item>
         <item>@string/pm</item>
     </string-array>
-    <string-array name="bh_array_switch_unit">
-        <item>GB</item>
-        <item>MB</item>
-    </string-array>
-    <string-array name="bh_required_permission_list_all_desc">
-        <item>For providing services to a specific device</item>
-    </string-array>
-    <string-array name="callrecordview_menu_show_values">
-        <item>@string/callrecordview_menu_show_all</item>
-        <item>@string/callrecordview_menu_show_missed</item>
-        <item>@string/callrecordview_menu_show_called</item>
-        <item>@string/callrecordview_menu_show_accepted</item>
-        <item>@string/callrecordview_menu_show_stranger</item>
-    </string-array>
     <string-array name="chinese_days">
         <item>@string/chinese_day_1</item>
         <item>@string/chinese_day_2</item>
@@ -154,18 +140,6 @@
         <item>@string/chinese_symbol_animals_dog</item>
         <item>@string/chinese_symbol_animals_pig</item>
     </string-array>
-    <integer-array name="default_card_stroke_gradient_colors_dark">
-        <item>0x1FFFFFFF</item>
-        <item>0x14FFFFFF</item>
-    </integer-array>
-    <integer-array name="default_card_stroke_gradient_colors_light">
-        <item>0x4DFFFFFF</item>
-        <item>0x36FFFFFF</item>
-    </integer-array>
-    <array name="default_card_stroke_gradient_colors_positions">
-        <item>@fraction/miuix_default_card_stroke_gradient_color_start_position</item>
-        <item>@fraction/miuix_default_card_stroke_gradient_color_end_position</item>
-    </array>
     <string-array name="detailed_am_pms">
         <item>@string/midnight</item>
         <item>@string/early_morning</item>
@@ -204,6 +178,16 @@
         <item>@string/heavenly_stems_xin</item>
         <item>@string/heavenly_stems_ren</item>
         <item>@string/heavenly_stems_gui</item>
+    </string-array>
+    <string-array name="mibi_nopassword_pay_threshold">
+        <item>100</item>
+        <item>200</item>
+        <item>500</item>
+    </string-array>
+    <string-array name="mibi_nopassword_pay_threshold_values">
+        <item>10000</item>
+        <item>20000</item>
+        <item>50000</item>
     </string-array>
     <string-array name="months">
         <item>@string/month_january</item>
@@ -247,25 +231,38 @@
         <item>@string/month_november_shortest</item>
         <item>@string/month_december_shortest</item>
     </string-array>
-    <string-array name="multi_floating_package_allow_list">
-        <item>com.miui.securitycenter</item>
-        <item>com.miui.weather2</item>
-        <item>com.android.calendar</item>
-        <item>com.android.contacts</item>
-        <item>com.android.mms</item>
-        <item>com.miui.notes</item>
-        <item>com.android.settings</item>
-        <item>com.miui.gallery</item>
-        <item>com.miui.cloudservice</item>
-        <item>com.android.deskclock</item>
+    <string-array name="passport_account_user_gender_name">
+        <item>Male</item>
+        <item>Female</item>
     </string-array>
-    <string-array name="preference_dial_pad_touch_tone_entries">
-        <item>@string/preference_dial_pad_touch_tone_default</item>
-        <item>@string/preference_dial_pad_touch_tone_piano</item>
-    </string-array>
-    <string-array name="preference_dial_pad_touch_tone_entry_values">
-        <item>-1</item>
-        <item>0</item>
+    <string-array name="passport_alphabet_table">
+        <item>\#</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
     </string-array>
     <string-array name="solar_terms">
         <item>@string/empty</item>
