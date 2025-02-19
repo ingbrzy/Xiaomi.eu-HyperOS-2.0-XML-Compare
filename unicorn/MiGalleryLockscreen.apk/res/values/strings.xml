@@ -404,6 +404,9 @@
     <string name="left_lks_detail_entrance">View more</string>
     <string name="left_lks_download_now">Download</string>
     <string name="left_lks_reverse">Pre-order</string>
+    <string name="left_lks_see_more">View</string>
+    <string name="left_lks_subscribe">Pre-order</string>
+    <string name="left_lks_unlocked_download_tip">%s will be downloaded when you unlock your device. You can cancel this action in the Notification shade.</string>
     <string name="left_lks_view">View</string>
     <string name="left_xout_frequently">Shows too frequently</string>
     <string name="left_xout_low_quality">Ad is low quality</string>
@@ -419,6 +422,7 @@
     <string name="lks_cta_reject">"Don't agree"</string>
     <string name="lks_cta_summary1_new">This app provides a diverse range of recommended wallpapers, covering themes such as travel, pets, food, art, and more.</string>
     <string name="lks_cta_summary2_new">"Wallpaper Carousel needs to connect to the internet to provide its services. Read and agree to the &lt;font color ='#0D84FF'>&lt;a href='%1$s'>Xiaomi Operating System User Agreement&lt;/font>&lt;/a> and &lt;font color ='#0D84FF'>&lt;a href='%2$s'>Wallpaper Carousel Privacy Policy&lt;/font>&lt;/a> before you continue."</string>
+    <string name="lks_download" />
     <string name="lks_left_net_deny">Network connection is restricted</string>
     <string name="lks_left_net_error">"Couldn't connect to the network."</string>
     <string name="lks_left_top_notice">Tap here to go back to the top</string>
