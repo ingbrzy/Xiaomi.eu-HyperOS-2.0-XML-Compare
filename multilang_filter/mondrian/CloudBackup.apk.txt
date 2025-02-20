@@ -1,3 +1,4 @@
+Removed: [az-rAZ] strings.xml: string/restore_header_backup_size (wrong format)
 Removed: [bo-rCN] dimens.xml: dimen/miuix_appcompat_button_inline_content_safe_padding_vertical (wrong value unit)
 Removed: [bo-rCN] strings.xml: string/dialog_cloud_space_not_enough (wrong format)
 Removed: [ca] strings.xml: string/restore_header_backup_size (wrong format)
