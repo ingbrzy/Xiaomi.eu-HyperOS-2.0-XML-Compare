@@ -135,6 +135,7 @@
     <string name="cloud_storage_almost_full_upgrade_text">Storage is almost full. May not be able to sync photos.</string>
     <string name="cloud_storage_common_functions_text">Frequently used</string>
     <string name="cloud_storage_default_title">Cloud storage</string>
+    <string name="cloud_storage_full_international_upgrade_default_text">Insufficient storage. Cloud sync paused.</string>
     <string name="cloud_storage_full_upgrade_default_text">"Insufficient storage. Couldn't sync photos."</string>
     <string name="cloud_storage_info_type_creation">Mi Canvas</string>
     <string name="cloud_storage_info_type_drive">Mi Drive</string>
@@ -142,6 +143,7 @@
     <string name="cloud_storage_info_type_family">Family</string>
     <string name="cloud_storage_info_type_others">Other</string>
     <string name="cloud_storage_info_type_pdc">System settings</string>
+    <string name="cloud_storage_international_almost_full_upgrade_text">Storage is full. Pausing cloud sync.</string>
     <string name="cloud_storage_loading_data">Just a sec…</string>
     <string name="cloud_storage_manage_title">Manage storage</string>
     <string name="cloud_storage_no_data">No items in the cloud yet</string>
@@ -407,6 +409,7 @@ You can also anonymously help others locate their Xiaomi devices."</string>
     <string name="friday">Friday</string>
     <string name="friday_short">Fri</string>
     <string name="friday_shortest">Fri</string>
+    <string name="gallery_auto_sync_fail_international_noti_content">Not enough storage space left in the cloud</string>
     <string name="gallery_auto_sync_fail_noti_content">Not enough storage space left in the cloud. Upgrade your storage plan to sync photos and videos.</string>
     <string name="gallery_auto_sync_fail_noti_content_lite">"Cloud storage is insufficient. Can't save photos."</string>
     <string name="gallery_data_transfer_ddl">Deadline: %s</string>
@@ -434,6 +437,10 @@ You can also anonymously help others locate their Xiaomi devices."</string>
     <string name="help_and_feedback">Help and feedback</string>
     <string name="i_know">OK</string>
     <string name="input_password_hint">Enter password</string>
+    <string name="jump_market_dialog_btn_cancel">Cancel</string>
+    <string name="jump_market_dialog_btn_open">Open</string>
+    <string name="jump_market_dialog_message">"This feature isn't supported by the system framework. You can update it in GetApps. Open GetApps now?"</string>
+    <string name="jump_market_dialog_title">Attention</string>
     <string name="keybag_create_by_new_passcode_prompt">"This passcode protects your passwords stored in the cloud. You won't be able to access them if you forget this passcode."</string>
     <string name="keybag_create_by_screen_password_prompt">This passcode protects your passwords stored in the cloud. Enter your screen lock to set it as the passcode for Password manager.</string>
     <string name="keybag_dialog_cancel">Cancel</string>
@@ -514,6 +521,7 @@ You can also anonymously help others locate their Xiaomi devices."</string>
     <string name="lockscreen_positive_btn">Next</string>
     <string name="low_battery_locate_summary">Automatically report location info when the battery is low</string>
     <string name="low_battery_locate_title">Report location when battery is low</string>
+    <string name="manual_activation">Reactivate</string>
     <string name="marketSdkVersion">3.2.22</string>
     <string name="master_alert_notif_content">Back up items regularly not to lose anything important.</string>
     <string name="master_alert_notif_title">Turn on Xiaomi Cloud</string>
@@ -616,6 +624,7 @@ You can also anonymously help others locate their Xiaomi devices."</string>
     <string name="micloud_manual_all_sync_off_title">Sync is off</string>
     <string name="micloud_manual_buy_vip">Get more storage</string>
     <string name="micloud_manual_cloud_storage_full_button_text">Get more storage</string>
+    <string name="micloud_manual_cloud_storage_full_international_summary">"Can't sync photos, contacts, and other items."</string>
     <string name="micloud_manual_cloud_storage_full_summary">"Can't sync photos, contacts, and other items. Upgrade your plan or free up storage space."</string>
     <string name="micloud_manual_cloud_storage_full_title">"Can't sync. Not enough storage space in Xiaomi Cloud."</string>
     <string name="micloud_manual_cloud_storage_low_button_text">Get more storage</string>
@@ -688,6 +697,7 @@ You can also anonymously help others locate their Xiaomi devices."</string>
     <string name="micloud_setting_browser_summary">Bookmarks, history, and tabs</string>
     <string name="micloud_setting_calendar_summary">Events</string>
     <string name="micloud_setting_calllog_summary">Call history</string>
+    <string name="micloud_setting_cloudkit_summary">%s数据</string>
     <string name="micloud_setting_contact_summary">Contacts and profile photos</string>
     <string name="micloud_setting_gallery_summary">Photos and videos</string>
     <string name="micloud_setting_notes_summary">Notes</string>
@@ -919,7 +929,9 @@ Location info might not be reported when network connection is poor."</string>
     <string name="privacy_policy">Privacy Policy</string>
     <string name="privacy_policy_reject_confirm_msg">"You won't be able to keep using Xiaomi Cloud unless you agree to the new version of its &lt;a href=%1$s>&lt;u>Privacy Policy&lt;/u>&lt;/a>. Agree to the updated Privacy Policy now?"</string>
     <string name="privacy_policy_reject_confirm_title">Attention</string>
-    <string name="privacy_policy_revoked_msg">Consent to the Privacy Policy of Xiaomi Cloud was withdrawn for this account. Try using a different account.</string>
+    <string name="privacy_policy_revoked_btn_msg">Got it</string>
+    <string name="privacy_policy_revoked_msg">"You've withdrawn your consent to the Xiaomi Cloud Privacy Policy and all your data stored in the cloud has been cleared. Switch to another account to use this service."</string>
+    <string name="privacy_policy_revoked_msg_contains_manual_activation">"You've withdrawn your consent to the Xiaomi Cloud Privacy Policy and all your data stored in the cloud has been cleared. To use this service again, agree to the Privacy Policy on i.mi.com. For your security, you can only activate an account once per day."</string>
     <string name="privacy_policy_update_msg">Xiaomi Cloud Privacy Policy was updated:&lt;br/>%1$s&lt;br/>Read and agree to the new version of &lt;a href=%2$s>&lt;u>Privacy Policy&lt;/u>&lt;/a> before you continue.</string>
     <string name="privacy_policy_update_title">Updated Privacy Policy</string>
     <string name="privacy_policy_url">app://com.miui.cloudservice.gdpr.license</string>
@@ -938,6 +950,9 @@ Location info might not be reported when network connection is poor."</string>
     <string name="privacy_runtime_perm_sms_desc">For syncing messages</string>
     <string name="privacy_runtime_perm_sms_title">Access messages</string>
     <string name="privacy_settings">Privacy</string>
+    <string name="progress_notification_downloaded">Download complete</string>
+    <string name="progress_notification_downloading">Progress: %d%%</string>
+    <string name="progress_notification_name">Downloading plug-in</string>
     <string name="project_id">micloud-43705</string>
     <string name="provision_back">Back</string>
     <string name="provision_next">Next</string>

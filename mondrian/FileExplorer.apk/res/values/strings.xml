@@ -43,6 +43,8 @@
     <string name="afternoon">Afternoon</string>
     <string name="aggree_desc">Allow this app to connect to the internet and grant the mandatory permissions listed above.</string>
     <string name="agree">Agree</string>
+    <string name="ai_search_building_database">Analyzing files to provide more accurate results…</string>
+    <string name="ai_search_building_database_pause">Files will be analyzed on your device to provide more accurate results</string>
     <string name="ai_search_progress">Analyzing files… (%s)</string>
     <string name="ai_search_progress_tips">"Keep your device connected to the charger. It'll analyze files faster when the screen is off."</string>
     <string name="am">AM</string>
@@ -641,6 +643,7 @@ Try moving files from your device to Mi Drive."</string>
     <string name="miuix_appcompat_select_all">Select all</string>
     <string name="miuix_appcompat_select_all_description">Select all</string>
     <string name="miuix_appcompat_select_item">Select items</string>
+    <string name="miuix_appcompat_show_dialog_description">Popup Window</string>
     <string name="miuix_bottom_sheet_behavior">miuix.bottomsheet.BottomSheetBehavior</string>
     <string name="miuix_font_style_misans_bold_font_family">mipro-bold</string>
     <string name="miuix_font_style_misans_demibold_font_family">sans-serif-medium</string>
@@ -661,6 +664,7 @@ Try moving files from your device to Mi Drive."</string>
     <string name="miuix_navigator_content_switch_description">Show sidebar</string>
     <string name="miuix_navigator_multiple_choice">Select</string>
     <string name="miuix_navigator_navigator_switch_description">Hide sidebar</string>
+    <string name="miuix_popup_window_default_title">Popup Window</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Pull down to refresh</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Refreshed successfully</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Refreshing…</string>
@@ -797,6 +801,7 @@ Try moving files from your device to Mi Drive."</string>
     <string name="operation_cache_use_data">Download</string>
     <string name="operation_cache_use_free_network">Wait for Wi-Fi</string>
     <string name="operation_cancel">Cancel</string>
+    <string name="operation_check_cloud_space">View</string>
     <string name="operation_cloud_copy_to_local">Save to…</string>
     <string name="operation_compress">Compress</string>
     <string name="operation_compressing">Compressing…</string>
@@ -813,6 +818,7 @@ Try moving files from your device to Mi Drive."</string>
     <string name="operation_decompressing">Extracting…</string>
     <string name="operation_del_fav">Removing from favorites…</string>
     <string name="operation_delete">Delete</string>
+    <string name="operation_delete_cloud_upload_record">Discard</string>
     <string name="operation_delete_confirm_dcim_message_folder">DCIM is a Gallery folder. If you delete this folder, all items within it will also be permanently deleted from Gallery. Delete this folder anyway?</string>
     <string name="operation_delete_confirm_message">Delete?</string>
     <string name="operation_delete_confirm_message_folder">"All folder contents will be deleted.
@@ -863,7 +869,7 @@ Try moving files from your device to Mi Drive."</string>
     <string name="operation_upload_delete">Delete</string>
     <string name="operation_upload_err_file_not_found">"Looks like this file doesn't exist."</string>
     <string name="operation_upload_err_file_size_zero">"Can't upload empty files."</string>
-    <string name="operation_upload_err_full_space">Cloud storage is full. Upgrade your storage plan to be able to upload more items.</string>
+    <string name="operation_upload_err_full_manage_space">"Cloud storage is full. Upgrade your storage plan or delete items you don't need. Tap \"View\" to view and manage your cloud storage space, or \"Discard\" to delete this upload task."</string>
     <string name="operation_upload_err_illegal_char">This file name contains unsupported characters.</string>
     <string name="operation_upload_err_larger_than_4g">"Can't upload files larger than %d GB."</string>
     <string name="operation_upload_err_not_support_overseas">Only users on the Chinese mainland can upload items at this time.</string>
@@ -872,6 +878,7 @@ Try moving files from your device to Mi Drive."</string>
     <string name="operation_upload_retry">Try again</string>
     <string name="operation_upload_save_to_local">Save to…</string>
     <string name="operation_upload_use_data">Upload</string>
+    <string name="otg_data_safely_exiting">Just a sec…</string>
     <string name="otg_data_transfer_success">Transferred successfully</string>
     <string name="otg_data_transferring">"Transferring files… Don't disconnect external storage."</string>
     <string name="otg_file_security_note">OGTSecurity</string>
@@ -1106,6 +1113,8 @@ Try moving files from your device to Mi Drive."</string>
     <string name="tab_more">More</string>
     <string name="tab_source">Apps</string>
     <string name="terabyteShort">TB</string>
+    <string name="text_input_layout_default_content_description">这是默认的content description</string>
+    <string name="text_input_layout_default_error">这是默认的error</string>
     <string name="text_select_all">Select all</string>
     <string name="text_select_nothing">Deselect all</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>
