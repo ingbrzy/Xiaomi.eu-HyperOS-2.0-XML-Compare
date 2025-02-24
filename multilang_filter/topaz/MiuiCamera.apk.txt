@@ -1,3 +1,6 @@
+Removed: [az-rAZ] strings.xml: string/audio_track_mutex_truecolor_setting_tips (wrong format)
+Removed: [az-rAZ] strings.xml: string/update_loading (wrong format)
+Removed: [az-rAZ] strings.xml: string/video_quality_audio_track_conflict_toast (wrong format)
 Removed: [be] strings.xml: string/audio_track_mutex_truecolor_setting_tips (wrong format)
 Removed: [be] strings.xml: string/video_quality_audio_track_conflict_toast (wrong format)
 Removed: [bo-rCN] dimens.xml: dimen/miuix_appcompat_button_inline_content_safe_padding_vertical (wrong value unit)

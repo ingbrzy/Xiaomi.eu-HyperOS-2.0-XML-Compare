@@ -1,6 +1,5 @@
 Removed: [ar] strings.xml: string/service_security_over_r (wrong format)
 Removed: [as-rIN] strings.xml: string/service_security_over_r (wrong format)
-Removed: [az-rAZ] strings.xml: string/service_security_over_r (wrong format)
 Removed: [bg] strings.xml: string/service_security_over_r (wrong format)
 Removed: [bn-rBD] strings.xml: string/service_security_over_r (wrong format)
 Removed: [bn-rIN] strings.xml: string/service_security_over_r (wrong format)
