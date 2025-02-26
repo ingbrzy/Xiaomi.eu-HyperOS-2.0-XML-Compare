@@ -1310,8 +1310,12 @@ Last ran on %2$s"</string>
     <string name="back_navigation_animation_summary">Enable system animations for predictive back.</string>
     <string name="back_sensitivity_dialog_message">Higher sensitivity may conflict with any app gestures along the edges of the screen.</string>
     <string name="back_sensitivity_dialog_title">Back Sensitivity</string>
+    <string name="back_strap_image_new_text">Turn this feature on to get visual notifications and personalized light effects</string>
     <string name="back_strap_image_simplified_text">When the device is face down with the screen off, the back light will display notification reminders</string>
     <string name="back_strap_image_text">When the device is face down with the screen off, the back light will display notification reminders and lighting effects for different scenes</string>
+    <string name="back_strap_off">Off</string>
+    <string name="back_strap_on">On</string>
+    <string name="back_strap_on_back_light_display">Only when screen is face down</string>
     <string name="back_strap_status_close">Off</string>
     <string name="back_strap_status_open">On</string>
     <string name="back_strap_title">Back light effects</string>
@@ -2800,6 +2804,7 @@ If this permission is on, the app will be available as an option whenever a tag 
     <string name="choose_unlock_face_msg">Set a screen lock before recording face data.</string>
     <string name="choose_unlock_fingerprint_msg">Set screen lock before adding your fingerprint.</string>
     <string name="choose_wechat_payment">WeChat</string>
+    <string name="circle_to_search_title">Circle to Search</string>
     <string name="ciwlan_channel_name">Voice Over Cellular Internet</string>
     <string name="ciwlan_dialog_nw_compatible_dds_incompatible_ndds_attempt_dds">Voice Over Cellular Internet might become unavailable when the data preference changes since the preferred network type of the other subscription does not contain LTE, NR, or Global.</string>
     <string name="ciwlan_dialog_nw_compatible_dds_incompatible_ndds_attempt_ndds">Voice Over Cellular Internet might become unavailable when the data preference changes since the preferred network type does not contain LTE, NR, or Global.</string>
@@ -4594,6 +4599,13 @@ To learn more, contact your credit provider."</string>
     <string name="flashback_wangzhe_summary">Show resurrection countdown</string>
     <string name="flip_aod_settings_title">Lock screen (outer)</string>
     <string name="flip_application_settings_title">Outer screen apps</string>
+    <string name="flip_continuity_bottom_text">"Some apps haven't yet been optimized for display on the outer screen. Results may vary."</string>
+    <string name="flip_continuity_directly_off_the_screen">Turn off screen</string>
+    <string name="flip_continuity_display_lock_screent">Lock screen</string>
+    <string name="flip_continuity_settings_title">Folded display</string>
+    <string name="flip_continuity_status_list_title">Folded display</string>
+    <string name="flip_continuity_use_list_title">Continue use after folding</string>
+    <string name="flip_continuity_use_subtitle">When this feature is on, you can continue using selected apps after folding the device</string>
     <string name="flip_dial_settings_title">Widget</string>
     <string name="flip_screen_settings_title">Outer screen</string>
     <string name="flip_wallpaper_settings_title">Wallpaper</string>
@@ -4841,6 +4853,10 @@ When you turn on automatic backup, device and app data is periodically saved rem
     <string name="gaze_lock_screen_summary">"Device will remain unlocked when you're looking at the screen and lock when you look away to protect your privacy, overriding your automatic lock time setting"</string>
     <string name="gaze_lock_screen_title">Detect presence</string>
     <string name="gd_setting_title">Sidebar</string>
+    <string name="gemini">Gemini</string>
+    <string name="gemini_description">Chat with Gemini to supercharge your ideas. Get help learning in new ways, writing thank you notes, planning events and more. Use text, voice, photos and your camera to get help in new ways.<a href="https://support.google.com/gemini/answer/14579026#zippy=%2Cwhere-you-can-download-the-gemini-app-from-the-google-play-store">Learn more about availability.</a></string>
+    <string name="gemini_function">Supercharge your ideas with Google Gemini, your new AI Assistant</string>
+    <string name="gemini_setting">Gemini Setting</string>
     <string name="general_category_title">General</string>
     <string name="general_notification_header">Manage</string>
     <string name="general_text">Text field</string>
@@ -7063,6 +7079,7 @@ Any user can grant permissions on behalf of all user profiles that exist on this
     <string name="miuix_appcompat_select_all">Select all</string>
     <string name="miuix_appcompat_select_all_description">Select all</string>
     <string name="miuix_appcompat_select_item">Select items</string>
+    <string name="miuix_appcompat_show_dialog_description">Popup Window</string>
     <string name="miuix_font_style_misans_bold_font_family">mipro-bold</string>
     <string name="miuix_font_style_misans_demibold_font_family">sans-serif-medium</string>
     <string name="miuix_font_style_misans_extralight_font_family">sans-serif-thin</string>
@@ -8711,6 +8728,8 @@ Anyone that connects your device to a computer or installs malicious apps on you
     <string name="process_stats_type_cached">Cached</string>
     <string name="process_stats_type_foreground">Foreground</string>
     <string name="processes_subtitle">Processes</string>
+    <string name="product_page_name_des_super_ai">Your smart personal assistant</string>
+    <string name="product_page_name_super_ai">Xiaomi Hyper XiaoAi</string>
     <string name="profile_connect_timeout_subtext">Problem connecting. Turn device off &amp; back on</string>
     <string name="profile_info_settings_title">Profile info</string>
     <string name="profile_owner_add_title">Activate Profile Manager?</string>
@@ -9489,9 +9508,11 @@ To use app pinning: \u0009
     <string name="search_status_bar_settings_style">Notifications &amp; toggles layout;toggles;toggle layout;separate toggles;combined;separate;combine</string>
     <string name="search_status_bar_settings_toggle_collapse_after_clicked">Collapse after touch;collapse;hide</string>
     <string name="search_status_bar_settings_toggle_position">Toggle positions;Toggles;toggle;change toggles</string>
+    <string name="search_status_serial_number">SN;sn;Sn;sN</string>
     <string name="search_storage_settings">Storage;Memory</string>
     <string name="search_sync_settings">Sync;Auto;Wi-Fi only</string>
     <string name="search_system_app_settings">System apps</string>
+    <string name="search_system_personalize_title">wallpaper slideshow;morning greetings;Wallpaper Carousel;theme style;themes;theme settings;Lock screen wallpaper;Home screen wallpaper;transparent wallpapers;Home screen and wallpapers;Xiaomi wallpapers;wallpaper transparent;my wallpapers;online wallpapers;ringtones;phone ringtone;text ringtone;call ringtone;ringtone settings;alarm ringtone;scrolling wallpaper;slideshow wallpaper;photo slideshow wallpaper;Wallpaper Carousel slideshow;online themes;charging sound;charging animations;fingerprint effects;fingerprint style;unlock animation;theme;personalize;personalization;wallpaper;icon;dynamic wallpaper;Lock screen effects;small icons;reading mode;anime;official themes;selected themes;selected wallpapers;beautify;favorite wallpapers;video wallpaper;custom ringtone;ringback;alert sounds;notification sounds;text alert;rainbow battery;popular wallpapers;solid color wallpapers;dynamic Lock screen;charging effects;multifunctional Lock screen;gyro;rounded icons;linear icons;music Lock screen;Home screen effects;dynamic icons;hand-drawn icons;freestyle Home screen;Lock screen animation;boot animation;transparent theme;slideshow Lock screen</string>
     <string name="search_theme_settings_title">Themes;Theme;Personalization;Personalize</string>
     <string name="search_title_font_settings">font size;font weight;font style</string>
     <string name="search_touch_assistant">Quick ball;Touch assistant</string>
@@ -11123,6 +11144,8 @@ Try using a faster ^3, or use this ^4 for portable storage instead."</string>
     <string name="tethering_help_button_text">Help</string>
     <string name="tethering_interface_options">Tethering</string>
     <string name="tethering_settings_not_available">Change tethering settings in First space</string>
+    <string name="text_input_layout_default_content_description">这是默认的content description</string>
+    <string name="text_input_layout_default_error">这是默认的error</string>
     <string name="text_layout_optimization_switch_label">Optimize text layout</string>
     <string name="text_layout_optimization_switch_toast">"Can't optimize text layout with the current font"</string>
     <string name="texture_adjust_temperature_title">Color temperature</string>
@@ -11418,6 +11441,7 @@ When enabled, this device is eligible to join a Thread network, allowing control
     <string name="tv_media_transfer_earc_subtitle">Connected via eARC</string>
     <string name="tv_media_transfer_hdmi">HDMI output</string>
     <string name="tv_media_transfer_internal_speakers">Internal speakers</string>
+    <string name="twenty_four_select_time_format">24-hour format</string>
     <string name="twilight_mode_launch_location">Location settings</string>
     <string name="twilight_mode_location_off_dialog_message">Device location needed to determine your sunset and sunrise times.</string>
     <string name="twohours">1 hour</string>
