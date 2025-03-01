@@ -645,7 +645,7 @@ Before using Xiaomi Share, you must grant the following permissions, as well as 
     <string name="sunday_short">Sun</string>
     <string name="sunday_shortest">Sun</string>
     <string name="support_device_type">Supported devices</string>
-    <string name="switch_mode_all">From anyone (for %dm)</string>
+    <string name="switch_mode_all">From anyone (for %dmin)</string>
     <string name="switch_mode_close">Off</string>
     <string name="switch_mode_sameaccount">From this account</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>
