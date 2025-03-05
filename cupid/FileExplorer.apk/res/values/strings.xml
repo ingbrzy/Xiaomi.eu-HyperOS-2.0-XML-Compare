@@ -408,6 +408,7 @@ Try moving files from your device to Mi Drive."</string>
     <string name="file_cloud_setting">File settings</string>
     <string name="file_cloud_setting_item_view_message">View iWork, Xmind, and *.psd files online</string>
     <string name="file_cloud_setting_item_view_title">Online files</string>
+    <string name="file_error_cannt_view">"An error occurred. Can't view file."</string>
     <string name="file_info_canread">Readable: </string>
     <string name="file_info_canwrite">Writable: </string>
     <string name="file_info_ishidden">Hidden: </string>
