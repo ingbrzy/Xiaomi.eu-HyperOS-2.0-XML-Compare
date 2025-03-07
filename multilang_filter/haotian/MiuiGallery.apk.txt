@@ -22,7 +22,6 @@ Removed: [fr] plurals.xml: plurals/share_album_sync_textline_oversize (wrong ite
 Removed: [fr] strings.xml: string/burst_save_choice_title (wrong attributes)
 Removed: [fr] strings.xml: string/grant_permission_text (wrong format)
 Removed: [fr] strings.xml: string/loading_text_format (wrong attributes)
-Removed: [hr] strings.xml: string/grant_permission_text (wrong format)
 Removed: [it] strings.xml: string/backup_pause_title (wrong format)
 Removed: [it] strings.xml: string/grant_permission_text (wrong format)
 Removed: [it] strings.xml: string/loading_text_format (wrong attributes)
