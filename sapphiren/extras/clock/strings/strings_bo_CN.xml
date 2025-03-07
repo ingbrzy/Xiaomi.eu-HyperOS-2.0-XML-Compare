@@ -34,4 +34,5 @@
     <string name="weather_type_23">ཐལ་རྡུལ།</string>
     <string name="weather_type_24">རྡུལ་ཞག</string>
     <string name="weather_type_25">འཁྱགས་ཆར།</string>
+    <string name="RTL">0</string>
 </resources>

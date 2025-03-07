@@ -326,6 +326,7 @@
     <string name="password_manager_summary">Save your passwords and passkeys to the cloud and use them across all your devices</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
+    <string name="privacy_password_confirm_SecondSpace_Password">Confirm Second space password</string>
     <string name="saturday">Saturday</string>
     <string name="saturday_short">Sat</string>
     <string name="saturday_shortest">Sat</string>

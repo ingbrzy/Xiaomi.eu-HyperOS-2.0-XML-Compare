@@ -416,6 +416,7 @@ Make sure you're using the associated Xiaomi Account as your system account."</s
     <string name="miuix_appcompat_select_all">Select all</string>
     <string name="miuix_appcompat_select_all_description">Select all</string>
     <string name="miuix_appcompat_select_item">Select items</string>
+    <string name="miuix_appcompat_show_dialog_description">Popup Window</string>
     <string name="miuix_font_style_misans_bold_font_family">mipro-bold</string>
     <string name="miuix_font_style_misans_demibold_font_family">sans-serif-medium</string>
     <string name="miuix_font_style_misans_extralight_font_family">sans-serif-thin</string>
@@ -703,6 +704,8 @@ Make sure you're using the associated Xiaomi Account as your system account."</s
     <string name="talkback_previous_song">Previous song</string>
     <string name="talkback_random_play">Shuffle</string>
     <string name="talkback_single_play">Loop one</string>
+    <string name="text_input_layout_default_content_description">这是默认的content description</string>
+    <string name="text_input_layout_default_error">这是默认的error</string>
     <string name="text_select_all">Select all</string>
     <string name="text_select_nothing">Deselect all</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>
