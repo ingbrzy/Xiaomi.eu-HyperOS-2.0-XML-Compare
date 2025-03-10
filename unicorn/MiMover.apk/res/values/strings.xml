@@ -221,7 +221,7 @@ Visit https://appleid.apple.com/#!&amp;page=signin to turn off"</string>
     <string name="collect_content">Collected content</string>
     <string name="collect_situation">Collection status</string>
     <string name="collected">Collected</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">ef11370939c14578b75800e23e30461c</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">b968835988774a7298b316ba11e46e62</string>
     <string name="comma_seperator">", "</string>
     <string name="compatibility32Bit_mode_toast">"Can't transfer items. Change your selections and try again."</string>
     <string name="connect_icloud_fail">"Couldn't connect to iCloud"</string>
@@ -1124,6 +1124,7 @@ Download and install Mi Mover."</string>
     <string name="trans_sync_transfer_data_list">Select items to transfer on the old device</string>
     <string name="trans_sync_transfer_data_list_apple">Transfer items from your Apple device</string>
     <string name="trans_sync_transfer_data_list_hint">Just a sec…</string>
+    <string name="trans_sync_transfer_data_list_pad">Select items on the old device to transfer</string>
     <string name="trans_sync_transfer_data_list_summary_for_pad">Select items on your old device and tap \"Send\".</string>
     <string name="trans_time_format_second">Less than %d minute</string>
     <string name="trans_time_spent">Time: %s</string>
