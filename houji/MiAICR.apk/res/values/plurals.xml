@@ -41,8 +41,8 @@
         <item quantity="one">Analysis is %1$s complete, with ≈%2$s minute remaining. This process might cause your device to heat up and use more power.</item>
     </plurals>
     <plurals name="aiSearch_buildDB_dialog_secondary_confirmation_content">
-        <item quantity="other">Analysis will take about %1$s minutes to complete. Your device might heat up or consume slightly more power during this process. Start now?</item>
-        <item quantity="one">Analysis will take about %1$s minute to complete. Your device might heat up or consume slightly more power during this process. Start now?</item>
+        <item quantity="other">This process requires about %1$s more minutes to complete. During the analysis, your device may heat up, use more battery, or run more slowly. Start analysis now?</item>
+        <item quantity="one">This process requires about %1$s more minute to complete. During the analysis, your device may heat up, use more battery, or run more slowly. Start analysis now?</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Half an hour ago</item>
