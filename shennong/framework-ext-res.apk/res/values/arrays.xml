@@ -5656,6 +5656,7 @@
         <item>com.miui.securitycenter/com.miui.applicationlock.ConfirmAccessControl,psm</item>
         <item>com.instagram.android/com.instagram.modal.ModalActivity,psm:nr</item>
         <item>com.tencent.mm/.plugin.account.ui.WelcomeActivity,psm:uc</item>
+        <item>com.tencent.wemeet.app/com.tencent.wemeet.module.scanqrcode.activity.ScanActivity,psm:cpd</item>
     </string-array>
     <string-array name="fullscreen_landscape_list">
         <item>com.tencent.mm,de:nrs:nra</item>
@@ -6180,7 +6181,7 @@
         <item>com.autonavi.minimap,psc</item>
         <item>com.baidu.BaiduMap,psc</item>
         <item>com.ss.android.lark,psc</item>
-        <item>com.tencent.wemeet.app,psc</item>
+        <item>com.tencent.wemeet.app,psc:fk</item>
         <item>com.tencent.qqlive,psc</item>
         <item>com.ximalaya.ting.android,psc:uc</item>
         <item>com.ifeng.fhdt,psc:fk</item>
@@ -6208,7 +6209,7 @@
         <item>com.instagram.android,psm:ssa</item>
         <item>com.smile.gifmaker,psm:ssa</item>
         <item>com.xingin.xhs,psm:ssa</item>
-        <item>com.sina.weibo,psm:ssa</item>
+        <item>com.sina.weibo,psm:ssa:fk</item>
         <item>com.alibaba.android.rimet,psm:ssa</item>
         <item>com.MobileTicket,psm:ssa</item>
         <item>com.qidian.QDReader,psm:ssa</item>

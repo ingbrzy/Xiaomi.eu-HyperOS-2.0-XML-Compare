@@ -489,6 +489,7 @@ You can sign in to your Xiaomi Account using %s now."</string>
     <string name="miuix_appcompat_select_all">Select all</string>
     <string name="miuix_appcompat_select_all_description">Select all</string>
     <string name="miuix_appcompat_select_item">Select items</string>
+    <string name="miuix_appcompat_show_dialog_description">Popup Window</string>
     <string name="miuix_font_style_misans_bold_font_family">mipro-bold</string>
     <string name="miuix_font_style_misans_demibold_font_family">sans-serif-medium</string>
     <string name="miuix_font_style_misans_extralight_font_family">sans-serif-thin</string>
@@ -712,7 +713,6 @@ You can sign in to your Xiaomi Account using %s now."</string>
     <string name="passport_facebook_login_protocol_scheme">com.xiaomi.passport.ui</string>
     <string name="passport_failed_to_send_activate_email">"Couldn't send activation email"</string>
     <string name="passport_find_password_on_web_msg">Visit account.mi.com to reset your password.</string>
-    <string name="passport_first_login_prompt">Xiaomi Account will be created automatically when you use a phone number for the first time.</string>
     <string name="passport_forget_password"><u>Forgot password</u></string>
     <string name="passport_forget_password_no_underline">Forgot password</string>
     <string name="passport_frequency_try_later">Too many attempts. Wait a minute or two and try again.</string>
@@ -1075,6 +1075,8 @@ Scan the code below with a Xiaomi app."</string>
     <string name="tab">Tab</string>
     <string name="talkback_scan_barcode">Scan QR code</string>
     <string name="template_percent">%1$d percent.</string>
+    <string name="text_input_layout_default_content_description">这是默认的content description</string>
+    <string name="text_input_layout_default_error">这是默认的error</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>
     <string name="the_anti_aggression_day">Anti-Aggression Day</string>
     <string name="the_arbor_day">Arbor Day</string>
@@ -1172,6 +1174,9 @@ Scan the code below with a Xiaomi app."</string>
 "</Data></string>
     <string name="v7_preference_off">OFF</string>
     <string name="v7_preference_on">ON</string>
+    <string name="wear_account_auth_failed_message">"Follow these steps to sign back in:
+%1$d. Connect your phone and wearable device.
+%2$d. Open Mi Fitness and sign in."</string>
     <string name="wednesday">Wednesday</string>
     <string name="wednesday_short">Wed</string>
     <string name="wednesday_shortest">Wed</string>
