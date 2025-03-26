@@ -1310,12 +1310,15 @@ Last ran on %2$s"</string>
     <string name="back_navigation_animation_summary">Enable system animations for predictive back.</string>
     <string name="back_sensitivity_dialog_message">Higher sensitivity may conflict with any app gestures along the edges of the screen.</string>
     <string name="back_sensitivity_dialog_title">Back Sensitivity</string>
+    <string name="back_strap_app_notification_title">App notifications</string>
+    <string name="back_strap_call_reminder_title">Incoming calls</string>
     <string name="back_strap_image_new_text">Turn this feature on to get visual notifications and personalized light effects</string>
     <string name="back_strap_image_simplified_text">When the device is face down with the screen off, the back light will display notification reminders</string>
     <string name="back_strap_image_text">When the device is face down with the screen off, the back light will display notification reminders and lighting effects for different scenes</string>
     <string name="back_strap_off">Off</string>
     <string name="back_strap_on">On</string>
     <string name="back_strap_on_back_light_display">Only when screen is face down</string>
+    <string name="back_strap_other_seetings">Additional settings</string>
     <string name="back_strap_status_close">Off</string>
     <string name="back_strap_status_open">On</string>
     <string name="back_strap_title">Back light effects</string>
@@ -1684,6 +1687,7 @@ Watch Unlock is another convenient way to unlock your phone, for example, when y
     <string name="block_list_remove_dialog_title">Attention</string>
     <string name="block_list_summary">"View devices which aren't allowed to connect to this hotspot"</string>
     <string name="block_list_title">Blocklist</string>
+    <string name="block_no_connected_devices">No connected devices</string>
     <string name="block_title">Show notifications</string>
     <string name="blocked_by_restricted_settings_content">For your security, this setting is currently unavailable.</string>
     <string name="blocked_by_restricted_settings_title">Restricted setting</string>
@@ -5801,6 +5805,8 @@ Open Xiaomi Cloud and restore items from there."</string>
     <string name="knock_slide_shape">Draw a circle with a knuckle</string>
     <string name="knock_slide_v">Draw V with a knuckle</string>
     <string name="label_mi_stats">Mi analytics</string>
+    <string name="lamp_effect_brightness">Brightness</string>
+    <string name="lamp_effect_color">Color</string>
     <string name="lamp_effect_settings">Effects</string>
     <string name="language_and_input_for_work_category_title">Work profile keyboards &amp; tools</string>
     <string name="language_empty_list_user_restricted">You don’t have permission to change the device language.</string>
@@ -6911,6 +6917,7 @@ You won't be able to reverse this action."</string>
     <string name="miheadset_voice_control_summary">When this feature is on, you can tell Mi AI to navigate your device or control audio playback using voice commands</string>
     <string name="miheadset_windnoise">Wind</string>
     <string name="mild_reminder">Notification</string>
+    <string name="minors_control_title">Child Safety Mode</string>
     <string name="mipush_fake_channel_group_name">Mi Push</string>
     <string name="mishow_disable_password_setting">"Can't set passwords in demo mode"</string>
     <string name="miui_accessibility_asr_summary">Transcribe audio and save text</string>
@@ -7086,6 +7093,7 @@ Any user can grant permissions on behalf of all user profiles that exist on this
     <string name="miuix_appcompat_select_all_description">Select all</string>
     <string name="miuix_appcompat_select_item">Select items</string>
     <string name="miuix_appcompat_show_dialog_description">Popup Window</string>
+    <string name="miuix_bottom_sheet_behavior">miuix.bottomsheet.BottomSheetBehavior</string>
     <string name="miuix_font_style_misans_bold_font_family">mipro-bold</string>
     <string name="miuix_font_style_misans_demibold_font_family">sans-serif-medium</string>
     <string name="miuix_font_style_misans_extralight_font_family">sans-serif-thin</string>
@@ -7099,6 +7107,7 @@ Any user can grant permissions on behalf of all user profiles that exist on this
     <string name="miuix_font_style_misans_thin_font_family">sans-serif-thin</string>
     <string name="miuix_indexer_collect">Collections</string>
     <string name="miuix_indexer_selected">Selected %s</string>
+    <string name="miuix_popup_window_default_title">Popup Window</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Pull down to refresh</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Refreshed successfully</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Refreshing…</string>
@@ -7434,6 +7443,7 @@ Select your operating system:"</string>
     <string name="natural_haptic">Natural touch</string>
     <string name="natural_haptic_summary">New haptic feedback patterns bring an additional dimension to everything you see and touch on your screen.</string>
     <string name="natural_scroll">Natural scroll</string>
+    <string name="natural_scroll_summary">Content scrolls along with your finger</string>
     <string name="nature_color">Default</string>
     <string name="nav_tutorial_button_description">Start gesture navigation tutorial, button. Double tap to activate.</string>
     <string name="navigation_guide_app_quick_switch_hide_line_summary">Swipe up from the bottom of the screen, then swipe left or right</string>
@@ -8226,7 +8236,7 @@ Read and agree to %s before using this service."</string>
     <string name="pointer_fill_style_yellow_button">Change pointer fill style to yellow</string>
     <string name="pointer_location">Pointer location</string>
     <string name="pointer_location_summary">Show touch coordinates</string>
-    <string name="pointer_settings_category">Mouse/track pad</string>
+    <string name="pointer_settings_category">Mouse</string>
     <string name="pointer_speed">Pointer speed</string>
     <string name="popup_window">Restrict floating notifications</string>
     <string name="post_dsds_reboot_notification_text">Tap to update SIM settings</string>
@@ -11752,6 +11762,7 @@ or earphones with a 3.5mm plug."</string>
     <string name="usb_summary_power_only">Charging connected device</string>
     <string name="usb_summary_tether">USB tethering</string>
     <string name="usb_summary_tether_power">USB tethering and supplying power</string>
+    <string name="usb_switch_reverse_charge_failed">Not available</string>
     <string name="usb_switching">Switching…</string>
     <string name="usb_switching_failed">"Couldn't switch"</string>
     <string name="usb_tethering_active_subtext">Tethered</string>
