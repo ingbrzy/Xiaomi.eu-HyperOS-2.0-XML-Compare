@@ -1,0 +1,3 @@
+Removed: [bo-rCN] dimens.xml: dimen/miuix_appcompat_button_inline_content_safe_padding_vertical (wrong value unit)
+Removed: [it] arrays.xml: array/multi_floating_package_allow_list (wrong item count)
+Removed: [it] strings.xml: string/superpower_progress_battery_last (wrong format)
