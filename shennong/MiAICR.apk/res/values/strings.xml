@@ -55,6 +55,8 @@
     <string name="afternoon">Afternoon</string>
     <string name="aiSearch_buildDB_dialog_analysis_completed_progress">%1$s complete</string>
     <string name="aiSearch_buildDB_dialog_analysis_completed_progress_stop">Analysis is %1$s complete and currently paused</string>
+    <string name="aiSearch_buildDB_dialog_analysis_completed_progress_time">%1$s complete</string>
+    <string name="aiSearch_buildDB_dialog_analysis_completed_progress_time_notice">%1$s complete. Your device might heat up or consume slightly more power during this process.</string>
     <string name="aiSearch_buildDB_dialog_analysis_notice_five">Analysis will resume when device cools down and has sufficient power</string>
     <string name="aiSearch_buildDB_dialog_analysis_notice_four">This process will begin when the device is cool and has sufficient power</string>
     <string name="aiSearch_buildDB_dialog_analysis_notice_one">Your device might heat up or consume slightly more power during this process</string>
@@ -87,6 +89,7 @@
     <string name="aiSearch_buildDB_dialog_notice_window_one">AI search analysis in progress</string>
     <string name="aiSearch_buildDB_dialog_notice_window_three">Analyzing files on your device to provide more accurate search results</string>
     <string name="aiSearch_buildDB_dialog_notice_window_two">AI search analysis paused</string>
+    <string name="aiSearch_buildDB_dialog_secondary_confirmation_content">Your device might heat up or consume slightly more power during the analysis process. Start analysis now?</string>
     <string name="aiSearch_buildDB_dialog_secondary_confirmation_remarks">Keep your device charging and the screen off for faster analysis</string>
     <string name="aiSearch_buildDB_dialog_secondary_confirmation_title">Start now?</string>
     <string name="aiSearch_buildDB_dialog_secondary_tmp_confirmation_remarks">Analysis speed will be affected by apps running in the foreground. For faster analysis, keep your device charging with the screen off.</string>
@@ -113,6 +116,7 @@
     <string name="aiSearch_privacy_dialog_permission_desc_user_notice_hyper">Xiaomi HyperAI Engine provides natural language search capabilities for some apps. Agree to the Xiaomi HyperAI Engine Privacy Policy to be able to use these features.</string>
     <string name="aiSearch_privacy_dialog_permission_title_data_to_cloud">Upload personal data to the cloud</string>
     <string name="aiSearch_privacy_dialog_permission_title_user_notice">Terms and conditions</string>
+    <string name="aiSearch_support_service">Supported services</string>
     <string name="aiSearch_support_service_connect">Link to Windows</string>
     <string name="aiSearch_support_service_connect_computer">Connect to a computer and use AI Search to get more precise results</string>
     <string name="aiSearch_support_service_search">Search</string>
@@ -488,6 +492,7 @@
     <string name="dist_compute_download_guidance_title">Download large model</string>
     <string name="dist_compute_download_now">Download</string>
     <string name="dist_compute_download_reminder_content">Install the on-device large model to be able to use this feature. Install now?</string>
+    <string name="dist_compute_download_reminder_modelmanager">Download and install the on-device large model to be able to use AI features on your device. Download now?</string>
     <string name="dist_compute_download_reminder_title">Install on-device large model</string>
     <string name="dist_compute_pad_already_connected">Connected: %1$s</string>
     <string name="dist_compute_pad_button_neutral">Got it</string>
