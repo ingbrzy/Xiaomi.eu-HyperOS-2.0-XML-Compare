@@ -1,0 +1,3 @@
+Removed: [bo-rCN] dimens.xml: dimen/miuix_appcompat_button_inline_content_safe_padding_vertical (wrong value unit)
+Removed: [cs] plurals.xml: plurals/text_group_count (wrong item attributes)
+Removed: [cs] plurals.xml: plurals/view_all (wrong item attributes)
