@@ -11409,6 +11409,7 @@ When enabled, this device is eligible to join a Thread network, allowing control
     <string name="tv_media_transfer_earc_subtitle">Connected via eARC</string>
     <string name="tv_media_transfer_hdmi">HDMI output</string>
     <string name="tv_media_transfer_internal_speakers">Internal speakers</string>
+    <string name="twenty_four_select_time_format">24-hour format</string>
     <string name="twilight_mode_launch_location">Location settings</string>
     <string name="twilight_mode_location_off_dialog_message">Device location needed to determine your sunset and sunrise times.</string>
     <string name="twohours">1 hour</string>
@@ -12555,6 +12556,10 @@ Setting the network as hidden will not change your router settings."</string>
     <string name="wifi_protection_tip">Xiaomi will protect your personal data from Wi-Fi probe requests coming from random MAC addresses and Wi-Fi probe sniffers when your device is searching for Wi-Fi networks.</string>
     <string name="wifi_quick_toggle_summary">Turn on Wi-Fi</string>
     <string name="wifi_quick_toggle_title">Wi-Fi</string>
+    <string name="wifi_reconnect_failed_text">Your Wi-Fi password is incorrect. Enter it again.</string>
+    <string name="wifi_reconnect_failed_text_china">Your Wi-Fi password is incorrect. Enter it again.</string>
+    <string name="wifi_reconnect_failed_title">Incorrect Wi-Fi password</string>
+    <string name="wifi_reconnect_failed_title_china">Incorrect Wi-Fi password</string>
     <string name="wifi_region_summary">Requires Wi-Fi to be restarted to take effect</string>
     <string name="wifi_region_title">Wi-Fi region</string>
     <string name="wifi_remembered">Saved</string>
