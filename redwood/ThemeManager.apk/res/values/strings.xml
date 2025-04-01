@@ -294,6 +294,7 @@
     <string name="character_counter_content_description">Characters entered %1$d of %2$d</string>
     <string name="character_counter_overflowed_content_description">Character limit exceeded %1$d of %2$d</string>
     <string name="character_counter_pattern">%1$d/%2$d</string>
+    <string name="checkUpdateSdkVersion">4.2.5</string>
     <string name="check_has_new_version">Update is available</string>
     <string name="chinese_day_1">初一</string>
     <string name="chinese_day_10">初十</string>
@@ -2473,5 +2474,17 @@ Go to Themes > My account > Themes lab for more options."</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Not now</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Update</string>
     <string name="xiaomi_market_sdk_update_dialog_title">An update is available</string>
+    <string name="xiaomi_update_sdk_bytes_unit">%1$sB</string>
+    <string name="xiaomi_update_sdk_connect_download_manager_fail">Connect Download Manager failed, please check the Download Manager state in the Application Management.</string>
+    <string name="xiaomi_update_sdk_dialog_message">"Introducing version %1$s
+Size: %2$s"</string>
+    <string name="xiaomi_update_sdk_dialog_message_diff">"Introducing version %1$s
+Delta update size: %2$s"</string>
+    <string name="xiaomi_update_sdk_dialog_title">An update is available</string>
+    <string name="xiaomi_update_sdk_external_storage_unavailable">Storage unavailable, please check the SD card.</string>
+    <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>
+    <string name="xiaomi_update_sdk_update_dialog_cancel">Not now</string>
+    <string name="xiaomi_update_sdk_update_dialog_ok">Update</string>
     <string name="yesterday">Yesterday</string>
 </resources>
