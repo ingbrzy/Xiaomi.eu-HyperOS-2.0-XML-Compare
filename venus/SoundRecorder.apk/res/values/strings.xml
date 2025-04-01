@@ -337,6 +337,7 @@
     <string name="invisible_mode_dialog_title">"You're incognito"</string>
     <string name="invisible_mode_error_tip">Turn off Incognito mode in the Settings to be able to use microphone</string>
     <string name="item_view_role_description">Tab</string>
+    <string name="keyguard_shotcuts">New recording</string>
     <string name="korea_permission_phone">Phone</string>
     <string name="korea_permission_phone_resc">For accessing device status and handling recordings during calls</string>
     <string name="korea_permission_record">Microphone</string>
