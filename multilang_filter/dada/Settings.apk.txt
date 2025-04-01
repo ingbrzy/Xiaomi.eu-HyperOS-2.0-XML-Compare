@@ -284,7 +284,7 @@ Removed: [th] arrays.xml: array/bluetooth_a2dp_codec_sample_rate_titles (wrong i
 Removed: [th] arrays.xml: array/bt_hci_snoop_log_entries (wrong item count)
 Removed: [tr] arrays.xml: array/bluetooth_a2dp_codec_sample_rate_summaries (wrong item count)
 Removed: [tr] arrays.xml: array/bluetooth_a2dp_codec_sample_rate_titles (wrong item count)
-Removed: [tr] arrays.xml: array/bt_hci_snoop_log_entries (wrong item count)
+Removed: [tr] arrays.xml: array/default_vol_stream_entries (wrong attributes)
 Removed: [tr] strings.xml: string/allow_all_rotations_title (wrong attributes)
 Removed: [tr] strings.xml: string/charge_animation_style_lollipop (wrong attributes)
 Removed: [tr] strings.xml: string/charge_animation_style_none (wrong attributes)
