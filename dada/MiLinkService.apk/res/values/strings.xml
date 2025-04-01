@@ -521,7 +521,9 @@ your devices?"</string>
     <string name="connect_settings_summary_share_launcher_pad">View and interact with the Home screens of nearby phones signed in to your Xiaomi Account</string>
     <string name="connect_settings_summary_share_launcher_phone">"Allow nearby tablets and computers to view and interact with this device's Home screen"</string>
     <string name="connect_settings_summary_share_notification_pad">Receive notifications from nearby phones signed in to your Xiaomi Account</string>
+    <string name="connect_settings_summary_share_notification_pad_v2">Show notifications from nearby phones signed in to your Xiaomi Account on this device</string>
     <string name="connect_settings_summary_share_notification_phone">Show notifications on nearby tablets or computers in use when this device is locked</string>
+    <string name="connect_settings_summary_share_notification_phone_v2">Show important notifications from your phone on your TV, tablet, and computer</string>
     <string name="connect_settings_user_agreement">User Agreement</string>
     <string name="connect_settings_withdraw_consent">Withdrawal of consent</string>
     <string name="connection_failed">"Couldn't connect camera"</string>
@@ -960,6 +962,7 @@ Note: You'll receive a routine system warning when you turn on accessibility fea
     <string name="mipaly_server_exit_touping">请先退出当前投屏</string>
     <string name="miplay_accessibility_cast">Select device</string>
     <string name="miplay_accessibility_cover">Cover</string>
+    <string name="miplay_accessibility_more_settings">Additional settings</string>
     <string name="miplay_accessibility_next">Next song</string>
     <string name="miplay_accessibility_pause">Pause</string>
     <string name="miplay_accessibility_play">Play</string>
@@ -1003,6 +1006,7 @@ Note: You'll receive a routine system warning when you turn on accessibility fea
     <string name="miuix_appcompat_select_all">Select all</string>
     <string name="miuix_appcompat_select_all_description">Select all</string>
     <string name="miuix_appcompat_select_item">Select items</string>
+    <string name="miuix_appcompat_show_dialog_description">Popup Window</string>
     <string name="miuix_font_style_misans_bold_font_family">mipro-bold</string>
     <string name="miuix_font_style_misans_demibold_font_family">sans-serif-medium</string>
     <string name="miuix_font_style_misans_extralight_font_family">sans-serif-thin</string>
@@ -1624,6 +1628,8 @@ Make sure you've turned on Game Turbo before casting games."</string>
     <string name="temperature_warning_dialog_positive_button">Got it</string>
     <string name="temperature_warning_dialog_title">"Can't use cross-device camera"</string>
     <string name="test_file">测试文件传输</string>
+    <string name="text_input_layout_default_content_description">这是默认的content description</string>
+    <string name="text_input_layout_default_error">这是默认的error</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>
     <string name="the_anti_aggression_day">Anti-Aggression Day</string>
     <string name="the_arbor_day">Arbor Day</string>
@@ -1722,6 +1728,7 @@ Make sure you've turned on Game Turbo before casting games."</string>
     <string name="upgrade_login_dialog_message">Sign in to your Xiaomi Account to be able to view your connected devices.</string>
     <string name="upgrade_login_dialog_sure">Sign in</string>
     <string name="upgrade_login_dialog_title">Sign in to Xiaomi Account</string>
+    <string name="upgrade_new_version">An update is available</string>
     <string name="upgrade_no_devices">No updates available</string>
     <string name="upgrade_now">Update</string>
     <string name="upgrade_phone_device_tip">*Updates are provided by Xiaomi Phone</string>
