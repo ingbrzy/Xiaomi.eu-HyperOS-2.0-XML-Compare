@@ -8194,6 +8194,7 @@ Read and agree to %s before using this service."</string>
     <string name="photography_handle_launch_and_take_photo">Take photo</string>
     <string name="photography_handle_launch_camera">Open camera</string>
     <string name="photography_handle_long_press_camera_key_enter_camera">Press and hold the shutter button to perform an action</string>
+    <string name="photography_handle_low_battery_notify_title">Camera grip firmware update</string>
     <string name="photography_handle_quick_launch_camera_title">Quick launch</string>
     <string name="photography_handle_sn">Serial number</string>
     <string name="photography_handle_title">Camera grip</string>

@@ -85,7 +85,6 @@
     <string name="bh_b">B</string>
     <string name="bh_back">Back</string>
     <string name="bh_bill_balance">Balance</string>
-    <string name="bh_bill_balance_inquiry">Check balance - SIM %1$d</string>
     <string name="bh_bill_charge">Top up balance</string>
     <string name="bh_bills_info_label">Details</string>
     <string name="bh_bugreport">Business feedback</string>
@@ -159,13 +158,11 @@
     <string name="bh_minute">m</string>
     <string name="bh_misim_recharge">Top up</string>
     <string name="bh_mm">Mi Mobile</string>
-    <string name="bh_more_function">Additional features</string>
     <string name="bh_more_recommend">More recommendations</string>
     <string name="bh_more_traffic_pkg">More data packages</string>
     <string name="bh_more_value">Other amount</string>
     <string name="bh_ms">Mi SIM</string>
     <string name="bh_net_error">A network error occurred</string>
-    <string name="bh_no_card">No SIM card</string>
     <string name="bh_no_permission_read_call_log_desc">This permission allows displaying call duration</string>
     <string name="bh_no_permission_read_contact_desc">This permission allows access to phone numbers in contacts</string>
     <string name="bh_no_sim">"SIM card isn't installed"</string>
