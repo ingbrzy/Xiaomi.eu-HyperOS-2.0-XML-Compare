@@ -1310,12 +1310,15 @@ Last ran on %2$s"</string>
     <string name="back_navigation_animation_summary">Enable system animations for predictive back.</string>
     <string name="back_sensitivity_dialog_message">Higher sensitivity may conflict with any app gestures along the edges of the screen.</string>
     <string name="back_sensitivity_dialog_title">Back Sensitivity</string>
+    <string name="back_strap_app_notification_title">App notifications</string>
+    <string name="back_strap_call_reminder_title">Incoming calls</string>
     <string name="back_strap_image_new_text">Turn this feature on to get visual notifications and personalized light effects</string>
     <string name="back_strap_image_simplified_text">When the device is face down with the screen off, the back light will display notification reminders</string>
     <string name="back_strap_image_text">When the device is face down with the screen off, the back light will display notification reminders and lighting effects for different scenes</string>
     <string name="back_strap_off">Off</string>
     <string name="back_strap_on">On</string>
     <string name="back_strap_on_back_light_display">Only when screen is face down</string>
+    <string name="back_strap_other_seetings">Additional settings</string>
     <string name="back_strap_status_close">Off</string>
     <string name="back_strap_status_open">On</string>
     <string name="back_strap_title">Back light effects</string>
@@ -1684,6 +1687,7 @@ Watch Unlock is another convenient way to unlock your phone, for example, when y
     <string name="block_list_remove_dialog_title">Attention</string>
     <string name="block_list_summary">"View devices which aren't allowed to connect to this hotspot"</string>
     <string name="block_list_title">Blocklist</string>
+    <string name="block_no_connected_devices">No connected devices</string>
     <string name="block_title">Show notifications</string>
     <string name="blocked_by_restricted_settings_content">For your security, this setting is currently unavailable.</string>
     <string name="blocked_by_restricted_settings_title">Restricted setting</string>
@@ -4598,7 +4602,10 @@ To learn more, contact your credit provider."</string>
     <string name="flashback_title">App flashcards</string>
     <string name="flashback_wangzhe_summary">Show resurrection countdown</string>
     <string name="flip_aod_settings_title">Lock screen (outer)</string>
+    <string name="flip_aod_settings_title_new">Lock screen (outer)</string>
     <string name="flip_application_settings_title">Outer screen apps</string>
+    <string name="flip_application_settings_title_new">Outer screen apps</string>
+    <string name="flip_close_lid_settings_title">Folded display</string>
     <string name="flip_continuity_bottom_text">"Some apps haven't yet been optimized for display on the outer screen. Results may vary."</string>
     <string name="flip_continuity_directly_off_the_screen">Turn off screen</string>
     <string name="flip_continuity_display_lock_screent">Lock screen</string>
@@ -4607,8 +4614,11 @@ To learn more, contact your credit provider."</string>
     <string name="flip_continuity_use_list_title">Continue use after folding</string>
     <string name="flip_continuity_use_subtitle">When this feature is on, you can continue using selected apps after folding the device</string>
     <string name="flip_dial_settings_title">Widget</string>
+    <string name="flip_dial_settings_title_new">Widget</string>
+    <string name="flip_quick_switch_settings_title">Control center</string>
     <string name="flip_screen_settings_title">Outer screen</string>
     <string name="flip_wallpaper_settings_title">Wallpaper</string>
+    <string name="flip_wallpaper_settings_title_new">Wallpaper</string>
     <string name="floating_window_switch_label">Turn on floating windows</string>
     <string name="floating_window_switch_label_disable">Turn off floating windows</string>
     <string name="fluency_mode">System animations</string>
@@ -5600,7 +5610,7 @@ Open Xiaomi Cloud and restore items from there."</string>
     <string name="keyboard_settings_title">Android keyboard</string>
     <string name="keyboard_settings_with_physical_keyboard_summary">On-screen keyboard, physical keyboard, tools</string>
     <string name="keyboard_shortcuts_helper">Keyboard shortcuts</string>
-    <string name="keyboard_shortcuts_helper_summary">Show list of shortcuts</string>
+    <string name="keyboard_shortcuts_helper_summary">Press and hold*to display shortcut list</string>
     <string name="keyboard_skin_follow_system_enable">Switch to Dark mode together with the system</string>
     <string name="keyguard_advance_setting_title">Advanced settings</string>
     <string name="keyguard_multi_window_tip">"Can't show this page in Split screen. You can go back to the fullscreen version instead."</string>
@@ -5795,6 +5805,8 @@ Open Xiaomi Cloud and restore items from there."</string>
     <string name="knock_slide_shape">Draw a circle with a knuckle</string>
     <string name="knock_slide_v">Draw V with a knuckle</string>
     <string name="label_mi_stats">Mi analytics</string>
+    <string name="lamp_effect_brightness">Brightness</string>
+    <string name="lamp_effect_color">Color</string>
     <string name="lamp_effect_settings">Effects</string>
     <string name="language_and_input_for_work_category_title">Work profile keyboards &amp; tools</string>
     <string name="language_empty_list_user_restricted">You don’t have permission to change the device language.</string>
@@ -6905,6 +6917,7 @@ You won't be able to reverse this action."</string>
     <string name="miheadset_voice_control_summary">When this feature is on, you can tell Mi AI to navigate your device or control audio playback using voice commands</string>
     <string name="miheadset_windnoise">Wind</string>
     <string name="mild_reminder">Notification</string>
+    <string name="minors_control_title">Child Safety Mode</string>
     <string name="mipush_fake_channel_group_name">Mi Push</string>
     <string name="mishow_disable_password_setting">"Can't set passwords in demo mode"</string>
     <string name="miui_accessibility_asr_summary">Transcribe audio and save text</string>
@@ -6998,7 +7011,7 @@ Continue to access additional settings."</string>
     <string name="miui_sos_emergency_failed_sms">"Couldn't send message to %1$s (%2$s)"</string>
     <string name="miui_sos_emergency_failed_sms_noname">"Couldn't send message to %1s."</string>
     <string name="miui_sos_emergency_title">Emergency SOS</string>
-    <string name="miui_sos_enable_switch_summary">Rapidly press the Power button 5 times to send a SOS text message with your location to your emergency contacts</string>
+    <string name="miui_sos_enable_switch_summary_new"><Data>When you encounter an emergency, press the Power button &lt;font color=#3482FF>&lt;xliff:g id=number refersto=5>%d&lt;/xliff:g> times&lt;/font> in a row to have your device send a message with your location to your emergency contacts</Data></string>
     <string name="miui_sos_enable_switch_title">Emergency SOS</string>
     <string name="miui_sos_exit_dialog_cancel">Cancel</string>
     <string name="miui_sos_exit_dialog_message">You activated Emergency SOS. Your location info is being sent to your emergency contacts. Turn off anyway?</string>
@@ -7080,6 +7093,7 @@ Any user can grant permissions on behalf of all user profiles that exist on this
     <string name="miuix_appcompat_select_all_description">Select all</string>
     <string name="miuix_appcompat_select_item">Select items</string>
     <string name="miuix_appcompat_show_dialog_description">Popup Window</string>
+    <string name="miuix_bottom_sheet_behavior">miuix.bottomsheet.BottomSheetBehavior</string>
     <string name="miuix_font_style_misans_bold_font_family">mipro-bold</string>
     <string name="miuix_font_style_misans_demibold_font_family">sans-serif-medium</string>
     <string name="miuix_font_style_misans_extralight_font_family">sans-serif-thin</string>
@@ -7093,6 +7107,7 @@ Any user can grant permissions on behalf of all user profiles that exist on this
     <string name="miuix_font_style_misans_thin_font_family">sans-serif-thin</string>
     <string name="miuix_indexer_collect">Collections</string>
     <string name="miuix_indexer_selected">Selected %s</string>
+    <string name="miuix_popup_window_default_title">Popup Window</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Pull down to refresh</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Refreshed successfully</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Refreshing…</string>
@@ -7428,6 +7443,7 @@ Select your operating system:"</string>
     <string name="natural_haptic">Natural touch</string>
     <string name="natural_haptic_summary">New haptic feedback patterns bring an additional dimension to everything you see and touch on your screen.</string>
     <string name="natural_scroll">Natural scroll</string>
+    <string name="natural_scroll_summary">Content scrolls along with your finger</string>
     <string name="nature_color">Default</string>
     <string name="nav_tutorial_button_description">Start gesture navigation tutorial, button. Double tap to activate.</string>
     <string name="navigation_guide_app_quick_switch_hide_line_summary">Swipe up from the bottom of the screen, then swipe left or right</string>
@@ -8178,6 +8194,7 @@ Read and agree to %s before using this service."</string>
     <string name="photography_handle_launch_and_take_photo">Take photo</string>
     <string name="photography_handle_launch_camera">Open camera</string>
     <string name="photography_handle_long_press_camera_key_enter_camera">Press and hold the shutter button to perform an action</string>
+    <string name="photography_handle_low_battery_notify_title">Camera grip firmware update</string>
     <string name="photography_handle_quick_launch_camera_title">Quick launch</string>
     <string name="photography_handle_sn">Serial number</string>
     <string name="photography_handle_title">Camera grip</string>
@@ -8220,7 +8237,7 @@ Read and agree to %s before using this service."</string>
     <string name="pointer_fill_style_yellow_button">Change pointer fill style to yellow</string>
     <string name="pointer_location">Pointer location</string>
     <string name="pointer_location_summary">Show touch coordinates</string>
-    <string name="pointer_settings_category">Mouse/track pad</string>
+    <string name="pointer_settings_category">Mouse</string>
     <string name="pointer_speed">Pointer speed</string>
     <string name="popup_window">Restrict floating notifications</string>
     <string name="post_dsds_reboot_notification_text">Tap to update SIM settings</string>
@@ -10394,6 +10411,10 @@ Double tap to open Recents."</string>
     <string name="sos_area_code_settings_hint">Enter area code</string>
     <string name="sos_area_code_settings_summary">"Manually set the area code of your emergency contact's phone number"</string>
     <string name="sos_area_code_settings_title">Set area code</string>
+    <string name="sos_delete_emergency_contacts_dialog_message">Delete this emergency contact now?</string>
+    <string name="sos_delete_emergency_contacts_dialog_title">Delete emergency contact</string>
+    <string name="sos_delete_last_emergency_contacts_dialog_message">Emergency SOS requires at least one emergency contact to function. If you delete your last emergency contact, this feature will be turned off.</string>
+    <string name="sos_emergency_contacts_empty_text">Nothing here yet</string>
     <string name="sos_navigation_guide_message">Press the Volume down button to navigate, then press and hold the Volume up to confirm your selection</string>
     <string name="sos_navigation_guide_title">Volume buttons in Emergency SOS mode</string>
     <string name="sos_phone_call_privacy_dialog_message">"To call your emergency contacts and play SOS recording, this app needs the following permissions:
@@ -11700,7 +11721,7 @@ Turning off this feature doesn't affect your device's ability to send the inform
     <string name="usb_control_device">This device</string>
     <string name="usb_control_host">Connected device</string>
     <string name="usb_control_title">USB controlled by</string>
-    <string name="usb_default_info">When another device is connected and your phone is unlocked, these settings will be applied. Only connect to trusted devices.</string>
+    <string name="usb_default_info">These settings will be applied when connected to another device and this device is unlocked. Only connect to trusted devices.</string>
     <string name="usb_default_label">Default USB configuration</string>
     <string name="usb_eject">Eject USB storage</string>
     <string name="usb_eject_summary">Eject USB storage to remove it safely</string>
@@ -11742,6 +11763,7 @@ or earphones with a 3.5mm plug."</string>
     <string name="usb_summary_power_only">Charging connected device</string>
     <string name="usb_summary_tether">USB tethering</string>
     <string name="usb_summary_tether_power">USB tethering and supplying power</string>
+    <string name="usb_switch_reverse_charge_failed">Not available</string>
     <string name="usb_switching">Switching…</string>
     <string name="usb_switching_failed">"Couldn't switch"</string>
     <string name="usb_tethering_active_subtext">Tethered</string>

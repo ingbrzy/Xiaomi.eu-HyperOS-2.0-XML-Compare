@@ -487,6 +487,7 @@ Read and agree to the new version of %2$s before you continue."</string>
 Tap the screen to manually add or reposition city"</string>
     <string name="location_provider_btn_text">Allow Weather to access your location</string>
     <string name="location_tag">Locate</string>
+    <string name="logo_accu_content">Open AccuWeather website</string>
     <string name="manager_city_option_add_city_back_search">Back to search</string>
     <string name="manager_city_option_add_city_content">Added this city to start page successfully</string>
     <string name="manager_city_option_add_city_title">Added successfully</string>
