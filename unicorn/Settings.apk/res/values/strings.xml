@@ -1310,12 +1310,15 @@ Last ran on %2$s"</string>
     <string name="back_navigation_animation_summary">Enable system animations for predictive back.</string>
     <string name="back_sensitivity_dialog_message">Higher sensitivity may conflict with any app gestures along the edges of the screen.</string>
     <string name="back_sensitivity_dialog_title">Back Sensitivity</string>
+    <string name="back_strap_app_notification_title">App notifications</string>
+    <string name="back_strap_call_reminder_title">Incoming calls</string>
     <string name="back_strap_image_new_text">Turn this feature on to get visual notifications and personalized light effects</string>
     <string name="back_strap_image_simplified_text">When the device is face down with the screen off, the back light will display notification reminders</string>
     <string name="back_strap_image_text">When the device is face down with the screen off, the back light will display notification reminders and lighting effects for different scenes</string>
     <string name="back_strap_off">Off</string>
     <string name="back_strap_on">On</string>
     <string name="back_strap_on_back_light_display">Only when screen is face down</string>
+    <string name="back_strap_other_seetings">Additional settings</string>
     <string name="back_strap_status_close">Off</string>
     <string name="back_strap_status_open">On</string>
     <string name="back_strap_title">Back light effects</string>
@@ -1684,6 +1687,7 @@ Watch Unlock is another convenient way to unlock your phone, for example, when y
     <string name="block_list_remove_dialog_title">Attention</string>
     <string name="block_list_summary">"View devices which aren't allowed to connect to this hotspot"</string>
     <string name="block_list_title">Blocklist</string>
+    <string name="block_no_connected_devices">No connected devices</string>
     <string name="block_title">Show notifications</string>
     <string name="blocked_by_restricted_settings_content">For your security, this setting is currently unavailable.</string>
     <string name="blocked_by_restricted_settings_title">Restricted setting</string>
@@ -5788,6 +5792,8 @@ Open Xiaomi Cloud and restore items from there."</string>
     <string name="knock_slide_shape">Draw a circle with a knuckle</string>
     <string name="knock_slide_v">Draw V with a knuckle</string>
     <string name="label_mi_stats">Mi analytics</string>
+    <string name="lamp_effect_brightness">Brightness</string>
+    <string name="lamp_effect_color">Color</string>
     <string name="lamp_effect_settings">Effects</string>
     <string name="language_and_input_for_work_category_title">Work profile keyboards &amp; tools</string>
     <string name="language_empty_list_user_restricted">You don’t have permission to change the device language.</string>
@@ -7072,6 +7078,7 @@ Any user can grant permissions on behalf of all user profiles that exist on this
     <string name="miuix_appcompat_select_all">Select all</string>
     <string name="miuix_appcompat_select_all_description">Select all</string>
     <string name="miuix_appcompat_select_item">Select items</string>
+    <string name="miuix_appcompat_show_dialog_description">Popup Window</string>
     <string name="miuix_font_style_misans_bold_font_family">mipro-bold</string>
     <string name="miuix_font_style_misans_demibold_font_family">sans-serif-medium</string>
     <string name="miuix_font_style_misans_extralight_font_family">sans-serif-thin</string>
@@ -8170,6 +8177,7 @@ Read and agree to %s before using this service."</string>
     <string name="photography_handle_launch_and_take_photo">Take photo</string>
     <string name="photography_handle_launch_camera">Open camera</string>
     <string name="photography_handle_long_press_camera_key_enter_camera">Press and hold the shutter button to perform an action</string>
+    <string name="photography_handle_low_battery_notify_title">Camera grip firmware update</string>
     <string name="photography_handle_quick_launch_camera_title">Quick launch</string>
     <string name="photography_handle_sn">Serial number</string>
     <string name="photography_handle_title">Camera grip</string>
@@ -11136,6 +11144,8 @@ Try using a faster ^3, or use this ^4 for portable storage instead."</string>
     <string name="tethering_help_button_text">Help</string>
     <string name="tethering_interface_options">Tethering</string>
     <string name="tethering_settings_not_available">Change tethering settings in First space</string>
+    <string name="text_input_layout_default_content_description">这是默认的content description</string>
+    <string name="text_input_layout_default_error">这是默认的error</string>
     <string name="text_layout_optimization_switch_label">Optimize text layout</string>
     <string name="text_layout_optimization_switch_toast">"Can't optimize text layout with the current font"</string>
     <string name="texture_adjust_temperature_title">Color temperature</string>
@@ -11431,6 +11441,7 @@ When enabled, this device is eligible to join a Thread network, allowing control
     <string name="tv_media_transfer_earc_subtitle">Connected via eARC</string>
     <string name="tv_media_transfer_hdmi">HDMI output</string>
     <string name="tv_media_transfer_internal_speakers">Internal speakers</string>
+    <string name="twenty_four_select_time_format">24-hour format</string>
     <string name="twilight_mode_launch_location">Location settings</string>
     <string name="twilight_mode_location_off_dialog_message">Device location needed to determine your sunset and sunrise times.</string>
     <string name="twohours">1 hour</string>
@@ -11689,7 +11700,7 @@ Turning off this feature doesn't affect your device's ability to send the inform
     <string name="usb_control_device">This device</string>
     <string name="usb_control_host">Connected device</string>
     <string name="usb_control_title">USB controlled by</string>
-    <string name="usb_default_info">When another device is connected and your phone is unlocked, these settings will be applied. Only connect to trusted devices.</string>
+    <string name="usb_default_info">These settings will be applied when connected to another device and this device is unlocked. Only connect to trusted devices.</string>
     <string name="usb_default_label">Default USB configuration</string>
     <string name="usb_eject">Eject USB storage</string>
     <string name="usb_eject_summary">Eject USB storage to remove it safely</string>
