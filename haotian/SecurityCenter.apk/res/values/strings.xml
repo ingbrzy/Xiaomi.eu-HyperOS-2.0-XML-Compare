@@ -4341,6 +4341,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
     <string name="pc_hidemode_normal">Balanced</string>
     <string name="pc_hidemode_normal_title">Balanced</string>
     <string name="pc_hidemode_performance">Performance</string>
+    <string name="pc_hidemode_performance_chip_title">Performance (overclocking)</string>
     <string name="pc_hidemode_performance_title">Performance mode</string>
     <string name="pc_hidemode_power_save">Save battery</string>
     <string name="pc_high_temp_discharge_reminder">Charge your device. Battery may be damaged if the device overheats while battery is low.</string>
@@ -4410,6 +4411,7 @@ Ultra battery saver"</string>
     <string name="pc_power_consume_check_ing">Checking…</string>
     <string name="pc_power_mode_has_berserk">Ultimate mode is on</string>
     <string name="pc_power_mode_has_performance">Performance mode is on</string>
+    <string name="pc_power_mode_has_performance_chip">Performance enhanced (overclocking)</string>
     <string name="pc_power_save_settings_new">Battery saver settings</string>
     <string name="pc_production_date_protect_title">Manufacture date</string>
     <string name="pc_remind_close_cover_to_charge_summary">Fold the device before charging for a faster and more stable charging experience.</string>
@@ -7519,6 +7521,8 @@ This feature won't work when Battery saver or Ultra battery saver is on."</strin
     <string name="wireless_charging_fg_control_messgae">"Reverse wireless charging was turned off because there's less than %s of battery remaining. You can adjust settings to allow reverse wireless charging to work longer."</string>
     <string name="wireless_charging_fg_control_ok">Adjust</string>
     <string name="wireless_charging_low_battery_level_message">"Can't use reverse wireless charging when battery is less than %s charged."</string>
+    <string name="wireless_charging_no_reverser_charge_message">"Can't use reverse charging when charger is connected."</string>
+    <string name="wireless_charging_no_reverser_charge_title">Disconnect charger</string>
     <string name="wireless_charging_ok">Got it</string>
     <string name="wireless_charging_saver_cancel">Turn off</string>
     <string name="wireless_charging_saver_message">Battery saver is on now. Keep reverse wireless charging available?</string>
