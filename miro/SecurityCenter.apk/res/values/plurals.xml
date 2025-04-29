@@ -454,6 +454,10 @@ You can get a %d-day free trial now!"</item>
         <item quantity="other">"Wait for %d seconds and try again. "</item>
         <item quantity="one">"Wait for %d second and try again. "</item>
     </plurals>
+    <plurals name="main_minutes">
+        <item quantity="other">%d mins</item>
+        <item quantity="one">%d min</item>
+    </plurals>
     <plurals name="manual_white_list_header">
         <item quantity="other">%d exceptions</item>
         <item quantity="one">%d exception</item>
