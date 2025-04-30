@@ -3802,6 +3802,7 @@ Please send this code to the technician."</string>
     <string name="disabled_by_policy_title_biometric_parental_consent">Parent needed</string>
     <string name="disabled_by_policy_title_camera">Can’t use camera</string>
     <string name="disabled_by_policy_title_financed_device">Blocked by your credit provider</string>
+    <string name="disabled_by_policy_title_financed_device_for_airtel">Blocked by Airtel</string>
     <string name="disabled_by_policy_title_outgoing_calls">Can’t make calls</string>
     <string name="disabled_by_policy_title_screen_capture">Can’t take screenshots</string>
     <string name="disabled_by_policy_title_sms">Can’t send SMS messages</string>
@@ -4448,8 +4449,10 @@ facing the outer screen"</string>
     <string name="financed_device_info">Financed device info</string>
     <string name="financed_privacy_IMEI">Access your IMEI number</string>
     <string name="financed_privacy_allowlisted_apps">Access apps that are allowed by the credit provider</string>
+    <string name="financed_privacy_allowlisted_apps_for_airtel">Access apps that are allowed by Airtel</string>
     <string name="financed_privacy_config_date_time">Change date, time, and time zones</string>
     <string name="financed_privacy_credit_provider_capabilities_category">Your credit provider can:</string>
+    <string name="financed_privacy_credit_provider_capabilities_category_for_airtel">Airtel can:</string>
     <string name="financed_privacy_developer_options">Use developer options</string>
     <string name="financed_privacy_emergency_calls">Make emergency calls</string>
     <string name="financed_privacy_factory_reset">Factory reset your device if something goes wrong</string>
@@ -4460,16 +4463,23 @@ facing the outer screen"</string>
 If you miss a payment, your credit provider can lock your device and change device settings.
 
 To learn more, contact your credit provider."</string>
+    <string name="financed_privacy_intro_for_airtel">"Airtel can change settings and install software on this device.
+
+If you miss a payment, your device will be locked.
+
+To learn more, contact Airtel."</string>
     <string name="financed_privacy_locked_mode_category">If your device is locked, you can only use it to:</string>
     <string name="financed_privacy_multi_users">Add multiple users to your device</string>
     <string name="financed_privacy_notifications">View notifications &amp; text messages</string>
     <string name="financed_privacy_restrictions_category">If your device is financed, you can’t:</string>
+    <string name="financed_privacy_restrictions_category_for_airtel">If your device is subsidised, you can’t:</string>
     <string name="financed_privacy_restrictions_removed">All restrictions are removed from the device</string>
     <string name="financed_privacy_safe_mode">Reboot your device into safe mode</string>
     <string name="financed_privacy_settings">Financed device info</string>
     <string name="financed_privacy_system_info">View system info like date, time, network status, and battery</string>
     <string name="financed_privacy_turn_on_off_device">Turn your device on or off</string>
     <string name="financed_privacy_uninstall_creditor_app">You can uninstall the creditor app</string>
+    <string name="financed_privacy_uninstall_creditor_app_for_airtel">You can uninstall the Airtel app</string>
     <string name="find_broadcast_join_broadcast_error">Can’t join the broadcast</string>
     <string name="find_broadcast_password_dialog_connection_error">Can’t connect. Try again.</string>
     <string name="find_broadcast_password_dialog_password_error">Wrong password</string>
@@ -8177,6 +8187,7 @@ Read and agree to %s before using this service."</string>
     <string name="photography_handle_launch_and_take_photo">Take photo</string>
     <string name="photography_handle_launch_camera">Open camera</string>
     <string name="photography_handle_long_press_camera_key_enter_camera">Press and hold the shutter button to perform an action</string>
+    <string name="photography_handle_low_battery_notify_title">Camera grip firmware update</string>
     <string name="photography_handle_quick_launch_camera_title">Quick launch</string>
     <string name="photography_handle_sn">Serial number</string>
     <string name="photography_handle_title">Camera grip</string>
