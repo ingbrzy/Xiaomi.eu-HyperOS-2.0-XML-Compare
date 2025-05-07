@@ -2457,6 +2457,8 @@ volunteer"</string>
     <string name="game_toolbox_ai_upgrade_dialog_btn">Update</string>
     <string name="game_toolbox_ai_upgrade_dialog_desc">An update for AI gaming services is available. Update before using related features.</string>
     <string name="game_toolbox_ai_upgrade_dialog_title">Check for updates</string>
+    <string name="game_toolbox_auto_brightness_talkback">Auto brightness</string>
+    <string name="game_toolbox_btn_back_talkback">Back</string>
     <string name="game_toolbox_cellular_network">Mobile network speed boost</string>
     <string name="game_toolbox_display_avrs">AVRS</string>
     <string name="game_toolbox_display_avrs_desc">Turn on to slightly reduce picture quality and significantly lower power consumption</string>
@@ -2482,6 +2484,8 @@ When Smart frame rate is on, in-game and third-party frame rate detection tools 
     <string name="game_toolbox_performance_config_notice_highlight_color_hex">\#A09A97</string>
     <string name="game_toolbox_performance_config_resolution_notice">When Picture priority is on, actual frame rate is as displayed on the performance dashboard</string>
     <string name="game_toolbox_performance_config_resolution_notice_new">Picture priority improves picture quality via Super resolution and manages frame rate via Smart frame rate. &lt;font color=%s>Actual frame rate is displayed on the performance dashboard.&lt;/font></string>
+    <string name="game_toolbox_screen_brightness_talkback">Screen brightness</string>
+    <string name="game_toolbox_settings_talkback">Settings</string>
     <string name="game_toolbox_slow_charge_desc">Turn on this feature to enhance gaming experience while charging by slowing down charging speed. This can prevent your device from overheating. Turn on now?</string>
     <string name="game_toolbox_slow_charge_dialog_btn">Got it</string>
     <string name="game_toolbox_slow_charge_negative_btn">Cancel</string>
@@ -4947,7 +4951,7 @@ Ultra battery saver"</string>
     <string name="power_consume_other">Other</string>
     <string name="power_consume_rank_hardware">Hardware</string>
     <string name="power_consume_rank_software">Apps</string>
-    <string name="power_consume_rank_title">Power usage</string>
+    <string name="power_consume_rank_title">Battery usage details</string>
     <string name="power_consume_software_total_format">Apps: %s</string>
     <string name="power_customize_giveup_change">Discard changes?</string>
     <string name="power_dailog_night_charge_protection_done">Got it</string>
@@ -7145,13 +7149,18 @@ Remaining data includes data that has been rolled over from the previous month."
     <string name="usage_sorted_empty_text">Empty</string>
     <string name="usage_sorted_loading_text">Just a sec…</string>
     <string name="usage_type_audio">Audio</string>
+    <string name="usage_type_background_desk_power_consumption_time">Background usage</string>
     <string name="usage_type_cpu">CPU total</string>
     <string name="usage_type_cpu_foreground">CPU foreground</string>
     <string name="usage_type_data_recv">Mobile data received</string>
     <string name="usage_type_data_send">Mobile data sent</string>
+    <string name="usage_type_front_desk_power_consumption_time">Foreground usage</string>
     <string name="usage_type_gps">GPS</string>
     <string name="usage_type_no_coverage">Time without a signal</string>
     <string name="usage_type_on_time">Time on</string>
+    <string name="usage_type_power_consumption_ratio">Battery usage</string>
+    <string name="usage_type_power_consumption_ratio_hint_binary">Power used by %3$s as a percentage of power used by all apps in the last %1$s %2$s</string>
+    <string name="usage_type_power_consumption_ratio_hint_single">Power used by %2$s as a percentage of power used by all apps in the last %1$s</string>
     <string name="usage_type_video">Video</string>
     <string name="usage_type_wake_lock">Keep awake</string>
     <string name="usage_type_wifi_running">Wi-Fi running</string>
@@ -7398,9 +7407,9 @@ This feature won't work when Battery saver or Ultra battery saver is on."</strin
     <string name="warningcenter_disaster_info_from">预警中心 | 国家预警信息发布中心权威发布</string>
     <string name="warningcenter_disaster_info_title">About warnings</string>
     <string name="warningcenter_disaster_leiyudafeng">雷雨大风</string>
-    <string name="warningcenter_disaster_level_1">Level I (Extremely severe)</string>
-    <string name="warningcenter_disaster_level_2">Level II (Severe)</string>
-    <string name="warningcenter_disaster_level_3">Level III (Moderate)</string>
+    <string name="warningcenter_disaster_level_1">Level Ⅰ (Extremely severe)</string>
+    <string name="warningcenter_disaster_level_2">Level Ⅱ (Severe)</string>
+    <string name="warningcenter_disaster_level_3">Level Ⅲ (Moderate)</string>
     <string name="warningcenter_disaster_level_4">Level Ⅳ (Minor)</string>
     <string name="warningcenter_disaster_level_all">All levels</string>
     <string name="warningcenter_disaster_level_info">Warning levels</string>
