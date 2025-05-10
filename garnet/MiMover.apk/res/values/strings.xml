@@ -98,6 +98,9 @@
     <string name="ble_guest_connecting_title">Connecting to new device…</string>
     <string name="ble_host_verification_summary">Enter a %d-digit code on your old device.</string>
     <string name="ble_host_verification_title">Connecting to old device…</string>
+    <string name="ble_manual_authorization_content">Grant the required permissions to be able to transfer items with Mi Mover. You can grant these permissions in Settings.</string>
+    <string name="ble_manual_authorization_positive_btn">Settings</string>
+    <string name="ble_manual_authorization_title">Permissions required</string>
     <string name="ble_manual_connect">Connect manually</string>
     <string name="ble_refuse_button">Reject</string>
     <string name="ble_start_ap_successed">Created hotspot successfully. Waiting to connect…</string>
@@ -225,7 +228,7 @@ Visit https://appleid.apple.com/#!&amp;page=signin to turn off"</string>
     <string name="collect_content">Collected content</string>
     <string name="collect_situation">Collection status</string>
     <string name="collected">Collected</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">a85556dd6ee746c0b35e5241877c01ac</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">a83b1155716041869e74891fcf6db085</string>
     <string name="comma_seperator">", "</string>
     <string name="compatibility32Bit_mode_toast">"Can't transfer items. Change your selections and try again."</string>
     <string name="connect_icloud_fail">"Couldn't connect to iCloud"</string>
@@ -631,7 +634,7 @@ Open WeChat and go to Me > Settings > General > Back up &amp; migrate chats."</s
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Just a sec…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Couldn't load items"</string>
     <string name="miuix_show_password">Show password</string>
-    <string name="miuix_stretchablewidget_collapsed">Closed</string>
+    <string name="miuix_stretchablewidget_collapsed">Collapsed</string>
     <string name="miuix_stretchablewidget_expanded">Expanded</string>
     <string name="mms">MMS</string>
     <string name="mms_contacts_calllog">Messages, contacts, and call history</string>
