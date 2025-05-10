@@ -1,3 +1,5 @@
+Removed: [az-rAZ] arrays.xml: array/language_name_list (wrong item count)
+Removed: [az-rAZ] arrays.xml: array/pref_ua_choices (wrong item count)
 Removed: [bo-rCN] dimens.xml: dimen/miuix_appcompat_button_inline_content_safe_padding_vertical (wrong value unit)
 Removed: [bo-rCN] plurals.xml: plurals/festival_game_task_gifts (wrong item format)
 Removed: [bo-rCN] plurals.xml: plurals/festival_news_task_gifts (wrong item format)
