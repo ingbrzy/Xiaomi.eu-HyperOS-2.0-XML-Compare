@@ -408,7 +408,7 @@
     <string name="doodle_color_pick_unknown_talkback">Unknown color</string>
     <string name="doodle_color_pick_yellow_green_talkback">Yellow-green</string>
     <string name="doodle_color_pick_yellow_talkback">Yellow</string>
-    <string name="doodle_color_picker_bar">Color Picker Slider: Double-click, Long Press, and Swipe to Select Colors</string>
+    <string name="doodle_color_picker_bar">Color picker bar. Double tap and hold, then swipe to select colors.</string>
     <string name="doodle_feature">Doodles</string>
     <string name="doodle_guide_brush_config_hint">Tap again to adjust stroke width and opacity</string>
     <string name="doodle_guide_dialog_confirm">OK</string>
@@ -586,6 +586,7 @@
     <string name="insert_image_size_limit_tip">"This image is over %d MB. It's been automatically compressed."</string>
     <string name="item_view_role_description">Tab</string>
     <string name="last_excerpt_unfinish_hint">The latest excerpt is incomplete</string>
+    <string name="leak_canary_test_class_name">assertk.Assert</string>
     <string name="library_android_database_sqlcipher_author">Zetetic, LLC</string>
     <string name="library_android_database_sqlcipher_authorWebsite">https://www.zetetic.net/sqlcipher/</string>
     <string name="library_android_database_sqlcipher_isOpenSource">true</string>
@@ -595,6 +596,8 @@
     <string name="library_android_database_sqlcipher_libraryWebsite">https://www.zetetic.net/sqlcipher/</string>
     <string name="library_android_database_sqlcipher_licenseLink">https://www.zetetic.net/sqlcipher/license/</string>
     <string name="library_android_database_sqlcipher_repositoryLink">https://github.com/sqlcipher/android-database-sqlcipher</string>
+    <string name="llm_register_preference">Beijing-XiaoMiAiXieZuo-20250312S0022</string>
+    <string name="llm_register_preference_title">Model service registration number</string>
     <string name="load_note_dialog">Just a sec…</string>
     <string name="loading_text">Just a sec…</string>
     <string name="login_sync">Sign in &amp; sync</string>
@@ -730,6 +733,7 @@
     <string name="miuix_navigator_content_switch_description">Show sidebar</string>
     <string name="miuix_navigator_multiple_choice">Select</string>
     <string name="miuix_navigator_navigator_switch_description">Hide sidebar</string>
+    <string name="miuix_navigator_toolbar_screen_bottom">Toolbar at the bottom of the screen</string>
     <string name="miuix_progressbar_loading">Just a sec…</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Pull down to refresh</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Refreshed successfully</string>
@@ -740,7 +744,7 @@
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Just a sec…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Couldn't load items"</string>
     <string name="miuix_show_password">Show password</string>
-    <string name="miuix_stretchablewidget_collapsed">Closed</string>
+    <string name="miuix_stretchablewidget_collapsed">Collapsed</string>
     <string name="miuix_stretchablewidget_expanded">Expanded</string>
     <string name="monday">Monday</string>
     <string name="monday_short">Mon</string>
@@ -989,7 +993,8 @@
     <string name="pref_title_quick_note_talkback">To quickly open Notes, double tap and hold then drag to the right.</string>
     <string name="pref_title_todo_float_mode">Use task toolbox</string>
     <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
-    <string name="privacy_preference">ICP备案号：京ICP备10046444号-74A</string>
+    <string name="privacy_preference">京ICP备10046444号-74A</string>
+    <string name="privacy_preference_title">ICP registration number</string>
     <string name="private_entry_available">Release to open private folder</string>
     <string name="private_entry_default">Pull down to open private folder</string>
     <string name="progressbar_title">Checking for security issues…</string>
@@ -1254,9 +1259,11 @@ Allow Notes to record audio."</string>
     <string name="todo_event_description_tomorrow">Tomorrow</string>
     <string name="todo_event_description_yesterday">Yesterday</string>
     <string name="todo_float_permission_open_reminder">Allow Notes to display floating windows in other apps to be able to use this feature.</string>
+    <string name="todo_item_group_am">AM</string>
     <string name="todo_item_group_expired">Expired</string>
     <string name="todo_item_group_finished">Completed</string>
     <string name="todo_item_group_further">Later</string>
+    <string name="todo_item_group_pm">PM</string>
     <string name="todo_item_group_today">Today</string>
     <string name="todo_item_group_tomorrow">Tomorrow</string>
     <string name="todo_item_group_unschedule">Not scheduled</string>
@@ -1273,6 +1280,7 @@ Allow Notes to record audio."</string>
     <string name="todo_notify_alarm_title">Task reminder</string>
     <string name="todo_schedule_time_for_picker_hm">H mm</string>
     <string name="todo_schedule_time_hm">HH:mm</string>
+    <string name="todo_schedule_time_hm_12">hh:mm a</string>
     <string name="todo_schedule_time_md">MM/dd</string>
     <string name="todo_schedule_time_repeat_day">, every day</string>
     <string name="todo_schedule_time_repeat_month">, every month</string>
