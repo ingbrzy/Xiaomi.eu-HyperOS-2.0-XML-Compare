@@ -79,6 +79,7 @@
     <string name="alert_weather_enable_settings_title">Weather warnings</string>
     <string name="already_voted_toast">"You've already voted today"</string>
     <string name="am">AM</string>
+    <string name="amap_map3d_app_name">AMapSOSDK</string>
     <string name="androidx_startup">androidx.startup</string>
     <string name="app_name">Weather</string>
     <string name="aqi_15_days_desc">15-day AQI forecast</string>
@@ -903,10 +904,14 @@ Tap the screen to manually add or reposition city"</string>
     <string name="video_dialog_play" />
     <string name="video_dialog_subtitle">"You're using mobile data. Play video anyway?"</string>
     <string name="video_dialog_title" />
+    <string name="view_drag_end_talkback">%1$s, moved to row: %2$s</string>
+    <string name="view_drag_move_talkback">Move to row: %s</string>
     <string name="view_forecast_item_yesterday">Yesterday</string>
     <string name="view_indexes_item_day_after_tommorrow">In 2 days</string>
     <string name="view_indexes_item_today">Today</string>
     <string name="view_indexes_item_tommorrow">Tomorrow</string>
+    <string name="view_not_select_talkback">Not selected: %s</string>
+    <string name="view_select_talkback">Selected: %s</string>
     <string name="warning_weather_day_and_night_settings_summary">Receive daily summaries containing weather info at 7:00 and 19:00</string>
     <string name="warning_weather_day_and_night_settings_title">Daily summaries</string>
     <string name="weather_alert_channel_name">Alerts</string>
