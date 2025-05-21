@@ -1,4 +1,6 @@
 Removed: [ar] plurals.xml: plurals/download_info_count_deleted_tasks (wrong item format)
+Removed: [az-rAZ] plurals.xml: plurals/action_description_all_paused (wrong item format)
+Removed: [az-rAZ] plurals.xml: plurals/action_description_all_start (wrong item format)
 Removed: [az-rAZ] plurals.xml: plurals/download_info_count_deleted_tasks (wrong item format)
 Removed: [az-rAZ] plurals.xml: plurals/number_items (wrong item format)
 Removed: [be] plurals.xml: plurals/download_info_count_deleted_tasks (wrong item format)
