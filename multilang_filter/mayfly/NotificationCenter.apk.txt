@@ -1,5 +1,4 @@
 Removed: [az-rAZ] strings.xml: string/rule_keyguard_display (wrong format)
-Removed: [be] strings.xml: string/rule_keyguard_display (wrong format)
 Removed: [bo-rCN] dimens.xml: dimen/miuix_appcompat_button_inline_content_safe_padding_vertical (wrong value unit)
 Removed: [hr] strings.xml: string/rule_keyguard_display (wrong format)
 Removed: [pt-rBR] strings.xml: string/rule_keyguard_display (wrong format)
