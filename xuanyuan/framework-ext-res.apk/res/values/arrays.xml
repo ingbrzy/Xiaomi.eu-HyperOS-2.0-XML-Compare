@@ -6778,6 +6778,7 @@
         <item>cn.xuexi.android</item>
         <item>org.telegram.messenger</item>
         <item>com.dianping.v1</item>
+        <item>com.miui.mediaeditor</item>
     </string-array>
     <string-array name="list_about_support_cvw_level_full">
         <item>com.android.contacts</item>
@@ -8328,6 +8329,7 @@
     </string-array>
     <string-array name="not_start_browser_in_freeform_apps">
         <item>com.blizzard.wtcg.hearthstone</item>
+        <item>com.blizzard.wtcg.hearthstone.cn.dashen</item>
     </string-array>
     <string-array name="organized_languages_default">
         <item>zh_CN</item>
@@ -9041,6 +9043,7 @@
         <item>com.miui.securitycore.remote</item>
         <item>com.miui.securitycenter.remote</item>
         <item>com.miui.greenguard</item>
+        <item>com.xiaomi.superhexa</item>
         <item>com.miui.aod</item>
         <item>com.miui.voiceassist:core</item>
         <item>com.xiaomi.wpslauncher</item>

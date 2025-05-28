@@ -550,7 +550,7 @@ Streaming music over mobile data may incur charges from your carrier."</string>
     <string name="columbus_reward_style_speed_confirm">Continue</string>
     <string name="columbus_skip_ad">Skip</string>
     <string name="columbus_skip_ad_time">Skip (%d)</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">f1f365f7f01541d1be576d047b071f27</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">2261d6957950400c944e7669a6cd8092</string>
     <string formatted="false" name="comment_format">%s: %s</string>
     <string name="common_google_play_services_enable_button">Enable</string>
     <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
