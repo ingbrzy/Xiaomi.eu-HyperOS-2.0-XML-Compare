@@ -6735,7 +6735,6 @@
         <item>co.sitic.pp/co.sitic.pp.aBloqueo</item>
         <item>jp.softbank.mb.parentalcontrols/jp.co.daj.consumer.ifilter.blocker.BlockActivity</item>
         <item>jp.netstar.familysmile/jp.netstar.familysmile.appwatch.AppWatchBlockActivity</item>
-        <item>com.payjoy.status/com.payjoy.status.ui.LockActivity</item>
     </string-array>
     <string-array name="list_about_need_relunch">
         <item>com.supercell.clashroyale.mi</item>
@@ -6752,6 +6751,7 @@
         <item>cn.xuexi.android</item>
         <item>org.telegram.messenger</item>
         <item>com.dianping.v1</item>
+        <item>com.miui.mediaeditor</item>
     </string-array>
     <string-array name="list_about_support_cvw_level_full">
         <item>com.android.contacts</item>
@@ -8300,6 +8300,7 @@
     </string-array>
     <string-array name="not_start_browser_in_freeform_apps">
         <item>com.blizzard.wtcg.hearthstone</item>
+        <item>com.blizzard.wtcg.hearthstone.cn.dashen</item>
     </string-array>
     <string-array name="organized_languages_default">
         <item>zh_CN</item>
@@ -8596,6 +8597,18 @@
         <item>com.miui.misightservice</item>
     </string-array>
     <array name="package_user_request_clean_white_list" />
+    <string-array name="parallel_sweep_root_table_packages">
+        <item>com.ss.android.ugc.aweme</item>
+        <item>com.ss.android.article.news</item>
+        <item>com.taobao.taobao</item>
+        <item>com.xingin.xhs</item>
+        <item>com.ss.android.article.lite</item>
+        <item>com.ss.android.ugc.aweme.lite</item>
+        <item>com.kuaishou.nebula</item>
+        <item>com.smile.gifmaker</item>
+        <item>com.baidu.searchbox</item>
+        <item>com.tencent.qqlive</item>
+    </string-array>
     <string-array name="periodic_cleaner_clean_white_list">
         <item>android.devicepolicy.cts</item>
         <item>android.server.wm.cts</item>
@@ -9012,6 +9025,7 @@
         <item>com.miui.securitycore.remote</item>
         <item>com.miui.securitycenter.remote</item>
         <item>com.miui.greenguard</item>
+        <item>com.xiaomi.superhexa</item>
         <item>com.miui.aod</item>
         <item>com.miui.voiceassist:core</item>
         <item>com.xiaomi.xmsf</item>
@@ -9123,7 +9137,6 @@
         <item>com.mi.global.shop</item>
         <item>com.android.soundrecorder</item>
         <item>com.android.provision</item>
-        <item>com.miui.carlink</item>
         <item>com.whatsapp</item>
         <item>com.google.android.youtube</item>
         <item>com.android.chrome</item>
