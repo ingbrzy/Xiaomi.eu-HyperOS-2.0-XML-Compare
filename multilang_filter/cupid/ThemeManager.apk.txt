@@ -76,7 +76,6 @@ Removed: [pt-rPT] strings.xml: string/ai_estimated_two_three_minutes (wrong attr
 Removed: [pt-rPT] strings.xml: string/mtrl_picker_navigate_to_year_description (wrong format)
 Removed: [ro] strings.xml: string/ai_estimated_two_three_minutes (wrong attributes)
 Removed: [ro] strings.xml: string/xiaomi_update_sdk_dialog_title (wrong format)
-Removed: [ru] strings.xml: string/ai_estimated_two_three_minutes (wrong attributes)
 Removed: [sk] strings.xml: string/ai_estimated_two_three_minutes (wrong attributes)
 Removed: [sl] strings.xml: string/ai_estimated_two_three_minutes (wrong attributes)
 Removed: [sl] strings.xml: string/xiaomi_update_sdk_dialog_title (wrong format)
