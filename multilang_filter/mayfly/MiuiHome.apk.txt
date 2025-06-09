@@ -4,6 +4,7 @@ Removed: [az-rAZ] arrays.xml: array/widget_component_add_source (wrong item coun
 Removed: [az-rAZ] arrays.xml: array/widget_component_add_way (wrong item count)
 Removed: [az-rAZ] arrays.xml: array/widget_component_delete_way (wrong item count)
 Removed: [az-rAZ] arrays.xml: array/widget_component_source (wrong item count)
+Removed: [be] strings.xml: string/remove_sys_app_content (wrong format)
 Removed: [bg] strings.xml: string/remove_sys_app_content (wrong format)
 Removed: [bn-rBD] strings.xml: string/remove_sys_app_content (wrong format)
 Removed: [bn-rIN] strings.xml: string/remove_sys_app_content (wrong format)
