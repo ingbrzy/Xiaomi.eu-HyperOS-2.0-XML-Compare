@@ -258,7 +258,7 @@
         <item>@string/eras_ad</item>
     </string-array>
     <array name="flashlight_seekbar_bg_colors">
-        <item>#ffe5e5e5</item>
+        <item>#e5e5e5</item>
         <item>100</item>
     </array>
     <array name="flashlight_seekbar_blend_colors">
@@ -266,7 +266,7 @@
         <item>100</item>
     </array>
     <array name="flashlight_switch_colors">
-        <item>#ffffffff</item>
+        <item>#ffffff</item>
         <item>100</item>
     </array>
     <array name="flashlight_window_background_blend_colors">
@@ -453,10 +453,10 @@
     <array name="miui_volume_progress_released_corners">
         <item>@dimen/miui_volume_timer_corner_radius</item>
         <item>@dimen/miui_volume_timer_corner_radius</item>
-        <item>0.0dip</item>
-        <item>0.0dip</item>
-        <item>0.0dip</item>
-        <item>0.0dip</item>
+        <item>0.0dp</item>
+        <item>0.0dp</item>
+        <item>0.0dp</item>
+        <item>0.0dp</item>
         <item>@dimen/miui_volume_timer_corner_radius</item>
         <item>@dimen/miui_volume_timer_corner_radius</item>
     </array>
@@ -471,32 +471,32 @@
         <item>@dimen/miui_volume_bg_radius</item>
     </array>
     <array name="miui_volume_ringer_btn_dnd_corners">
-        <item>0.0dip</item>
-        <item>0.0dip</item>
+        <item>0.0dp</item>
+        <item>0.0dp</item>
         <item>@dimen/miui_volume_bg_radius_expanded</item>
         <item>@dimen/miui_volume_bg_radius_expanded</item>
-        <item>0.0dip</item>
-        <item>0.0dip</item>
-        <item>0.0dip</item>
-        <item>0.0dip</item>
+        <item>0.0dp</item>
+        <item>0.0dp</item>
+        <item>0.0dp</item>
+        <item>0.0dp</item>
     </array>
     <array name="miui_volume_ringer_btn_standard_corners">
         <item>@dimen/miui_volume_bg_radius_expanded</item>
         <item>@dimen/miui_volume_bg_radius_expanded</item>
-        <item>0.0dip</item>
-        <item>0.0dip</item>
-        <item>0.0dip</item>
-        <item>0.0dip</item>
-        <item>0.0dip</item>
-        <item>0.0dip</item>
+        <item>0.0dp</item>
+        <item>0.0dp</item>
+        <item>0.0dp</item>
+        <item>0.0dp</item>
+        <item>0.0dp</item>
+        <item>0.0dp</item>
     </array>
     <array name="miui_volume_ringer_btn_standard_corners2">
         <item>@dimen/miui_volume_bg_radius_expanded</item>
         <item>@dimen/miui_volume_bg_radius_expanded</item>
-        <item>0.0dip</item>
-        <item>0.0dip</item>
-        <item>0.0dip</item>
-        <item>0.0dip</item>
+        <item>0.0dp</item>
+        <item>0.0dp</item>
+        <item>0.0dp</item>
+        <item>0.0dp</item>
         <item>@dimen/miui_volume_bg_radius_expanded</item>
         <item>@dimen/miui_volume_bg_radius_expanded</item>
     </array>

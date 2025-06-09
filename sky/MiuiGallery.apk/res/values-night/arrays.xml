@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="card_blend_colors">
+        <item>0x8f5c5c5c</item>
+        <item>0xa3484848</item>
+    </integer-array>
+    <integer-array name="card_blend_colors_modes">
+        <item>19</item>
+        <item>3</item>
+    </integer-array>
+</resources>
