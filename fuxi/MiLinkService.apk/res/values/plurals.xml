@@ -19,47 +19,47 @@
         <item quantity="other">Immediately</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">In %d mins</item>
         <item quantity="one">In %d min</item>
+        <item quantity="other">In %d mins</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Just now</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d mins ago</item>
         <item quantity="one">%d min ago</item>
+        <item quantity="other">%d mins ago</item>
     </plurals>
     <plurals name="car_map_hour">
-        <item quantity="other">%d hrs</item>
         <item quantity="one">%d hr</item>
+        <item quantity="other">%d hrs</item>
     </plurals>
     <plurals name="car_map_kilometre">
-        <item quantity="other">%d km</item>
         <item quantity="one">%d km</item>
+        <item quantity="other">%d km</item>
     </plurals>
     <plurals name="car_map_kilometre_decimal">
-        <item quantity="other">%.1f km</item>
         <item quantity="one">%.1f km</item>
+        <item quantity="other">%.1f km</item>
     </plurals>
     <plurals name="car_map_meter">
-        <item quantity="other">%d m</item>
         <item quantity="one">%d m</item>
+        <item quantity="other">%d m</item>
     </plurals>
     <plurals name="car_map_minute">
-        <item quantity="other">%d mins</item>
         <item quantity="one">%d min</item>
+        <item quantity="other">%d mins</item>
     </plurals>
     <plurals name="circulate_audio_group_subtitle_format">
-        <item quantity="other">%1$d devices</item>
         <item quantity="one">%1$d device</item>
+        <item quantity="other">%1$d devices</item>
     </plurals>
     <plurals name="circulate_audio_group_title_format">
-        <item quantity="other">%1$d devices</item>
         <item quantity="one">%1$d device</item>
+        <item quantity="other">%1$d devices</item>
     </plurals>
     <plurals name="controller_auth_count_down">
-        <item quantity="other">Enter the code from %1$s (%2$d secs)</item>
         <item quantity="one">Enter the code from %1$s (%2$d sec)</item>
+        <item quantity="other">Enter the code from %1$s (%2$d secs)</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Half an hour ago</item>
@@ -74,26 +74,26 @@
         <item quantity="other">Immediately</item>
     </plurals>
     <plurals name="in_num_minutes">
-        <item quantity="other">in %d minutes</item>
         <item quantity="one">in 1 minute</item>
+        <item quantity="other">in %d minutes</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Just now</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
-        <item quantity="other">%d items selected</item>
         <item quantity="one">%d item selected</item>
+        <item quantity="other">%d items selected</item>
     </plurals>
     <plurals name="mtrl_badge_content_description">
-        <item quantity="other">%d new notifications</item>
         <item quantity="one">%d new notification</item>
+        <item quantity="other">%d new notifications</item>
     </plurals>
     <plurals name="num_minutes_ago">
-        <item quantity="other">%d minutes ago</item>
         <item quantity="one">1 minute ago</item>
+        <item quantity="other">%d minutes ago</item>
     </plurals>
     <plurals name="tv_remote_auth_count_down">
-        <item quantity="other">"Enter %1$s's code (%2$ds)"</item>
         <item quantity="one">"Enter %1$s's code (%2$ds)"</item>
+        <item quantity="other">"Enter %1$s's code (%2$ds)"</item>
     </plurals>
 </resources>
