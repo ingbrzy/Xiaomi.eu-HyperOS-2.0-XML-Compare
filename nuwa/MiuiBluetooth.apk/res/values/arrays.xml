@@ -228,12 +228,12 @@
         <item>@string/chinese_symbol_animals_pig</item>
     </string-array>
     <integer-array name="default_card_stroke_gradient_colors_dark">
-        <item>0x1FFFFFFF</item>
-        <item>0x14FFFFFF</item>
+        <item>0x1fffffff</item>
+        <item>0x14ffffff</item>
     </integer-array>
     <integer-array name="default_card_stroke_gradient_colors_light">
-        <item>0x4DFFFFFF</item>
-        <item>0x36FFFFFF</item>
+        <item>0x4dffffff</item>
+        <item>0x36ffffff</item>
     </integer-array>
     <array name="default_card_stroke_gradient_colors_positions">
         <item>@fraction/miuix_default_card_stroke_gradient_color_start_position</item>
@@ -366,6 +366,16 @@
         <item>@string/solar_term_light_snow</item>
         <item>@string/solar_term_heavy_snow</item>
         <item>@string/solar_term_winter_solstice</item>
+    </string-array>
+    <string-array name="virtualcallallowed">
+        <item>@string/offline_call_callable_close</item>
+        <item>@string/offline_call_callable_only_contact</item>
+        <item>@string/offline_call_callable_all</item>
+    </string-array>
+    <string-array name="virtualcallallowed_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
     </string-array>
     <string-array name="week_days">
         <item>@string/sunday</item>
