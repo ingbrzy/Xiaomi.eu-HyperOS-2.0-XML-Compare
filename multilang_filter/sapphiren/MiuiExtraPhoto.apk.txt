@@ -1,2 +1,4 @@
 Removed: [it] arrays.xml: array/multi_floating_package_allow_list (wrong item count)
-Removed: [zh-rCN] dimens.xml: dimen/refocus_radio_item_text_max_width (wrong attributes)
+Removed: [zh-rCN] dimens.xml: dimen/refocus_operation_text_size (invalid value)
+Removed: [zh-rCN] dimens.xml: dimen/refocus_radio_item_text_max_width (invalid value)
+Removed: [zh-rCN] dimens.xml: dimen/refocus_radio_item_text_padding (invalid value)
