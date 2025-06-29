@@ -47,6 +47,14 @@
         <item quantity="one">Playing next video in %d second</item>
         <item quantity="other">Playing next video in %d seconds</item>
     </plurals>
+    <plurals name="columbus_exo_controls_fastforward_by_amount_description">
+        <item quantity="one">Fast forward %d second</item>
+        <item quantity="other">Fast forward %d seconds</item>
+    </plurals>
+    <plurals name="columbus_exo_controls_rewind_by_amount_description">
+        <item quantity="one">Rewind %d second</item>
+        <item quantity="other">Rewind %d seconds</item>
+    </plurals>
     <plurals name="count_likes">
         <item quantity="one">%s like</item>
         <item quantity="other">%s likes</item>
