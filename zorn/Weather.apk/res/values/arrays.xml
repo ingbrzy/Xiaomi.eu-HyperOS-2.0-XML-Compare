@@ -382,12 +382,12 @@
         <item>al_119.png</item>
     </string-array>
     <integer-array name="default_card_stroke_gradient_colors_dark">
-        <item>0x1FFFFFFF</item>
-        <item>0x14FFFFFF</item>
+        <item>0x1fffffff</item>
+        <item>0x14ffffff</item>
     </integer-array>
     <integer-array name="default_card_stroke_gradient_colors_light">
-        <item>0x4DFFFFFF</item>
-        <item>0x36FFFFFF</item>
+        <item>0x4dffffff</item>
+        <item>0x36ffffff</item>
     </integer-array>
     <array name="default_card_stroke_gradient_colors_positions">
         <item>@fraction/miuix_default_card_stroke_gradient_color_start_position</item>
@@ -588,6 +588,8 @@
         <item>zircon</item>
         <item>dizi</item>
         <item>ruan</item>
+        <item>lapis</item>
+        <item>flourite</item>
         <item>lapis</item>
     </string-array>
     <string-array name="small_thunder_1">

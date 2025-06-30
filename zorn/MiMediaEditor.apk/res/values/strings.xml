@@ -723,7 +723,7 @@ For best results, use this feature on clear, forward-facing photos."</string>
     <string name="file_sending">Transferring files…</string>
     <string name="filter_ambience_black_mist">Dark mist</string>
     <string name="filter_ambience_white_mist">White mist</string>
-    <item name="filter_bg_color_component" type="string">0.0</item>
+    <item format="float" name="filter_bg_color_component" type="string">0.0</item>
     <string name="filter_category_ambience">Atmosphere</string>
     <string name="filter_category_black_white">B&amp;W</string>
     <string name="filter_category_classic">Classic</string>
