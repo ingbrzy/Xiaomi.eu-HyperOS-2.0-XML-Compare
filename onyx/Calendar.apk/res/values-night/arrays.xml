@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="account_birthday">
+        <item>#c93b52</item>
+        <item>@color/transparent</item>
+        <item>#210b0e</item>
+        <item>#c93b52</item>
+    </array>
+    <array name="account_preset1">
+        <item>#b9361e</item>
+        <item>@color/transparent</item>
+        <item>#2c0d08</item>
+        <item>#b9361e</item>
+    </array>
+    <array name="account_preset2">
+        <item>#4a96a4</item>
+        <item>@color/transparent</item>
+        <item>#0d1d20</item>
+        <item>#4a96a4</item>
+    </array>
+    <array name="account_preset3">
+        <item>#6462cc</item>
+        <item>@color/transparent</item>
+        <item>#19192d</item>
+        <item>#6462cc</item>
+    </array>
+    <array name="account_preset4">
+        <item>#c07b15</item>
+        <item>@color/transparent</item>
+        <item>#1e1304</item>
+        <item>#c07b15</item>
+    </array>
+    <array name="account_xiaomi">
+        <item>#0d81cf</item>
+        <item>@color/transparent</item>
+        <item>#061722</item>
+        <item>#0d81cf</item>
+    </array>
+    <array name="aqi_level_bg_colors">
+        <item>#84b08f</item>
+        <item>#d0b97b</item>
+        <item>#b8987c</item>
+        <item>#c08073</item>
+        <item>#a284b4</item>
+        <item>#8e68a5</item>
+    </array>
+    <array name="aqi_level_content_colors">
+        <item>#018a3a</item>
+        <item>#a77902</item>
+        <item>#9d4701</item>
+        <item>#a1341c</item>
+        <item>#7a30a8</item>
+        <item>#56157e</item>
+    </array>
+</resources>
