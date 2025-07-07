@@ -1,0 +1,6 @@
+Removed: [bo-rCN] dimens.xml: dimen/miuix_appcompat_button_inline_content_safe_padding_vertical (wrong value unit)
+Removed: [bo-rCN] strings.xml: string/unlock_catch_log_toast (wrong attributes)
+Removed: [ug-rCN] strings.xml: string/unlock_catch_log_toast (wrong attributes)
+Removed: [zh-rCN] strings.xml: string/unlock_catch_log_toast (wrong attributes)
+Removed: [zh-rHK] strings.xml: string/unlock_catch_log_toast (wrong attributes)
+Removed: [zh-rTW] strings.xml: string/unlock_catch_log_toast (wrong attributes)
