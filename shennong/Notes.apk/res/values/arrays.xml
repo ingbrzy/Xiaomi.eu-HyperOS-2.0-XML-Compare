@@ -186,6 +186,7 @@
         <item>muyu</item>
         <item>uke</item>
         <item>sheng</item>
+        <item>turner</item>
     </string-array>
     <string-array name="chinese_days">
         <item>@string/chinese_day_1</item>

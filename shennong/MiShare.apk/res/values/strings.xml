@@ -53,6 +53,7 @@
     <string name="blackshark_3_pro">Black Shark 3 Pro</string>
     <string name="blackshark_helo">Black Shark Helo</string>
     <string name="blackshark_phone">Black Shark</string>
+    <string name="bt_address">bt address:</string>
     <string name="btn_cancel">Cancel</string>
     <string name="btn_cancel_send">Cancel this transfer</string>
     <string name="btn_exit_send">Exit</string>
@@ -145,6 +146,7 @@
     <string name="confirm_cancel_task_files">Cancel sending files to %1$s?</string>
     <string name="confirm_cancel_task_images">Cancel sending images to %1$s?</string>
     <string name="copy">Copy</string>
+    <string name="count_and_size_of_file">%1$s %2$s</string>
     <string name="custom_define_permission_desc_android.permission_group.LOCATION">For transferring files using Bluetooth and Wi-Fi</string>
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">For sending and receiving files</string>
     <string name="date_picker_label_day" />
@@ -170,6 +172,7 @@
     <string name="device_type_realme_phone">realme</string>
     <string name="device_type_vivo_phone">vivo</string>
     <string name="device_type_xiaomi_phone">Xiaomi</string>
+    <string name="did_address">device id:</string>
     <string name="disconnect">DISCONNECT</string>
     <string name="early_morning">Morning</string>
     <string name="earthly_branches_chen">辰</string>
@@ -194,16 +197,13 @@
     <string name="err_send_short_remote_refuse">Rejected</string>
     <string name="err_send_short_remote_timeout">No response</string>
     <string name="err_send_short_send_cancel">Canceled transfer</string>
+    <string name="error_ap_in_use">"Can't send files to other devices when hotspot is on"</string>
     <string name="error_ap_or_screen_already_hosting">"Can't send items to other devices while casting or using portable hotspot."</string>
     <string name="error_ble_connect_failure">"The receiving device couldn't connect to Bluetooth. Make sure its screen is on."</string>
     <string name="error_ble_connect_timeout">"Couldn't connect to Bluetooth. Reconnect to Bluetooth on both devices and try again."</string>
     <string name="error_device_lost">"Looks like the other device isn't responding. Wait a minute or two and try again."</string>
     <string name="error_has_occurred">An error occurred</string>
-    <string name="error_local_ap_in_use">Turn off hotspot on this device and try again</string>
-    <string name="error_local_easytether">Turn off wireless tethering on this device and try again</string>
-    <string name="error_local_mirror">Turn off Screen Combo on this device and try again</string>
-    <string name="error_local_p2p_in_use">Turn off cross-device features and try again</string>
-    <string name="error_local_screening">Stop casting on this device and try again</string>
+    <string name="error_mirror_working">"Can't share items while sharing screen"</string>
     <string name="error_msg_network_error">"Couldn't connect to the network. Check both devices' Wi-Fi and Bluetooth connections."</string>
     <string name="error_msg_network_error_china">"Couldn't connect to the network. Check both devices' Wi-Fi and Bluetooth connections."</string>
     <string name="error_msg_wlan_error">"Couldn't connect. Reconnect to Wi-Fi and try again."</string>
@@ -221,14 +221,9 @@
     <string name="error_receive_user_cancel">Canceled transfer</string>
     <string name="error_receive_user_interrupted">The other person canceled the transfer</string>
     <string name="error_refuse_receive">Canceled transfer</string>
-    <string name="error_remote_ap_in_use">Turn off hotspot on the other device and try again</string>
+    <string name="error_remote_ap_working">Ask the other person to turn off portable hotspot</string>
     <string name="error_remote_busy">Looks like the other device is busy. Wait a minute or two and try again.</string>
-    <string name="error_remote_easytether">Turn off wireless tethering on the other device and try again</string>
-    <string name="error_remote_mirror">Turn off Screen Combo on the other device and try again</string>
-    <string name="error_remote_p2p_in_use">Turn off cross-device features on the other device and try again</string>
-    <string name="error_remote_screening">Stop casting on the other device and try again</string>
-    <string name="error_remote_wlan_off">Turn on Wi-Fi on the other device</string>
-    <string name="error_remote_wlan_off_china">Turn on Wi-Fi on the other device</string>
+    <string name="error_remote_mirror_working">"The other device can't accept items while sharing screen"</string>
     <string name="error_self_busy">The device is busy. Wait a minute or two and try again.</string>
     <string name="error_send_file_cannot_read">"Couldn't send file. Try again."</string>
     <string name="error_send_file_no_enough_space">"Can't send. Not enough storage space on the other device."</string>
@@ -314,8 +309,6 @@
     <string name="global_my">"My device
 %1$s"</string>
     <string name="go_to_settings">Settings</string>
-    <string name="guide_operation">双指左右滑动可切换</string>
-    <string formatted="false" name="guide_page">第%d页，共%d页</string>
     <string name="guide_page_view1">Turn on Xiaomi Share on both devices. The other person can tap the toggle in Control center. Page %1$d of %2$d. Swipe left or right with two fingers to switch.</string>
     <string name="guide_page_view1_lyra">You can turn on Xiaomi Share in Control center. Page: %1$d of %2$d. Swipe left or right with two fingers to switch.</string>
     <string name="guide_page_view2">"Select the device to which you'd like to send items and tap its icon. Page: %1$d of %2$d. Swipe left or right with two fingers to switch."</string>
@@ -390,6 +383,7 @@
     <string name="mishare_device_version_comment">*Devices signed in to the same Xiaomi Account can automatically trust and receive messages from each other. This feature requires both devices to be running Xiaomi HyperOS and Xiaomi Share to be updated to version 3.0.0 or later.</string>
     <string name="mishare_folder_in_file_explorer">File Manager > Xiaomi Share</string>
     <string name="mishare_help_web">https://pc.mi.com/pc-manager-help</string>
+    <string name="mishare_nfc_help_web">https://sf.pay.xiaomi.com/views/cmsModelPages/nfcArea.html</string>
     <string name="mishare_service_channel_desc">Notifications about Xiaomi Share processes</string>
     <string name="mishare_settings_summary_international">"Xiaomi phones and tablets
 More Android devices: vivo, realme, OPPO, and other brands may support this feature. Refer to the official website of each brand for details."</string>
@@ -523,6 +517,18 @@ Android devices from other manufacturers: vivo, realme, OPPO, Black Shark, Meizu
     <string name="notification_channel_name">Transfer notifications</string>
     <string name="nubia">Nubia</string>
     <string name="nubia_phone">Nubia</string>
+    <string name="oh_cancel">OH Cancel</string>
+    <string name="oh_connect">OH Connect</string>
+    <string name="oh_handoff">OH HANDOFF</string>
+    <string name="oh_on_connect">OH OnConnect</string>
+    <string name="oh_send">OH Send</string>
+    <string name="onehop_connecting_tips">Connecting…</string>
+    <string name="onehop_file_security_tips">Removing personal info…</string>
+    <string name="onehop_option_send_confirm">Send</string>
+    <string name="onehop_recv_tips">Waiting for the other person to share items…</string>
+    <string name="onehop_remote_cancel">The other person canceled the transfer</string>
+    <string name="onehop_remote_refuse">The other person rejected the transfer</string>
+    <string name="onehop_wait_for_connect_ap">Waiting for the other device to connect to the hotspot…</string>
     <string name="oneplus">OnePlus</string>
     <string name="oneplus_phone">OnePlus</string>
     <string name="operate_too_fast">Too fast! Wait until the ongoing operations are complete.</string>
@@ -598,7 +604,8 @@ Before using Xiaomi Share, you must grant the following permissions, as well as 
     <string name="scanning_device_tips"><Data>Searching for nearby devices. The other person needs to turn on Xiaomi Share in Control center. &lt;a>Learn more&lt;/a></Data></string>
     <string name="scanning_only_xiaomi_device">This item can only be transferred to Xiaomi or Black Shark devices</string>
     <string name="search_menu_title">Search</string>
-    <string name="send">Send</string>
+    <string name="select_file">add file</string>
+    <string name="send">send</string>
     <string name="send_file">SEND FILE</string>
     <string name="send_files_by">Share files via</string>
     <string name="send_files_to">Send items to</string>
@@ -617,13 +624,42 @@ Before using Xiaomi Share, you must grant the following permissions, as well as 
     <string name="send_one_zip_dialog_desc_received">Received %2$d ZIP file \"%3$s\" from %1$s</string>
     <string name="send_one_zip_dialog_desc_receiving">Receiving %2$d ZIP file \"%3$s\" from %1$s</string>
     <string name="send_successfully">Sent successfully</string>
+    <string name="send_text">send text:</string>
     <string name="sender_error">"Couldn't send. Wait a minute or two and try again."</string>
     <string name="share_canceled">Transfer canceled</string>
     <string name="share_complete">Completed transfer successfully</string>
+    <string name="share_device_near_share">Share when nearby</string>
+    <string name="share_device_near_share_condition">Conditions for sharing</string>
+    <string name="share_device_near_share_condition_describe">"%1$d. Make sure NFC, Bluetooth, and Wi-Fi are turned on on both devices.
+%2$d. Update Xiaomi Share to version %3$s.
+%4$d. If you're using an iPhone, install Xiaomi Interconnectivity."</string>
+    <string name="share_device_near_share_condition_describe_china">"%1$d. Make sure NFC, Bluetooth, and Wi-Fi are turned on on both devices.
+%2$d. Update Xiaomi Share to version %3$s.
+%4$d. If you're using an iPhone, install Xiaomi Interconnectivity."</string>
+    <string formatted="false" name="share_device_near_share_content_describe">"You can send the following types of content:
+%d. Share photos: In Gallery, tap \"Share\" next to a photo.
+%d. Share files: Select a file in File Manager."</string>
+    <string name="share_device_near_share_content_title">Sharing content</string>
+    <string name="share_device_near_share_image_describe">Put the NFC areas of two devices close together to start sharing</string>
+    <string name="share_device_near_share_subtitle">Put two devices near each other to share</string>
     <string name="share_failed">"Couldn't complete transfer"</string>
     <string name="share_notification_receive_confirm_content">From %1$s</string>
+    <string name="share_open_nfc_content">Turn on NFC to be able to use this feature. Turn on now?</string>
+    <string name="share_open_nfc_title">Turn on NFC</string>
     <string name="share_refuse">Transfer rejected</string>
     <string name="share_send_notification_describe">Recipient: %1$s</string>
+    <string name="share_show_nfc_position"><Data>&lt;a href=%1$s>View NFC area&lt;/a></Data></string>
+    <string name="size_of_B">%d B</string>
+    <string name="size_of_GB">%d GB</string>
+    <string name="size_of_KB">%d KB</string>
+    <string name="size_of_MB">%d MB</string>
+    <string name="size_of_one_float_GB">%.1f GB</string>
+    <string name="size_of_one_float_KB">%.1f KB</string>
+    <string name="size_of_one_float_MB">%.1f MB</string>
+    <string name="size_of_two_float_GB">%.2f GB</string>
+    <string name="size_of_two_float_KB">%.2f KB</string>
+    <string name="size_of_two_float_MB">%.2f MB</string>
+    <string name="size_of_two_float_TB">%.2f TB</string>
     <string name="smartisan">Smartisan</string>
     <string name="smartisan_phone">Smartisan</string>
     <string name="solar_term_autumn_begins">Autumn begins</string>
@@ -671,7 +707,7 @@ Before using Xiaomi Share, you must grant the following permissions, as well as 
     <string name="sunday_short">Sun</string>
     <string name="sunday_shortest">Sun</string>
     <string name="support_device_type">Supported devices</string>
-    <string name="switch_mode_all">From anyone (for %d mins)</string>
+    <string name="switch_mode_all">From anyone (for %dmin)</string>
     <string name="switch_mode_close">Off</string>
     <string name="switch_mode_sameaccount">From this account</string>
     <string name="text_input_layout_default_error">This is default error</string>
@@ -720,6 +756,8 @@ Before using Xiaomi Share, you must grant the following permissions, as well as 
     <string name="thursday">Thursday</string>
     <string name="thursday_short">Thu</string>
     <string name="thursday_shortest">Thu</string>
+    <string name="tile_state_active">On</string>
+    <string name="tile_state_inactive">Off</string>
     <string name="tile_state_unavailable">Not available</string>
     <string name="time_picker_dialog_title">Set time</string>
     <string name="time_picker_label_hour">H</string>
