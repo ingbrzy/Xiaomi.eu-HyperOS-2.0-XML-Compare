@@ -60,6 +60,7 @@
     <string name="aon_no_network_tip">Turn on Wi-Fi or mobile data and try again</string>
     <string name="aon_pay_setting_default_des">Default payment method</string>
     <string name="aon_recognize_code_des">Recognized QR code</string>
+    <string name="aon_recognize_code_lottie_res">Quick scanning</string>
     <string name="app_description_content">Scanner allows you to scan QR codes, documents, business cards, and more. Make sure you can do without these features before you uninstall the app.</string>
     <string name="app_description_title">About Scanner</string>
     <string name="app_details">App:</string>
