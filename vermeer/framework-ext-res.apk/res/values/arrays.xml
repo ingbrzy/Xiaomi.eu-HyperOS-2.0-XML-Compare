@@ -282,6 +282,11 @@
     <string-array name="application_lock_activity">
         <item>com.android.settings/.PrivacyPasswordConfirmLockPattern</item>
     </string-array>
+    <string-array name="appops_system_packages">
+        <item>com.miui.home</item>
+        <item>com.android.systemui</item>
+        <item>com.miui.personalassistant</item>
+    </string-array>
     <string-array name="audio_foreground_pin_app_list">
         <item>tv.danmaku.bili</item>
         <item>com.ss.android.ugc.aweme</item>
@@ -8597,6 +8602,18 @@
         <item>com.miui.misightservice</item>
     </string-array>
     <array name="package_user_request_clean_white_list" />
+    <string-array name="parallel_sweep_root_table_packages">
+        <item>com.ss.android.ugc.aweme</item>
+        <item>com.ss.android.article.news</item>
+        <item>com.taobao.taobao</item>
+        <item>com.xingin.xhs</item>
+        <item>com.ss.android.article.lite</item>
+        <item>com.ss.android.ugc.aweme.lite</item>
+        <item>com.kuaishou.nebula</item>
+        <item>com.smile.gifmaker</item>
+        <item>com.baidu.searchbox</item>
+        <item>com.tencent.qqlive</item>
+    </string-array>
     <string-array name="periodic_cleaner_clean_white_list">
         <item>android.devicepolicy.cts</item>
         <item>android.server.wm.cts</item>
