@@ -84,6 +84,8 @@
     <string name="added_next_play">Added to play next</string>
     <string name="afternoon">Afternoon</string>
     <string name="agreement_desc">User Agreement (mandatory)</string>
+    <string name="agreement_desc_new">"User Agreement
+(Mandatory)"</string>
     <string name="alaka_required">You should pay for this song to listen to it</string>
     <string name="alarm_clock_album_modify_fail">"Couldn't change"</string>
     <string name="alarm_clock_audio_name">Morning weather</string>
@@ -605,7 +607,7 @@ Streaming music over mobile data may incur charges from your carrier."</string>
     <string name="columbus_reward_style_speed_confirm">Continue</string>
     <string name="columbus_skip_ad">Skip</string>
     <string name="columbus_skip_ad_time">Skip (%d)</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">c3979c6e91b14d9680985132cb44297a</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">e00457c970974a1ab46571dfad41c63f</string>
     <string formatted="false" name="comment_format">%s: %s</string>
     <string name="common_google_play_services_enable_button">Enable</string>
     <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
@@ -1115,6 +1117,7 @@ Once you clear all data, you'll exit the app. This data will be cleared permanen
     <string name="high_sound_quality">High</string>
     <string name="higher_quality_music">High quality audio</string>
     <string name="higher_quality_music_summary">Stream and download higher bitrate files</string>
+    <string name="hint_search_songs_artists">Search for songs and artists</string>
     <string name="hint_search_songs_playlists_artists">Search songs, playlists, and artists</string>
     <string name="home_tab_home">Home</string>
     <string name="home_tab_joox">JOOX Music</string>
@@ -2022,6 +2025,8 @@ We will share more once you're back online."</string>
     <string name="privacy_authorize_revoke_success">Revoked authorization successfully</string>
     <string name="privacy_authorize_revoking">Revoking authorization…</string>
     <string name="privacy_desc">Privacy Policy (mandatory)</string>
+    <string name="privacy_desc_new">"Privacy Policy
+(Mandatory)"</string>
     <string name="privacy_policy">Privacy Policy</string>
     <string name="privacy_policy_title_asm">A world of music at your fingertips</string>
     <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=en</string>
@@ -2093,6 +2098,14 @@ Be Happy"</string>
     <string name="s5">Create calendar event</string>
     <string name="s6">Allow Ad to create a calendar event?</string>
     <string name="s7">Test Ad</string>
+    <string name="safemode_clear_data_tip">"Clear this app's data now?"</string>
+    <string name="safemode_desc">"Mi Music encountered an error. Here's what you can do:"</string>
+    <string name="safemode_exit_btn_text">Exit</string>
+    <string name="safemode_fix_btn_text">Reset</string>
+    <string name="safemode_fix_tip">This will clear all app data</string>
+    <string name="safemode_notification_content">Multiple issues have occurred in this app. Tap to fix.</string>
+    <string name="safemode_notification_title">Safe mode</string>
+    <string name="safemode_privacy_checkbox_text">Report this issue along with the relevant info to help developers locate and solve it</string>
     <string name="saturday">Saturday</string>
     <string name="saturday_short">Sat</string>
     <string name="saturday_shortest">Sat</string>
