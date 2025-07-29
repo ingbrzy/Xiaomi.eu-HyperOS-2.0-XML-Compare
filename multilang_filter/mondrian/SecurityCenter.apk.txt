@@ -2,6 +2,7 @@ Removed: [ar] strings.xml: string/gtb_setting_item_summary_smart_wlan_speed (wro
 Removed: [az-rAZ] arrays.xml: array/auto_task_text_layout_size_level (wrong item count)
 Removed: [az-rAZ] arrays.xml: array/exo_controls_playback_speeds (wrong item count)
 Removed: [az-rAZ] arrays.xml: array/luckymoney_sound (wrong item count)
+Removed: [be] strings.xml: string/ew_push_title (wrong format)
 Removed: [bo-rCN] dimens.xml: dimen/gb_game_mode_text_margin_top (invalid value)
 Removed: [bo-rCN] dimens.xml: dimen/main_contentview_height (invalid value)
 Removed: [bo-rCN] dimens.xml: dimen/miuix_appcompat_button_inline_content_safe_padding_vertical (wrong value unit)
