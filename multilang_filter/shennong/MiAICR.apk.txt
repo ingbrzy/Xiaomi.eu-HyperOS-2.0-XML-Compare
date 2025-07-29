@@ -1,2 +1,1 @@
-Removed: [az-rAZ] strings.xml: string/cognition_os2_permission_default_desc_title (wrong format)
 Removed: [bo-rCN] dimens.xml: dimen/miuix_appcompat_button_inline_content_safe_padding_vertical (wrong value unit)
