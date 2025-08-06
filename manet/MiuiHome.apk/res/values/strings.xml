@@ -107,6 +107,8 @@
     <string name="announce_for_drop_folder_icon">In the folder %1$s</string>
     <string name="announce_for_drop_hotseat">In the dock area</string>
     <string name="announce_for_drop_line">Dropped line number %1$d</string>
+    <string name="announce_for_drop_line_number">Dropped line number %1$d</string>
+    <string name="announce_for_drop_line_unit">line</string>
     <string name="announce_for_drop_shortcut_icon">Created a folder with %1$s and %2$s</string>
     <string name="announce_for_drop_trash">In the uninstallation zone</string>
     <string name="announce_for_drop_workspace">Screen number %1$d, line number %2$d, column number %3$d</string>
@@ -122,6 +124,7 @@
     <string name="announce_for_open_folder">Open \"%1$s\"</string>
     <string name="announce_for_search_bar">Search bar</string>
     <string name="announce_for_show_uninstall_dialog">Uninstallation dialog appeared. Cancel or confirm.</string>
+    <string name="announce_for_super_xiaoai">Xiaomi Hyper XiaoAi</string>
     <string name="announce_for_unchecked">%1$s, unchecked</string>
     <string name="announce_for_unchecked_after">unchecked, %1$s</string>
     <string name="announce_for_widget_span">Width %1$d, height %2$d</string>
