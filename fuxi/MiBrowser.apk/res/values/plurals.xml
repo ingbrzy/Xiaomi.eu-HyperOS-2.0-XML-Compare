@@ -155,6 +155,9 @@
         <item quantity="one">Downloaded %1$s item successfully</item>
         <item quantity="other">Downloaded %1$s items successfully</item>
     </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Just now</item>
+    </plurals>
     <plurals name="mins_ago">
         <item quantity="one">%1$d minute ago</item>
         <item quantity="other">%1$d minutes ago</item>
