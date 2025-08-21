@@ -469,6 +469,7 @@ Double tap to view details."</string>
     <string name="pa_accessibility_picker_stack_widget_delete">删除,%1$s</string>
     <string name="pa_accessibility_picker_stack_widget_double_click_drag_sort">双击并长按拖动%1$s,进行排序</string>
     <string name="pa_accessibility_picker_stack_widget_drag_pa">选中小部件%1$s,双击长按可拖拽到负一屏</string>
+    <string name="pa_accessibility_picker_stack_widget_talkback">Selected widget: %1$s</string>
     <string name="pa_accessibility_picker_status_installed">Installed</string>
     <string name="pa_accessibility_picker_status_uninstalled">Not installed</string>
     <string name="pa_accessibility_picker_status_unkonw">Unknown</string>
@@ -482,6 +483,10 @@ Double tap to view details."</string>
     <string name="pa_accessibility_picker_widget_detail_button_add_to_desktop">Add this item to the Home screen.</string>
     <string name="pa_accessibility_picker_widget_detail_button_add_to_minus_desktop">Add this item to App vault.</string>
     <string name="pa_accessibility_picker_widget_detail_edit">Edit</string>
+    <string name="pa_accessibility_picker_widget_detail_select_image_multi_selected">%s, selected, double tap to remove this element from the widget</string>
+    <string name="pa_accessibility_picker_widget_detail_select_image_multi_selected_only_one">%s, selected, select at least one element, only this element is currently selected</string>
+    <string name="pa_accessibility_picker_widget_detail_select_image_multi_unselect">%s, not selected, double tap to add this element to the widget</string>
+    <string name="pa_accessibility_picker_widget_detail_select_image_single">%s, double tap to use this element in the widget</string>
     <string name="pa_accessibility_picker_widget_detail_widget_add_to_desktop">Selected widget. Drag to add this item to the Home screen.</string>
     <string name="pa_accessibility_picker_widget_detail_widget_add_to_minus_desktop">Selected widget. Drag to add this item to App vault.</string>
     <string formatted="false" name="pa_accessibility_picker_widget_group_all">Widget store. Select to view all widgets for %s. Double tap to view all widgets for %s.</string>
@@ -585,6 +590,9 @@ Double tap to view details."</string>
     <string name="pa_edit_every_month">Every month</string>
     <string name="pa_edit_every_week">Every week</string>
     <string name="pa_edit_every_year">Every year</string>
+    <string name="pa_edit_item_on_off_closed">off</string>
+    <string name="pa_edit_item_on_off_opened">on</string>
+    <string name="pa_edit_item_on_off_type_switch">switch</string>
     <string name="pa_edit_not_repeat">"Don't repeat"</string>
     <string name="pa_edit_repeat">Repeat</string>
     <string name="pa_edit_select_image">Format</string>
@@ -696,7 +704,6 @@ You can also track express delivery on the official websites of courier services
     <string name="pa_express_widget_all">All packages</string>
     <string name="pa_express_widget_list_item_desc">"Tracking number: "</string>
     <string name="pa_express_widget_logout">Sign in to view your express delivery packages</string>
-    <string name="pa_express_widget_logout_description">登录查看快递物流状态,点按两次可以激活</string>
     <string name="pa_express_widget_order_42">Enter tracking number</string>
     <string name="pa_express_widget_post">Send package</string>
     <string name="pa_express_widget_search">Search</string>
@@ -862,6 +869,7 @@ You can also track express delivery on the official websites of courier services
     <string name="pa_login_ok">Sign in</string>
     <string name="pa_maml_authority_fail_notify_content">[%s]失效，请重新添加。</string>
     <string name="pa_more">More</string>
+    <string name="pa_need_download_talkback">"The \"%s\" isn't downloaded yet"</string>
     <string name="pa_net_unavailable">"Couldn't connect to the network"</string>
     <string name="pa_network_request_failure">请检查网络连接</string>
     <string name="pa_notification_chanel_name_widget_offline">Cloud notifications</string>
@@ -1020,6 +1028,10 @@ Stay tuned!"</string>
     <string name="pa_picker_order_theme_app_cta_pre">Allow this app to connect to the internet to be able to use this feature.</string>
     <string name="pa_picker_permission_denied">"App vault needs to access installation status
 to show widgets."</string>
+    <string name="pa_picker_purchase_fail_too_many_device_dialog_cancel">Cancel</string>
+    <string name="pa_picker_purchase_fail_too_many_device_dialog_confirm">Switch account</string>
+    <string name="pa_picker_purchase_fail_too_many_device_dialog_desc">Each Xiaomi Account can use widgets on up to %d mobile devices per year. This account has reached this limit. To add another device, use a different Xiaomi Account.</string>
+    <string name="pa_picker_purchase_fail_too_many_device_dialog_title">"Can't add more devices"</string>
     <string name="pa_picker_purchase_order">Purchased</string>
     <string name="pa_picker_recommend_add_limit_toast">"Can't add more widgets"</string>
     <string name="pa_picker_recommend_bottom_button_add">Add widget</string>
@@ -1060,6 +1072,7 @@ Add widgets to get started."</string>
     <string name="pa_picker_widget_select_normal_description">%1$s</string>
     <string name="pa_picker_widget_select_uninstall_description">%1$s, not installed</string>
     <string name="pa_picker_widget_select_upgrade_description">%1$s, update available</string>
+    <string name="pa_preset_toast">此为展陈机预览信息，非真实信息</string>
     <string name="pa_privacy_text">Privacy</string>
     <string name="pa_read_storage_permission_description">For displaying your Home screen wallpaper as the app background</string>
     <string name="pa_recommend_add_btn">Start</string>
@@ -1085,6 +1098,9 @@ Add widgets to get started."</string>
     <string name="pa_search_hint">Search</string>
     <string name="pa_search_summary">Display the search bar</string>
     <string name="pa_search_title">Search</string>
+    <string name="pa_service_delivery_carousel_desc_talkback">Swipe up or down to select another widget within the group</string>
+    <string name="pa_service_delivery_carousel_page_down_talkback">Swipe down to switch. Current widget: %1$s</string>
+    <string name="pa_service_delivery_carousel_page_up_talkback">Swipe up to switch. Current widget: %1$s</string>
     <string name="pa_service_delivery_dislike_dialog_title">Tell us how we can improve:</string>
     <string name="pa_service_delivery_title">智能提醒</string>
     <string name="pa_setting">Settings</string>
@@ -1128,6 +1144,7 @@ Add widgets to get started."</string>
     <string name="pa_setting_privacy_revoke_cta_negative">You can withdraw consent in ten seconds</string>
     <string name="pa_setting_privacy_revoke_cta_positive">Withdraw</string>
     <string name="pa_setting_privacy_revoke_cta_progress">Withdraw (%ds)</string>
+    <string name="pa_setting_privacy_revoke_cta_progress_accessibility">Withdraw (%d second)</string>
     <string name="pa_setting_privacy_revoke_cta_summary">Withdraw consent to the Privacy Policy of App vault</string>
     <string name="pa_setting_privacy_revoke_error_message">A server error occurred. Wait a minute or two and try again.</string>
     <string name="pa_setting_privacy_revoke_error_title">"Couldn't withdraw consent"</string>

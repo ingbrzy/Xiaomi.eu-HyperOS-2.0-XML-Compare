@@ -1398,12 +1398,12 @@
         <item>Kyrgyzstan</item>
     </string-array>
     <integer-array name="default_card_stroke_gradient_colors_dark">
-        <item>0x1FFFFFFF</item>
-        <item>0x14FFFFFF</item>
+        <item>0x1fffffff</item>
+        <item>0x14ffffff</item>
     </integer-array>
     <integer-array name="default_card_stroke_gradient_colors_light">
-        <item>0x4DFFFFFF</item>
-        <item>0x36FFFFFF</item>
+        <item>0x4dffffff</item>
+        <item>0x36ffffff</item>
     </integer-array>
     <array name="default_card_stroke_gradient_colors_positions">
         <item>@fraction/miuix_default_card_stroke_gradient_color_start_position</item>
@@ -1565,6 +1565,11 @@
         <item>Total %1$s %3$s</item>
         <item>Total %2$s %3$s</item>
         <item>Total %1$s %2$s %3$s</item>
+    </string-array>
+    <string-array name="timezone_search_bottom_sheet_mode_config">
+        <item>Auto</item>
+        <item>Bottom</item>
+        <item>Floating</item>
     </string-array>
     <string-array name="volume_button_setting_entries">
         <item>Do nothing</item>

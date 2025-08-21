@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <array name="account_birthday">
-        <item>#fff26f85</item>
-        <item>#fff26f85</item>
-        <item>#fffdebde</item>
-        <item>#fffc6a4f</item>
+        <item>#f26f85</item>
+        <item>#f26f85</item>
+        <item>#fdebde</item>
+        <item>#fc6a4f</item>
     </array>
     <array name="account_manager_colors">
-        <item>#ff3694ed</item>
-        <item>#fffc6a4f</item>
-        <item>#ff3eb9cf</item>
-        <item>#ff7d7aea</item>
-        <item>#ffff9900</item>
-        <item>#ffef5b74</item>
-        <item>#ff03a9f4</item>
-        <item>#ff3a79da</item>
-        <item>#ff2dbf5d</item>
-        <item>#ffa472e3</item>
+        <item>#3694ed</item>
+        <item>#fc6a4f</item>
+        <item>#3eb9cf</item>
+        <item>#7d7aea</item>
+        <item>#ff9900</item>
+        <item>#ef5b74</item>
+        <item>#03a9f4</item>
+        <item>#3a79da</item>
+        <item>#2dbf5d</item>
+        <item>#a472e3</item>
     </array>
     <array name="account_preset1">
-        <item>#fffb735a</item>
-        <item>#fffb735a</item>
-        <item>#fff7e9ea</item>
-        <item>#ffef5b74</item>
+        <item>#fb735a</item>
+        <item>#fb735a</item>
+        <item>#f7e9ea</item>
+        <item>#ef5b74</item>
     </array>
     <array name="account_preset2">
-        <item>#ff66bdcd</item>
-        <item>#ff66bdcd</item>
-        <item>#ffd7efed</item>
-        <item>#ff3eb9cf</item>
+        <item>#66bdcd</item>
+        <item>#66bdcd</item>
+        <item>#d7efed</item>
+        <item>#3eb9cf</item>
     </array>
     <array name="account_preset3">
-        <item>#ff8a88eb</item>
-        <item>#ff8a88eb</item>
-        <item>#ffe5e5fb</item>
-        <item>#ff7d7aea</item>
+        <item>#8a88eb</item>
+        <item>#8a88eb</item>
+        <item>#e5e5fb</item>
+        <item>#7d7aea</item>
     </array>
     <array name="account_preset4">
-        <item>#fffea31a</item>
-        <item>#fffea31a</item>
-        <item>#fffcebcd</item>
-        <item>#ffff9900</item>
+        <item>#fea31a</item>
+        <item>#fea31a</item>
+        <item>#fcebcd</item>
+        <item>#ff9900</item>
     </array>
     <string-array name="account_sync_frequency">
         <item>Manual</item>
@@ -57,10 +57,10 @@
         <item>720</item>
     </integer-array>
     <array name="account_xiaomi">
-        <item>#ff2997ff</item>
-        <item>#ff2997ff</item>
-        <item>#ffdeedfa</item>
-        <item>#ff2997ff</item>
+        <item>#2997ff</item>
+        <item>#2997ff</item>
+        <item>#deedfa</item>
+        <item>#2997ff</item>
     </array>
     <integer-array name="allday_reminder_minutes_values">
         <item>0</item>
@@ -69,32 +69,6 @@
         <item>4320</item>
         <item>10080</item>
     </integer-array>
-    <string-array name="alphabet_sub_table_with_starred">
-        <item>!</item>
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>H</item>
-        <item>I</item>
-        <item>J</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
-        <item>\#</item>
-    </string-array>
     <string-array name="alphabet_table">
         <item>A</item>
         <item>B</item>
@@ -159,20 +133,20 @@
         <item>@string/pm</item>
     </string-array>
     <array name="aqi_level_bg_colors">
-        <item>#ffe9f9e4</item>
-        <item>#fffff6d5</item>
-        <item>#ffffeedf</item>
-        <item>#ffffe9e9</item>
-        <item>#ffffe8f3</item>
-        <item>#ffffebeb</item>
+        <item>#e9f9e4</item>
+        <item>#fff6d5</item>
+        <item>#ffeedf</item>
+        <item>#ffe9e9</item>
+        <item>#ffe8f3</item>
+        <item>#ffebeb</item>
     </array>
     <array name="aqi_level_content_colors">
-        <item>#ff16af1c</item>
-        <item>#ffffd540</item>
-        <item>#ffff923a</item>
-        <item>#fff44e48</item>
-        <item>#ffa31c5c</item>
-        <item>#ff860a2c</item>
+        <item>#16af1c</item>
+        <item>#ffd540</item>
+        <item>#ff923a</item>
+        <item>#f44e48</item>
+        <item>#a31c5c</item>
+        <item>#860a2c</item>
     </array>
     <string-array name="aqi_level_simple_desc">
         <item>优</item>
@@ -288,12 +262,12 @@
         <item>Backwards</item>
     </string-array>
     <integer-array name="default_card_stroke_gradient_colors_dark">
-        <item>0x1FFFFFFF</item>
-        <item>0x14FFFFFF</item>
+        <item>0x1fffffff</item>
+        <item>0x14ffffff</item>
     </integer-array>
     <integer-array name="default_card_stroke_gradient_colors_light">
-        <item>0x4DFFFFFF</item>
-        <item>0x36FFFFFF</item>
+        <item>0x4dffffff</item>
+        <item>0x36ffffff</item>
     </integer-array>
     <array name="default_card_stroke_gradient_colors_positions">
         <item>@fraction/miuix_default_card_stroke_gradient_color_start_position</item>
@@ -866,6 +840,8 @@
         <item>dada</item>
         <item>rothko</item>
         <item>duchamp</item>
+        <item>ruyi</item>
+        <item>goku</item>
         <item>aurora</item>
         <item>shennong</item>
         <item>shennong_t</item>
@@ -885,6 +861,7 @@
         <item>fuxi</item>
         <item>socrates</item>
         <item>onyx</item>
+        <item>bixi</item>
         <item>luming</item>
         <item>dali</item>
     </string-array>
@@ -1169,6 +1146,15 @@
         <item>T</item>
         <item>F</item>
         <item>S</item>
+    </string-array>
+    <string-array name="year_view_week_header_name_eu">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
     </string-array>
     <string-array name="year_view_week_header_name_other">
         <item>7</item>

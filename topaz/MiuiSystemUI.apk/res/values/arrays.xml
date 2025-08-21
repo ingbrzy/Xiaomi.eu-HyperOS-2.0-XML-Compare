@@ -893,6 +893,7 @@
     <string-array name="config_allow_semantic_actions_whitelist">
         <item>com.tencent.mm</item>
         <item>com.kugou.android</item>
+        <item>com.ss.android.article.news</item>
     </string-array>
     <string-array name="config_appsSupportMultiInstancesSplit">
         <item>com.miui.notes</item>
@@ -1146,6 +1147,7 @@
         <item>com.jdee.gwork</item>
         <item>com.tencent.weworkenterprise</item>
         <item>com.tencent.weworklocal</item>
+        <item>com.example.notificationstyle</item>
     </string-array>
     <string-array name="config_disableAutoGroupSummaryPackages">
         <item>com.xiaomi.xmsf</item>
@@ -1391,6 +1393,7 @@
         <item>11</item>
         <item>12</item>
         <item>13</item>
+        <item>14</item>
     </integer-array>
     <string-array name="data_type_name_default_value">
         <item></item>
@@ -1407,6 +1410,7 @@
         <item>5G</item>
         <item>5G+</item>
         <item>5GA</item>
+        <item>5G</item>
     </string-array>
     <array name="data_type_name_mcc_key" />
     <array name="data_type_name_mcc_mnc_key" />
@@ -1446,12 +1450,12 @@
         <item>com.android.emailhd</item>
     </string-array>
     <integer-array name="default_card_stroke_gradient_colors_dark">
-        <item>0x1FFFFFFF</item>
-        <item>0x14FFFFFF</item>
+        <item>0x1fffffff</item>
+        <item>0x14ffffff</item>
     </integer-array>
     <integer-array name="default_card_stroke_gradient_colors_light">
-        <item>0x4DFFFFFF</item>
-        <item>0x36FFFFFF</item>
+        <item>0x4dffffff</item>
+        <item>0x36ffffff</item>
     </integer-array>
     <array name="default_card_stroke_gradient_colors_positions">
         <item>@fraction/miuix_default_card_stroke_gradient_color_start_position</item>
