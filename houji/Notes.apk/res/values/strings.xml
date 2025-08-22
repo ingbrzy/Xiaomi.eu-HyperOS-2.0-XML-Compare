@@ -1254,6 +1254,7 @@
     <string name="toast_excerpt_open_note">Opened the note with the excerpt</string>
     <string name="toast_excerpt_saved">Saving excerpt to Notes…</string>
     <string name="toast_message_add_image_fail">"Couldn't add image"</string>
+    <string name="toast_minimal_mode_widget_add_unsupported">"Can't add widget to Home screen in Lite mode"</string>
     <string name="toast_notes_delete_success">Deleted successfully</string>
     <string name="toast_notes_hidden_edit">This note was hidden successfully. Pull down to see hidden notes.</string>
     <string name="toast_notes_hidden_edit_new">Note hidden. Pull down to see hidden notes.</string>
