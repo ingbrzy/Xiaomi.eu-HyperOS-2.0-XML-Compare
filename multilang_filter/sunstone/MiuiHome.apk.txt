@@ -2,6 +2,7 @@ Removed: [az-rAZ] arrays.xml: array/widget_component_add_source (wrong item coun
 Removed: [az-rAZ] arrays.xml: array/widget_component_add_way (wrong item count)
 Removed: [az-rAZ] arrays.xml: array/widget_component_delete_way (wrong item count)
 Removed: [az-rAZ] arrays.xml: array/widget_component_source (wrong item count)
+Removed: [az-rAZ] strings.xml: string/remove_sys_app_content (wrong format)
 Removed: [be] strings.xml: string/remove_sys_app_content (wrong format)
 Removed: [bo-rCN] dimens.xml: dimen/miuix_appcompat_button_inline_content_safe_padding_vertical (wrong value unit)
 Removed: [bo-rCN] plurals.xml: plurals/announce_for_drag (wrong item format)
