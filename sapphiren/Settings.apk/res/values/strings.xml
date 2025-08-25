@@ -10719,7 +10719,6 @@ A trusted credential installed on your device is making this possible."</string>
     <string name="status_bar_settings_notification_bar">Notification shade</string>
     <string name="status_bar_settings_notification_use_app_icon">Use app icons for notifications</string>
     <string name="status_bar_settings_qs_layout">Quick settings layout</string>
-    <string name="status_bar_settings_show_lte_for_4g">Show LTE icon for 4G</string>
     <string name="status_bar_settings_status_bar">Status bar</string>
     <string name="status_bar_settings_system_state">System</string>
     <string name="status_bar_title">Control center &amp; status bar</string>

@@ -48,7 +48,7 @@
     <string name="account_secure_info_pref_title">Account info</string>
     <string name="account_security_info_pref_title">Security info</string>
     <string name="account_user_avatar">Profile photo</string>
-    <string name="account_user_avatar_from_album">Gallery</string>
+    <string name="account_user_avatar_from_album">Select from Gallery</string>
     <string name="account_user_avatar_from_camera">Camera</string>
     <string name="account_user_base_info">Basic info</string>
     <string name="account_user_details">Personal info</string>
@@ -227,7 +227,7 @@
     <string name="close">Close</string>
     <string name="close_feedback_main">Hide</string>
     <string name="collect_diagnosis_log">Collect logs</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">26dfbe1fb8784e6b915421eefc71f0d9</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">78c851345d384c018c45fe1166e82d30</string>
     <string name="common_google_play_services_enable_button">Enable</string>
     <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
     <string name="common_google_play_services_enable_title">Enable Google Play services</string>
@@ -877,6 +877,7 @@ Email: service.jp@xiaomi.com"</string>
     <string name="passport_access_denied">Access denied</string>
     <string name="passport_account_name">"Account: %1$s "</string>
     <string name="passport_area_code_title">Area code</string>
+    <string name="passport_attention">Attention</string>
     <string name="passport_auth_title" />
     <string name="passport_bad_authentication">Invalid username or password</string>
     <string name="passport_can_not_recevie_verify_code">"Didn't receive a code?"</string>
@@ -923,6 +924,7 @@ Email: service.jp@xiaomi.com"</string>
     <string name="passport_error_user_password">"Passwords don't match"</string>
     <string name="passport_get_login_type_next">Next</string>
     <string name="passport_header_back">Back</string>
+    <string name="passport_i_know">Got it</string>
     <string name="passport_identification_expired">Verification code expired. Start over.</string>
     <string name="passport_input_captcha_hint">Enter code</string>
     <string name="passport_input_password_hint">Enter password</string>
@@ -945,6 +947,7 @@ Email: service.jp@xiaomi.com"</string>
     <string name="passport_reging">Creating account…</string>
     <string name="passport_register_restricted">Too many accounts have been associated with this number. Try a different one.</string>
     <string name="passport_relogin_notice">You need to sign in again</string>
+    <string name="passport_request_permission_title">Permissions required</string>
     <string name="passport_resend_ticket">Resend code</string>
     <string name="passport_retry">Try again</string>
     <string name="passport_send_sms_to">Code sent to %1$s</string>
@@ -956,6 +959,7 @@ Email: service.jp@xiaomi.com"</string>
     <string name="passport_talkback_switch_image_captcha">Switch to image verification code</string>
     <string name="passport_talkback_switch_voice_captcha">Switch to voice verification code</string>
     <string name="passport_talkback_voice_captcha">Play voice verification code</string>
+    <string name="passport_third_sns_service_unavailable">"The service isn't available. Make sure the app is installed and not blocked."</string>
     <string name="passport_ticket_send_by_second">Send in %d</string>
     <string name="passport_to_forget_password">Forgot password?</string>
     <string name="passport_to_password_login">Sign in using password</string>
@@ -1034,7 +1038,7 @@ Read and agree to the new version of %3$s before you continue."</string>
     <string name="request_error_invalid_token">"Couldn't verify"</string>
     <string name="request_error_network">A network error occurred. Check your network settings and try again.</string>
     <string name="request_error_unknown">A system error occurred. Go back and try again.</string>
-    <string name="request_gallery_permission_message">Allow access to Gallery:&lt;br />For setting profile photos</string>
+    <string name="request_gallery_permission_message">This app needs to access selected Gallery items to be able to set your profile photo. Allow now?</string>
     <string name="resend_active_email">Resend</string>
     <string name="resend_email_reach_limit_message">"You've requested too many verification emails. Make sure that the verification email isn't in your inbox's Spam folder."</string>
     <string name="resend_email_reach_limit_title">Too many attempts</string>
