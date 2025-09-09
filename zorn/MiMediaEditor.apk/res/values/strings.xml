@@ -164,6 +164,8 @@ to adjust the dispersion area"</string>
     <string name="ai_action_toast_picture_size_out_of_limit">"Images of this size aren't supported. Try a different one."</string>
     <string name="ai_action_toast_poor_network">"Couldn't connect to the network. Check your network settings and try again."</string>
     <string name="ai_action_toast_request_time_out">Request timed out. Wait a minute or two and try again.</string>
+    <string name="ai_emote_loading_expression_list">Generating expression…</string>
+    <string name="ai_emote_loading_expression_replace">Replacing expression…</string>
     <string name="ai_emote_loading_title">Generating expression…</string>
     <string name="ai_emote_notice_desc">"Use AI to change people's expressions in photos.
 For best results, use this feature on clear, forward-facing photos."</string>
@@ -609,7 +611,7 @@ For best results, use this feature on clear, forward-facing photos."</string>
     <string name="color_red">Red</string>
     <string name="color_white">White</string>
     <string name="color_yellow">Yellow</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">6139d0d66f6c4a028a7b2c829d6cb685</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">eb160051868c415ab72b90db812ad77a</string>
     <string name="common_close_string">Off</string>
     <string name="common_google_play_services_enable_button">Enable</string>
     <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
@@ -1788,7 +1790,6 @@ Tap Pro to use."</string>
     <string name="photo_editor_talkback_beautity_unapplied">Auto beautify is off</string>
     <string name="photo_editor_talkback_cancel">Cancel</string>
     <string name="photo_editor_talkback_confirm">Confirm</string>
-    <string name="photo_editor_talkback_corp_preview">Preview</string>
     <string name="photo_editor_talkback_crop_16_9">Sixteen to nine</string>
     <string name="photo_editor_talkback_crop_18_9">Eighteen by nine</string>
     <string name="photo_editor_talkback_crop_1_1">One to one</string>
@@ -1804,7 +1805,6 @@ Tap Pro to use."</string>
     <string name="photo_editor_talkback_crop_movie">@string/filter_category_movie</string>
     <string name="photo_editor_talkback_crop_original">Original</string>
     <string name="photo_editor_talkback_crop_portrait_screen">Full screen aspect ratio. Vertical orientation.</string>
-    <string name="photo_editor_talkback_crop_preview_mirror">Mirrored preview</string>
     <string name="photo_editor_talkback_crop_reset">Reset</string>
     <string name="photo_editor_talkback_crop_right_rotate">Rotate %d degrees</string>
     <string name="photo_editor_talkback_crop_rotate">Rotate</string>
@@ -1834,6 +1834,7 @@ Tap Pro to use."</string>
     <string name="photo_editor_transition_image_view">photo_view</string>
     <string name="photo_editor_transition_menu_panel">menu_panel</string>
     <string name="photo_editor_virtualization">AI image</string>
+    <string name="photo_editor_water_mark">Watermark</string>
     <string name="photo_editor_watermark">Watermark</string>
     <string name="photo_font_cancel_download">Cancel</string>
     <string name="photo_font_download">Download</string>
@@ -1975,10 +1976,17 @@ Tap Pro to use."</string>
     <string name="settings_ai_devices_o10u">onyx</string>
     <string name="settings_ai_devices_o11">zorn</string>
     <string name="settings_ai_devices_o11u">miro</string>
+    <string name="settings_ai_devices_o12">dali</string>
+    <string name="settings_ai_devices_o12a">goya</string>
+    <string name="settings_ai_devices_o12u">klimt</string>
     <string name="settings_ai_devices_o2">haotian</string>
     <string name="settings_ai_devices_o2s">dijun</string>
     <string name="settings_ai_devices_o3">dada</string>
+    <string name="settings_ai_devices_o8">bixi</string>
     <string name="settings_ai_devices_o81">muyu</string>
+    <string name="settings_ai_devices_o81a">violin</string>
+    <string name="settings_ai_devices_o88">turner</string>
+    <string name="settings_ai_devices_o9">luming</string>
     <string name="settings_ai_editor_ai_image">AI Image</string>
     <string name="settings_ai_editor_ai_image_description">All-new AI Image allows you to generate images in multiple styles. For best results, upload photos with clearly visible faces</string>
     <string name="settings_ai_editor_expand">AI Image Expansion</string>
@@ -2463,6 +2471,13 @@ Upload photos with clear facial features for best results."</string>
     <string name="virtualization_style_5">Animal friends</string>
     <string name="virtualization_style_6">Star of tomorrow</string>
     <string name="virtualization_style_7">Nostalgia</string>
+    <string name="virtualization_style_v2_1">Wildflowers</string>
+    <string name="virtualization_style_v2_2">Virtual world</string>
+    <string name="virtualization_style_v2_3">Blue hour</string>
+    <string name="virtualization_style_v2_4">Wilderness</string>
+    <string name="virtualization_style_v2_5">Sunbeams</string>
+    <string name="virtualization_style_v2_6">Rembrandt lighting</string>
+    <string name="virtualization_style_v2_7">Window light</string>
     <string name="vivo">vivo</string>
     <string name="vivo_phone">vivo</string>
     <string name="vlog_adjust_brightness">Brightness</string>
@@ -2737,6 +2752,10 @@ Upload photos with clear facial features for best results."</string>
     <string name="vlog_fps">Frame rate</string>
     <string name="vlog_fps_x">%dfps</string>
     <string name="vlog_improt_encode_video_error">An encoding error occurred. Try again.</string>
+    <string name="vlog_livephoto_covert_photo">Convert to photo</string>
+    <string name="vlog_livephoto_covert_photo_toast_tips">If you continue, some effects will be lost. Convert to photo anyway?</string>
+    <string name="vlog_livephoto_covert_video">Convert to video</string>
+    <string name="vlog_livephoto_covert_video_toast_tips">If you continue, some effects will be lost. Convert to video anyway?</string>
     <string name="vlog_load_data_empty">Select items first</string>
     <string name="vlog_load_data_fail">"Couldn't load data"</string>
     <string name="vlog_mi_clip">Video editor</string>
@@ -2798,6 +2817,7 @@ Upload photos with clear facial features for best results."</string>
     <string name="vlog_save_stop_tips">Tap again to cancel saving</string>
     <string name="vlog_saving">Exporting video…</string>
     <string name="vlog_saving_no_edit">Stay on this page while items are being saved…</string>
+    <string name="vlog_saving_no_exit">Saving video. Stay on this page.</string>
     <string formatted="false" name="vlog_specific_resolution_xx">%d*%dpx</string>
     <string name="vlog_speed_double">2.0X</string>
     <string name="vlog_speed_half">0.5X</string>

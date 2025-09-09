@@ -76,14 +76,6 @@
         <item quantity="one">1 minute ago</item>
         <item quantity="other">%d minutes ago</item>
     </plurals>
-    <plurals name="photo_editor_talkback_corp_preview_clockwise_value">
-        <item quantity="one">Preview rotated %d degree clockwise</item>
-        <item quantity="other">Preview rotated %d degrees clockwise</item>
-    </plurals>
-    <plurals name="photo_editor_talkback_corp_preview_counterclockwise_value">
-        <item quantity="one">Preview rotated %d degree counterclockwise</item>
-        <item quantity="other">Preview rotated %d degrees counterclockwise</item>
-    </plurals>
     <plurals name="photo_editor_talkback_crop_distortion_value">
         <item quantity="one">Distortion: %d</item>
         <item quantity="other">Distortion: %d</item>
@@ -95,14 +87,6 @@
     <plurals name="photo_editor_talkback_crop_horizontal_value">
         <item quantity="one">Horizontal: %d degree</item>
         <item quantity="other">Horizontal: %d degrees</item>
-    </plurals>
-    <plurals name="photo_editor_talkback_crop_preview_mirror_clockwise_value">
-        <item quantity="one">Preview mirrored and rotated %d degree clockwise</item>
-        <item quantity="other">Preview mirrored and rotated %d degrees clockwise</item>
-    </plurals>
-    <plurals name="photo_editor_talkback_crop_preview_mirror_counterclockwise_value">
-        <item quantity="one">Preview mirrored and rotated %d degree counterclockwise</item>
-        <item quantity="other">Preview mirrored and rotated %d degrees counterclockwise</item>
     </plurals>
     <plurals name="photo_editor_talkback_crop_scale_value">
         <item quantity="one">Rotate %d degree</item>
