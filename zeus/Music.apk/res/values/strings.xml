@@ -649,7 +649,7 @@ Streaming music over mobile data may incur charges from your carrier."</string>
     <string name="columbus_reward_style_speed_confirm">Continue</string>
     <string name="columbus_skip_ad">Skip</string>
     <string name="columbus_skip_ad_time">Skip (%d)</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">05e28dd1953c4e62931cbc1e8a3e5830</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">361e541eac2b48f98504eb0c55e41721</string>
     <string formatted="false" name="comment_format">%s: %s</string>
     <string name="common_google_play_services_enable_button">Enable</string>
     <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
@@ -693,7 +693,7 @@ Streaming music over mobile data may incur charges from your carrier."</string>
     <string name="current_lyric">Current lyrics</string>
     <string name="current_service_key">service</string>
     <string name="current_version">Current version</string>
-    <string name="daily_recommend_desc">Daily recommendations hand-picked for you</string>
+    <string name="daily_recommend_desc">根据你的私人品味，每日·</string>
     <string name="daily_recommendation">Daily mix</string>
     <string name="dark_mode">Dark mode</string>
     <string name="data_usage_warning">Data usage</string>
@@ -1119,8 +1119,8 @@ Once you clear all data, you'll exit the app. This data will be cleared permanen
     <string name="format_unsupported_or_corrupted">"This format isn't supported or the file is corrupted"</string>
     <string name="fragment_title_artist_album">Albums</string>
     <string name="free">Free</string>
-    <string formatted="false" name="free_duration_refresh_time">免费时长于每日UTC-%d %dAM刷新。</string>
-    <string name="free_music_period">今日+%d小时</string>
+    <string name="free_duration_refresh_time">免费时长于每日世界标准时间上午%d时刷新</string>
+    <string name="free_music_period">今日 + %d小时</string>
     <string name="free_music_period_15min">%d分钟</string>
     <string name="free_rights_expired">免费权益已过期，观看视频以播放更多歌曲</string>
     <string name="friday">Friday</string>
@@ -1234,9 +1234,9 @@ Once you clear all data, you'll exit the app. This data will be cleared permanen
     <string name="impunity_declaration_summary">Show Terms of Service every time the Music app is launched</string>
     <string name="impunity_declaration_title">Terms of Service</string>
     <string name="in_searching_please_wait">Searching…</string>
-    <string name="incentive_video_dialog_content1">%d、允许用户只需观看一段短视频广告，即可免费畅听高品质音乐。</string>
-    <string formatted="false" name="incentive_video_dialog_content2">%d、免费时长于每日UTC-%d %dAM刷新。</string>
-    <string name="incentive_video_dialog_content3">%d、本活动的最终解释权归Mi Music所有。</string>
+    <string name="incentive_video_dialog_content1">%d. 允许用户只需观看一段短视频广告，即可免费畅听高品质音乐</string>
+    <string formatted="false" name="incentive_video_dialog_content2">%d. 免费时长于每日世界标准时间上午%d时刷新</string>
+    <string name="incentive_video_dialog_content3">%d. 本活动的最终解释权归Mi Music所有</string>
     <string name="include_sensitive_extra">false</string>
     <string name="individuation_card_login_button">Sign in</string>
     <string name="individuation_card_login_message">"Sign in to find more songs you'll love"</string>
