@@ -1,7 +1,7 @@
 Removed: [ar] strings.xml: string/incentive_video_dialog_content2 (wrong attributes)
 Removed: [as-rIN] strings.xml: string/incentive_video_dialog_content2 (wrong attributes)
 Removed: [az-rAZ] plurals.xml: plurals/asm_downloading_songs (wrong item format)
-Removed: [az-rAZ] strings.xml: string/incentive_video_dialog_content2 (wrong attributes)
+Removed: [az-rAZ] strings.xml: string/free_duration_refresh_time (wrong attributes)
 Removed: [be] strings.xml: string/incentive_video_dialog_content2 (wrong attributes)
 Removed: [bg] strings.xml: string/incentive_video_dialog_content2 (wrong attributes)
 Removed: [bn-rBD] strings.xml: string/incentive_video_dialog_content2 (wrong attributes)
