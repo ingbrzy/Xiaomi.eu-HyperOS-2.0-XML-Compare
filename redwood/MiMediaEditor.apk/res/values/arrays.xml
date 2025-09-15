@@ -37,6 +37,13 @@
         <item>@string/settings_ai_devices_o10u</item>
         <item>@string/settings_ai_devices_n8</item>
         <item>@string/settings_ai_devices_n18</item>
+        <item>@string/settings_ai_devices_o8</item>
+        <item>@string/settings_ai_devices_o9</item>
+        <item>@string/settings_ai_devices_o81a</item>
+        <item>@string/settings_ai_devices_o88</item>
+        <item>@string/settings_ai_devices_o12</item>
+        <item>@string/settings_ai_devices_o12u</item>
+        <item>@string/settings_ai_devices_o12a</item>
     </string-array>
     <string-array name="alphabet_sub_table_with_starred">
         <item>!</item>
