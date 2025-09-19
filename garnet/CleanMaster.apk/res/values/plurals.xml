@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="a_hour_ago">
-        <item quantity="other">1 hour ago</item>
-    </plurals>
     <plurals name="abbrev_a_hour_ago">
         <item quantity="other">%d hour ago</item>
     </plurals>
@@ -50,6 +47,14 @@
     <plurals name="clean_long_msg_p2">
         <item quantity="one">%1$d item per second | Remaining time: %2$s</item>
         <item quantity="other">%1$d items per second | Remaining time: %2$s</item>
+    </plurals>
+    <plurals name="columbus_exo_controls_fastforward_by_amount_description">
+        <item quantity="one">Fast forward %d second</item>
+        <item quantity="other">Fast forward %d seconds</item>
+    </plurals>
+    <plurals name="columbus_exo_controls_rewind_by_amount_description">
+        <item quantity="one">Rewind %d second</item>
+        <item quantity="other">Rewind %d seconds</item>
     </plurals>
     <plurals name="dc_group_title_normal">
         <item quantity="one">Take %1$d step to free up %2$s</item>
@@ -139,9 +144,6 @@
         <item quantity="one">&lt;Data>Found &lt;big>&lt;big>&lt;font size=20 color=#FF9000 >%1$d&lt;/font>&lt;/big>&lt;/big> voice message&lt;/Data></item>
         <item quantity="other">&lt;Data>Found &lt;big>&lt;big>&lt;font size=20 color=#FF9000 >%1$d&lt;/font>&lt;/big>&lt;/big> voice messages&lt;/Data></item>
     </plurals>
-    <plurals name="half_hour_ago">
-        <item quantity="other">Half an hour ago</item>
-    </plurals>
     <plurals name="hint_similar_image_header_left">
         <item quantity="one">%d group</item>
         <item quantity="other">%d groups</item>
@@ -175,9 +177,6 @@
         <item quantity="one">Last %d day</item>
         <item quantity="other">Last %d days</item>
     </plurals>
-    <plurals name="less_than_one_minute_ago">
-        <item quantity="other">Just now</item>
-    </plurals>
     <plurals name="minute">
         <item quantity="one">%1$d minute</item>
         <item quantity="other">%1$d minutes</item>
@@ -193,10 +192,6 @@
     <plurals name="notification_checker_installed_apk_text">
         <item quantity="one">Delete %d installation package</item>
         <item quantity="other">Delete %d installation packages</item>
-    </plurals>
-    <plurals name="num_minutes_ago">
-        <item quantity="one">1 minute ago</item>
-        <item quantity="other">%d minutes ago</item>
     </plurals>
     <plurals name="people">
         <item quantity="one">Downloaded by %1$d people</item>

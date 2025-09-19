@@ -408,4 +408,64 @@
         <item quantity="one">Sent %2$d image to %1$s successfully</item>
         <item quantity="other">Sent %2$d images to %1$s successfully</item>
     </plurals>
+    <plurals name="tapshare_activity_send_describe_contact">
+        <item quantity="one">%1$d contact</item>
+        <item quantity="other">%1$d contacts</item>
+    </plurals>
+    <plurals name="tapshare_describe_contact">
+        <item quantity="one">%1$d contact</item>
+        <item quantity="other">%1$d contacts</item>
+    </plurals>
+    <plurals name="tapshare_describe_link">
+        <item quantity="one">%1$d link</item>
+        <item quantity="other">%1$d links</item>
+    </plurals>
+    <plurals name="tapshare_receive_describe_contact">
+        <item quantity="one">Receive %1$d contact</item>
+        <item quantity="other">Receive %1$d contacts</item>
+    </plurals>
+    <plurals name="tapshare_receive_describe_link">
+        <item quantity="one">Receive %1$d link</item>
+        <item quantity="other">Receive %1$d links</item>
+    </plurals>
+    <plurals name="tapshare_receiving_describe_contact">
+        <item quantity="one">Receiving %1$d contact</item>
+        <item quantity="other">Receiving %1$d contacts</item>
+    </plurals>
+    <plurals name="tapshare_receiving_describe_link">
+        <item quantity="one">Receiving %1$d link</item>
+        <item quantity="other">Receiving %1$d links</item>
+    </plurals>
+    <plurals name="tapshare_send_describe_contact">
+        <item quantity="one">Send %1$d contact</item>
+        <item quantity="other">Send %1$d contacts</item>
+    </plurals>
+    <plurals name="tapshare_send_describe_file">
+        <item quantity="one">Send %1$d file</item>
+        <item quantity="other">Send %1$d files</item>
+    </plurals>
+    <plurals name="tapshare_send_describe_image">
+        <item quantity="one">Send %1$d photo</item>
+        <item quantity="other">Send %1$d photos</item>
+    </plurals>
+    <plurals name="tapshare_send_describe_link">
+        <item quantity="one">Send %1$d link</item>
+        <item quantity="other">Send %1$d links</item>
+    </plurals>
+    <plurals name="tapshare_send_describe_live_image">
+        <item quantity="one">Send %1$d dynamic shot</item>
+        <item quantity="other">Send %1$d dynamic shots</item>
+    </plurals>
+    <plurals name="tapshare_send_describe_video">
+        <item quantity="one">Send %1$d video</item>
+        <item quantity="other">Send %1$d videos</item>
+    </plurals>
+    <plurals name="tapshare_sending_describe_contact">
+        <item quantity="one">Sending %1$d contact</item>
+        <item quantity="other">Sending %1$d contacts</item>
+    </plurals>
+    <plurals name="tapshare_sending_describe_link">
+        <item quantity="one">Sending %1$d link</item>
+        <item quantity="other">Sending %1$d links</item>
+    </plurals>
 </resources>
