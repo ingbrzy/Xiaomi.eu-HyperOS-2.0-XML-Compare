@@ -191,6 +191,7 @@ You can sign in to your Xiaomi Account using %s now."</string>
     <string name="cloud_service_cloud_open">Turn on</string>
     <string name="cloud_service_space_full">Storage full</string>
     <string name="cloud_service_space_not_enough">Insufficient storage</string>
+    <string name="cloud_service_space_over_quota">Storage limit exceeded</string>
     <string name="cloud_service_space_used">Occupied</string>
     <string name="cloud_service_state_error">"Couldn't load"</string>
     <string name="cloud_service_status_backup_not_open">Backup is off</string>
@@ -260,14 +261,17 @@ You can sign in to your Xiaomi Account using %s now."</string>
     <string name="default_web_client_id">630236635882-e9rqvpt2onbe87uramm8stt7v375of1e.apps.googleusercontent.com</string>
     <string name="delete_bank_card_message">Mi Pay bank cards and NFC cards will be deleted after you sign out.</string>
     <string name="delete_bank_card_title">Attention</string>
-    <string name="delete_device_btn">Remove</string>
+    <string name="delete_device_btn">Remove device</string>
     <string name="delete_device_failed">"Can't remove device"</string>
-    <string name="delete_device_notice">"After device is removed, it will be signed out of your Xiaomi Account automatically. You won't be able use this device to access the photos, messages, or other content stored in your account."</string>
+    <string name="delete_device_notice">"Removing this device will also sign you out of your Xiaomi Account. You won't be able to access items stored in the cloud once it's removed."</string>
     <string name="deny">Deny</string>
     <string name="device_delete_success_message">"If you didn't sign in on this device, change your password immediately."</string>
     <string name="device_delete_success_title">Signed out</string>
+    <string name="device_id">Device ID</string>
+    <string name="device_list_error_tip"><Data>"Couldn't load. &lt;a href=>Try again&lt;/a>"</Data></string>
     <string name="device_list_title">My devices</string>
     <string name="device_name">Device name</string>
+    <string name="device_recent_login_time">Last sign-in</string>
     <string name="dind_device_service_not_open">Off</string>
     <string name="dind_device_service_opened">On</string>
     <string name="dropdown_menu">Dropdown menu</string>
@@ -411,6 +415,7 @@ You can sign in to your Xiaomi Account using %s now."</string>
     <string name="gcm_defaultSenderId">630236635882</string>
     <string name="get_back_password">Reset password</string>
     <string name="get_back_pwd">Resetting password</string>
+    <string name="get_device_info_error">"Couldn't get device info"</string>
     <string name="get_identity_auth_url_failed">"Couldn't verify ID"</string>
     <string name="get_phone_bind_exceed_limit">"You can associate up to %d Xiaomi Accounts with a phone number. Can't add new accounts."</string>
     <string name="get_phone_verifycode_exceed_limit">"Can't send more verification codes to this number"</string>
@@ -577,6 +582,7 @@ You can sign in to your Xiaomi Account using %s now."</string>
     <string name="night">Evening</string>
     <string name="no_account_or_forget_password">Create account or forgot password?</string>
     <string name="no_network_btn">Refresh</string>
+    <string name="no_network_refresh_btn">Refresh</string>
     <string name="no_network_title">"Can't connect to the network."</string>
     <string name="no_password_set">Not set</string>
     <string name="no_phone">No phone number</string>
@@ -708,6 +714,7 @@ You can sign in to your Xiaomi Account using %s now."</string>
     <string name="passport_error_no_password_user">"You haven't set the password yet. Sign in with SMS."</string>
     <string name="passport_error_phone">Invalid phone number</string>
     <string name="passport_error_server">Server error</string>
+    <string name="passport_error_server_msg">Check your network settings and refresh the page</string>
     <string name="passport_error_sim_not_ready">"Can't find SIM card"</string>
     <string name="passport_error_sms_limit">Too many verification codes have been sent to this number. Try again later.</string>
     <string name="passport_error_ssl_hand_shake">"Couldn't connect to server"</string>
@@ -908,7 +915,17 @@ You can sign in to your Xiaomi Account using %s now."</string>
     <string name="passport_to_verify_code_login">Sign in via SMS</string>
     <string name="passport_trust_device">Add this device to verified devices</string>
     <string name="passport_two_factor_auth">Two-factor authentication</string>
-    <string name="passport_two_factor_auth_hint">Turn on to require two-factor authentication when signing in to your account</string>
+    <string name="passport_two_factor_auth_dialog_desc">"If you turn on two-factor authentication, you'll be signed out of your Xiaomi Account on other devices and all websites. Turn on now?"</string>
+    <string name="passport_two_factor_auth_dialog_negative_btn">Cancel</string>
+    <string name="passport_two_factor_auth_dialog_positive_btn">Turn on</string>
+    <string name="passport_two_factor_auth_dialog_title">Sign out on other devices</string>
+    <string name="passport_two_factor_auth_hint"><Data>Complete two rounds of authentication each time you sign in to your Xiaomi Account. &lt;a href= >Learn more&lt;/a></Data></string>
+    <string name="passport_two_factor_set_password_hint">Set an account password to be able to use two-factor authentication</string>
+    <string name="passport_two_factor_set_phone_dialog_desc">Set an account password to be able to turn on two-factor authentication.</string>
+    <string name="passport_two_factor_set_phone_dialog_negative_btn">Cancel</string>
+    <string name="passport_two_factor_set_phone_dialog_positive_btn">Set</string>
+    <string name="passport_two_factor_set_phone_dialog_title">Set account password</string>
+    <string name="passport_two_factor_set_phone_hint">Add a phone number to be able to use two-factor authentication</string>
     <string name="passport_tz_invalid">Security risks found. This device may have been rooted or flashed. Try other sign-in options.</string>
     <string name="passport_unknown_error">Unknown error</string>
     <string name="passport_unknown_host_network_error">Check your network settings and try again</string>
