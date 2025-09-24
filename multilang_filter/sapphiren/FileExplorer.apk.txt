@@ -1,6 +1,5 @@
 Removed: [bo-rCN] dimens.xml: dimen/miuix_appcompat_button_inline_content_safe_padding_vertical (wrong value unit)
 Removed: [bo-rCN] plurals.xml: plurals/notification_message_sync_result_success (wrong item format)
-Removed: [cs] plurals.xml: plurals/a_hour_ago (wrong item attributes)
 Removed: [cs] plurals.xml: plurals/abbrev_a_hour_ago (wrong item attributes)
 Removed: [cs] plurals.xml: plurals/abbrev_half_hour_ago (wrong item attributes)
 Removed: [cs] plurals.xml: plurals/abbrev_in_a_hour (wrong item attributes)
