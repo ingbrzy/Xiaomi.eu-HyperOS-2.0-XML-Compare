@@ -282,6 +282,11 @@
     <string-array name="application_lock_activity">
         <item>com.android.settings/.PrivacyPasswordConfirmLockPattern</item>
     </string-array>
+    <string-array name="appops_system_packages">
+        <item>com.miui.home</item>
+        <item>com.android.systemui</item>
+        <item>com.miui.personalassistant</item>
+    </string-array>
     <string-array name="audio_foreground_pin_app_list">
         <item>tv.danmaku.bili</item>
         <item>com.ss.android.ugc.aweme</item>
