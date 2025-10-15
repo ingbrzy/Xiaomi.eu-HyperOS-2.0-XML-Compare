@@ -1,5 +1,6 @@
 Removed: [ar] strings.xml: string/english_subject_limit (wrong format)
 Removed: [ar] strings.xml: string/non_english_subject_limit (wrong format)
+Removed: [be] strings.xml: string/vital_signs_data_high_bpm_multi (wrong attributes)
 Removed: [bg] strings.xml: string/english_subject_limit (wrong format)
 Removed: [bg] strings.xml: string/non_english_subject_limit (wrong format)
 Removed: [bo-rCN] dimens.xml: dimen/miuix_appcompat_button_inline_content_safe_padding_vertical (wrong value unit)
