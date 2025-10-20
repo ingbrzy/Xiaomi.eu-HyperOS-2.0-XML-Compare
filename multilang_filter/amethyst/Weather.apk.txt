@@ -83,6 +83,7 @@ Removed: [fi] strings.xml: string/shortcut_short_label_24_hour_forecast (wrong f
 Removed: [fi] strings.xml: string/update_night_setting_summary_text (wrong format)
 Removed: [fi] strings.xml: string/weather_main_minute_hour (wrong format)
 Removed: [fr] strings.xml: string/update_night_setting_summary_text (wrong format)
+Removed: [hr] arrays.xml: array/typhoon_uv_level (wrong item count)
 Removed: [hu] strings.xml: string/aqi_15_days_desc (wrong format)
 Removed: [hu] strings.xml: string/aqi_24_hours_desc (wrong format)
 Removed: [hu] strings.xml: string/aqi_48_hours_desc (wrong format)
