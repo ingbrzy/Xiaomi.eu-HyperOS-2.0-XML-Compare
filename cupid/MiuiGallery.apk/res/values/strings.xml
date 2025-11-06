@@ -2400,8 +2400,8 @@ Transcoding might take some time when you use this feature for the first time."<
     <string name="other_album_operation_move_to_rubbish_albums">Move to redundant albums</string>
     <string name="other_album_operation_remove_from_other_albums">Remove from \"Other albums\"</string>
     <string name="other_settings">Additional settings</string>
-    <string name="other_three_group_name">%1$s、%2$sand%3$s</string>
-    <string name="other_two_group_name">%1$s、%2$sand%3$sother person</string>
+    <string name="other_three_group_name">%1$s, %2$s, and %3$s</string>
+    <string name="other_two_group_name">%1$s, %2$s, and %3$s other person</string>
     <string name="owner_album_subtitle">Shared with %1$s people</string>
     <string name="pad_device_model_name">Xiaomi Pad</string>
     <string name="pasport_register_dialog_message">Create a Xiaomi Account via your phone number %s now?</string>
