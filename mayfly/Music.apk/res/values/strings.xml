@@ -701,7 +701,7 @@ Streaming music over mobile data may incur charges from your carrier."</string>
     <string name="columbus_reward_style_speed_confirm">Continue</string>
     <string name="columbus_skip_ad">Skip</string>
     <string name="columbus_skip_ad_time">Skip (%d)</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">bbdc1687bd9d4b468a200fec68bc7674</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">ef47c40838cf47aab2362c875005f868</string>
     <string formatted="false" name="comment_format">%s: %s</string>
     <string name="common_google_play_services_enable_button">Enable</string>
     <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
@@ -1172,6 +1172,8 @@ Once you clear all data, you'll exit the app. This data will be cleared permanen
     <string name="fragment_title_artist_album">Albums</string>
     <string name="free">Free</string>
     <string name="free_duration_refresh_time">Free listening time refreshes daily at %s (UTC)</string>
+    <string name="free_music_daily_credit">(Distributed as two %d-hour memberships)</string>
+    <string name="free_music_package_desc">"You've unlocked a free %d-hour membership"</string>
     <string name="free_music_period">+%d hours</string>
     <string name="free_music_period_15min">%d minutes</string>
     <string name="free_rights_expired">Your free listening has expired. Watch a video to play more songs.</string>
@@ -1745,6 +1747,7 @@ Once you clear all data, you'll exit the app. This data will be cleared permanen
     <string name="music_filter">Filter audio files</string>
     <string name="music_quality">Audio quality</string>
     <string name="music_recommendation">Song recommendations</string>
+    <string name="music_rights_unlock_success">Congrats!</string>
     <string name="music_service">Music Service</string>
     <string name="music_settings">Music</string>
     <string name="mute">静音</string>
@@ -2315,7 +2318,6 @@ Be Happy"</string>
     <string name="selected_count">Selected %1$d out of %2$d</string>
     <string name="send">Send</string>
     <string name="send_to_title">Send to (%1$s)</string>
-    <string name="send_worker_process_name">:miapm_sendwork</string>
     <string name="service_and_settings">Service and settings</string>
     <string name="set_as_alarm_clock_ringtone">Alarm</string>
     <string name="set_as_ring">Set as ringtone</string>
