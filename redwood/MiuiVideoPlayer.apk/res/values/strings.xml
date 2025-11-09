@@ -329,8 +329,7 @@
     <string name="columbus_reward_style_speed_confirm">Continue</string>
     <string name="columbus_skip_ad">Skip</string>
     <string name="columbus_skip_ad_time">Skip (%d)</string>
-    <string name="com.crashlytics.android.build_id">abc34da3183442a4b149b35910022ad1</string>
-    <string name="com.miapm.build_id">e5e32f38e20e468cb6b16bbd4788e4b0</string>
+    <string name="com.crashlytics.android.build_id">39b2f1e2bf064c9a95d0259657293d07</string>
     <string name="com_permission_desc">"Mi Video can't access videos on your device. Allow access in the Settings."</string>
     <string name="com_permission_title">Permissions required</string>
     <string name="comment_model_add_comment">Add a comment</string>
@@ -1514,6 +1513,7 @@ We will share more once you're back online."</string>
     <string name="ovp_navigation_feedback">Feedback</string>
     <string name="ovp_navigation_history">History</string>
     <string name="ovp_navigation_language">Language</string>
+    <string name="ovp_navigation_not_darkmode">Light mode</string>
     <string name="ovp_navigation_notice">Notifications</string>
     <string name="ovp_navigation_playlist">Playlists</string>
     <string name="ovp_navigation_score">Rate our app</string>
