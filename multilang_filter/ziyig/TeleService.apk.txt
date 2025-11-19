@@ -1,7 +1,6 @@
 Removed: [ar] strings.xml: string/mi_mobile_sim_activate_message (wrong format)
 Removed: [as-rIN] strings.xml: string/mi_mobile_sim_activate_message (wrong format)
 Removed: [az-rAZ] strings.xml: string/mi_mobile_sim_activate_message (wrong format)
-Removed: [be] strings.xml: string/mi_mobile_sim_activate_message (wrong format)
 Removed: [bg] strings.xml: string/mi_mobile_sim_activate_message (wrong format)
 Removed: [bn-rBD] strings.xml: string/mi_mobile_sim_activate_message (wrong format)
 Removed: [bn-rIN] strings.xml: string/mi_mobile_sim_activate_message (wrong format)

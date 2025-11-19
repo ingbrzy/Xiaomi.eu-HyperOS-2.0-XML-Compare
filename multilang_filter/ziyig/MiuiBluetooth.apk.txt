@@ -1,3 +1,2 @@
-Removed: [it] arrays.xml: array/multi_floating_package_allow_list (wrong item count)
 Removed: [ro] arrays.xml: array/bluetooth_a2dp_codec_titles (wrong item count)
 Removed: [vi] arrays.xml: array/bluetooth_a2dp_codec_titles (wrong item count)
