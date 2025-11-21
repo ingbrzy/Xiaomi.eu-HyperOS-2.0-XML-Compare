@@ -261,6 +261,13 @@ Toggle off to stop syncing."</string>
     <string name="card_game_title_1">Daily recommendations</string>
     <string name="card_game_title_2">Popular this week</string>
     <string name="card_game_title_3">"Mint's picks"</string>
+    <string name="cashback_coupon_description">Description: %s</string>
+    <string name="cashback_coupon_terms">Terms: %s</string>
+    <string name="cashback_coupons_get_code">Claim</string>
+    <string name="cashback_coupons_hint">Coupons from %s</string>
+    <string name="cashback_coupons_off">Discount</string>
+    <string name="cashback_coupons_promo">Promotion</string>
+    <string name="cashback_verified">Verified</string>
     <string name="category">Categories</string>
     <string name="category_album">Albums</string>
     <string name="category_all">All files</string>
@@ -469,8 +476,8 @@ Toggle off to stop syncing."</string>
     <string name="columbus_reward_style_speed_confirm">Continue</string>
     <string name="columbus_skip_ad">Skip</string>
     <string name="columbus_skip_ad_time">Skip (%d)</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">42c67107cecc40f08d87ac6573320959</string>
-    <string name="com.miapm.build_id">d6f8fc30ea7b493a8063889d2be8d699</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">dc382528e62d4ac9a2dfcd47424fe43a</string>
+    <string name="com.miapm.build_id">9e586b329b474fb488104a143d1b35c1</string>
     <string name="comment_app_menu">Comment</string>
     <string name="comment_description">Comment</string>
     <string name="comment_hint">Comment</string>
@@ -2188,7 +2195,6 @@ Some sites won't use your previous browsing history to personalize their ads for
     <string name="quicklink_folder_text">Top apps</string>
     <string name="quicklink_no_history">No items here.</string>
     <string name="quicklink_not_saved">"Couldn't add to start page"</string>
-    <string name="quicklink_push_confirm_message">"Your feed won't receive updates after you turn this feature off. Turn off now?"</string>
     <string name="quicklink_quick_select">Add websites</string>
     <string name="quicklink_saved">Saved to start page</string>
     <string name="quicklink_saved_before">This website has already been added.</string>
