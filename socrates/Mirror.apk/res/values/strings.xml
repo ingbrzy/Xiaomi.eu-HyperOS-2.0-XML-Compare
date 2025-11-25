@@ -157,6 +157,9 @@
     <string name="date_time_picker_dialog_title">Set date and time</string>
     <string name="default_boss_terminal_name">Xiaomi computer</string>
     <string name="default_error_msg">Unknown error</string>
+    <string name="desktop_setting_not_open_tips_dialog_btn">Got it</string>
+    <string name="desktop_setting_not_open_tips_dialog_content">Open Settings > Interconnectivity to turn on Home screen+.</string>
+    <string name="desktop_setting_not_open_tips_dialog_title">Turn on Home screen+</string>
     <string name="desktop_switch_is_closed">Home screen+ is turned off</string>
     <string name="device_busy">Device is busy. Wait a minute or two and try again.</string>
     <string name="device_max_screen_count_toast">This device only supports opening two windows at the same time</string>
@@ -601,7 +604,13 @@ To continue, select a device again on your computer."</string>
     <string name="screen_permission_notification_title">"%s wants to use this device's screen"</string>
     <string name="screen_permission_pad_dialog_btn">Got it</string>
     <string name="screen_permission_pad_dialog_title">Grant permissions on the other device</string>
+    <string name="screen_permission_pad_dialog_title_os2_global">Grant permissions on your %s</string>
+    <string name="screen_permission_pad_dialog_title_os3">Grant permissions on your %s</string>
+    <string name="screen_permission_pad_dialog_title_os3_global">Grant permissions on your %s</string>
     <string name="screen_permission_pad_tips_denied">Open Settings > Interconnectivity > Interconnectivity and permissions on %s to allow other devices to view and interact with its screen content.</string>
+    <string name="screen_permission_pad_tips_denied_os2_global">"In your %s's Settings, go to Interconnectivity > Interconnectivity and permissions and grant screen permissions to be able to use this feature."</string>
+    <string name="screen_permission_pad_tips_denied_os3">"In your %s's Settings, go to Privacy &amp; security > Interconnectivity and permissions and grant screen permissions to be able to use this feature."</string>
+    <string name="screen_permission_pad_tips_denied_os3_global">"In your %s's Security app, go to Interconnectivity > Interconnectivity and permissions and grant Camera permissions to be able to use this feature."</string>
     <string name="screen_permission_pad_tips_prompt">Grant permissions on %s</string>
     <string name="screen_permission_phone_dialog_cancel_btn">Cancel</string>
     <string name="screen_permission_phone_dialog_setting_btn">Settings</string>
