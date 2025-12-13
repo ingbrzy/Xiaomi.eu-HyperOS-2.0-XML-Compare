@@ -7,12 +7,12 @@
         <item>#b3eaf2ff</item>
     </array>
     <array name="ai_speaker_text_color_array">
-        <item>#ff3c70ff</item>
-        <item>#ff72b6ff</item>
-        <item>#ff8794ff</item>
-        <item>#fffcb5e8</item>
-        <item>#ffff6f1d</item>
-        <item>#ffffb685</item>
+        <item>#3c70ff</item>
+        <item>#72b6ff</item>
+        <item>#8794ff</item>
+        <item>#fcb5e8</item>
+        <item>#ff6f1d</item>
+        <item>#ffb685</item>
     </array>
     <string-array name="alphabet_table">
         <item>A</item>
@@ -155,12 +155,12 @@
         <item>@string/chinese_symbol_animals_pig</item>
     </string-array>
     <integer-array name="default_card_stroke_gradient_colors_dark">
-        <item>0x1FFFFFFF</item>
-        <item>0x14FFFFFF</item>
+        <item>0x1fffffff</item>
+        <item>0x14ffffff</item>
     </integer-array>
     <integer-array name="default_card_stroke_gradient_colors_light">
-        <item>0x4DFFFFFF</item>
-        <item>0x36FFFFFF</item>
+        <item>0x4dffffff</item>
+        <item>0x36ffffff</item>
     </integer-array>
     <array name="default_card_stroke_gradient_colors_positions">
         <item>@fraction/miuix_default_card_stroke_gradient_color_start_position</item>
@@ -203,6 +203,7 @@
         <item>French</item>
         <item>Indonesian</item>
         <item>Italian</item>
+        <item>Hungarian</item>
         <item>Dutch</item>
         <item>Uzbek</item>
         <item>Polish</item>
@@ -458,13 +459,13 @@
         <item>#1aff5b29</item>
     </array>
     <array name="speaker_text_color_array">
-        <item>#ff3482ff</item>
-        <item>#ff8482ff</item>
-        <item>#ff8c93b0</item>
-        <item>#ff36d167</item>
-        <item>#ffffb21d</item>
-        <item>#ffff8514</item>
-        <item>#ffff5b29</item>
+        <item>#3482ff</item>
+        <item>#8482ff</item>
+        <item>#8c93b0</item>
+        <item>#36d167</item>
+        <item>#ffb21d</item>
+        <item>#ff8514</item>
+        <item>#ff5b29</item>
     </array>
     <array name="support_ai_devices_cn" />
     <array name="support_ai_devices_global" />

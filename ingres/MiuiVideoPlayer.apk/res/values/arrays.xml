@@ -151,6 +151,15 @@
         <item>@string/chinese_symbol_animals_dog</item>
         <item>@string/chinese_symbol_animals_pig</item>
     </string-array>
+    <string-array name="columbus_exo_controls_playback_speeds">
+        <item>0.25x</item>
+        <item>0.5x</item>
+        <item>0.75x</item>
+        <item>Normal</item>
+        <item>1.25x</item>
+        <item>1.5x</item>
+        <item>2x</item>
+    </string-array>
     <string-array name="countries">
         <item>Afghanistan</item>
         <item>Albania</item>
@@ -354,12 +363,12 @@
         <item>Zimbabwe</item>
     </string-array>
     <integer-array name="default_card_stroke_gradient_colors_dark">
-        <item>0x1FFFFFFF</item>
-        <item>0x14FFFFFF</item>
+        <item>0x1fffffff</item>
+        <item>0x14ffffff</item>
     </integer-array>
     <integer-array name="default_card_stroke_gradient_colors_light">
-        <item>0x4DFFFFFF</item>
-        <item>0x36FFFFFF</item>
+        <item>0x4dffffff</item>
+        <item>0x36ffffff</item>
     </integer-array>
     <array name="default_card_stroke_gradient_colors_positions">
         <item>@fraction/miuix_default_card_stroke_gradient_color_start_position</item>
@@ -400,6 +409,14 @@
         <item>1.25x</item>
         <item>1.5x</item>
         <item>2x</item>
+    </string-array>
+    <string-array name="feedback_content">
+        <item>Not interested</item>
+        <item>Repetitive</item>
+        <item>Inappropriate content</item>
+        <item>Misleading or scam</item>
+        <item>Illegal content</item>
+        <item>Other</item>
     </string-array>
     <string-array name="feedback_tag_list">
         <item>Bug</item>
