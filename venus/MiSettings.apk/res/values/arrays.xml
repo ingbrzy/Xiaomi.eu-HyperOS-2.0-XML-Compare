@@ -229,12 +229,12 @@
         <item>ringtones/MiHouse.ogg</item>
     </string-array>
     <integer-array name="default_card_stroke_gradient_colors_dark">
-        <item>0x1FFFFFFF</item>
-        <item>0x14FFFFFF</item>
+        <item>0x1fffffff</item>
+        <item>0x14ffffff</item>
     </integer-array>
     <integer-array name="default_card_stroke_gradient_colors_light">
-        <item>0x4DFFFFFF</item>
-        <item>0x36FFFFFF</item>
+        <item>0x4dffffff</item>
+        <item>0x36ffffff</item>
     </integer-array>
     <array name="default_card_stroke_gradient_colors_positions">
         <item>@fraction/miuix_default_card_stroke_gradient_color_start_position</item>
@@ -249,35 +249,7 @@
         <item>@string/evening</item>
         <item>@string/night</item>
     </string-array>
-    <string-array name="disable_apptitmer_device_list">
-        <item>cactus</item>
-        <item>pine</item>
-        <item>rosy</item>
-        <item>willow</item>
-        <item>olive</item>
-        <item>tiare</item>
-        <item>cereus</item>
-        <item>riva</item>
-        <item>rolex</item>
-        <item>markw</item>
-        <item>santoni</item>
-        <item>land</item>
-        <item>vince</item>
-        <item>nikel</item>
-        <item>ugglite</item>
-        <item>ugg</item>
-        <item>kate</item>
-        <item>prada</item>
-        <item>dandelion</item>
-        <item>lime</item>
-        <item>citrus</item>
-        <item>cannon</item>
-        <item>lemon</item>
-        <item>rainbow</item>
-        <item>camellian</item>
-        <item>camellia</item>
-        <item>earth</item>
-    </string-array>
+    <array name="disable_apptitmer_device_list" />
     <string-array name="earthly_branches">
         <item>@string/earthly_branches_zi</item>
         <item>@string/earthly_branches_chou</item>
