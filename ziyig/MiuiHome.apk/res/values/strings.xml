@@ -1024,6 +1024,7 @@ Enhanced security."</string>
     <string name="v7_preference_off">OFF</string>
     <string name="v7_preference_on">ON</string>
     <string name="wallpaper">Wallpaper</string>
+    <string name="wallpaper_zoom_title">Wallpaper zoom effects</string>
     <string name="wednesday">Wednesday</string>
     <string name="wednesday_short">Wed</string>
     <string name="wednesday_shortest">Wed</string>
