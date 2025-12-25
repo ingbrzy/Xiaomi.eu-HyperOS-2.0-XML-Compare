@@ -1599,6 +1599,9 @@ Add widgets to get started."</string>
     <string name="pa_travel_train_scheduled_departure">Est. departure</string>
     <string formatted="false" name="pa_travel_train_seat_carriage_number">%s车%s</string>
     <string name="pa_travel_train_seat_number">Seat</string>
+    <string name="pa_travel_train_ticket_change">Rescheduled</string>
+    <string name="pa_travel_train_ticket_purchase">Purchased</string>
+    <string name="pa_travel_train_ticket_waitlist">Purchased</string>
     <string name="pa_travel_train_tip_cancel">Train canceled. Make a new trip plan.</string>
     <string name="pa_travel_train_unauthorized_ai_tip">Allow location access to get timely updates</string>
     <string name="pa_travel_train_unauthorized_tip">Pair a service account to get timely train status updates</string>
