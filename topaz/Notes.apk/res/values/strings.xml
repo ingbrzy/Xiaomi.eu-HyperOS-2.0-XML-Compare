@@ -74,6 +74,7 @@
     <string name="ai_failed">"Couldn't generate. Try again."</string>
     <string name="ai_feature_disabled">You violated our community standards multiple times. This feature is no longer available.</string>
     <string name="ai_generate_stop_button">Stop</string>
+    <string name="ai_generate_tip">Generated with AI</string>
     <string name="ai_generate_waiting_title">AI is processing…</string>
     <string name="ai_generating_check">Proofreading text…</string>
     <string name="ai_generating_stop_check">Stop</string>
@@ -83,6 +84,7 @@
     <string name="ai_invitation_text_disagree">"Don't agree"</string>
     <string name="ai_involve_sensitive_word_title">"Can't generate content related to sensitive topics"</string>
     <string name="ai_label">AI features</string>
+    <string name="ai_language_not_support">"This language isn't supported"</string>
     <string name="ai_layout">AI layout</string>
     <string name="ai_llm_dis_connect_error_message">Computing support session was interrupted. Check your network settings and try again.</string>
     <string name="ai_local_device_low_battery_title">Low battery. Charge and try again.</string>
@@ -943,6 +945,7 @@
     <string name="note_gesture_guide_step1">Press and hold the plus to create a voice note</string>
     <string name="note_gesture_guide_step2">Press and hold a note and then drag it over another note to create a folder</string>
     <string name="note_gesture_guide_step3">Press and hold a note and then drag it over a folder to move the note there</string>
+    <string name="note_handwrite_not_support_in_phone_model">Handwritten notes cannot be added yet.</string>
     <string name="note_link_email">Compose email</string>
     <string name="note_link_other">Open using map app</string>
     <string name="note_link_select">Select text</string>
