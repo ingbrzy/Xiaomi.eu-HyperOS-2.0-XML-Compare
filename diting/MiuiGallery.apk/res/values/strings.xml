@@ -46,7 +46,7 @@
     <string name="add_automatically_alert_title">Add photos automatically</string>
     <string name="add_nomedia_with_move_to_rubbish">Add \".nomedia\" files to selected albums to make them invisible to other apps</string>
     <string name="add_remove_nomedia_dialog_message">"Add \".nomedia\" files to selected albums? Other apps won't be able to see these albums after this."</string>
-    <string name="add_secret_ensure_message_new">To view the items you made private, swipe down in \"Albums\".</string>
+    <string name="add_secret_ensure_message_new">To view the items you made private, swipe down in \"Albums\" until you see a dedicated prompt.</string>
     <string name="add_secret_ensure_title">Private album</string>
     <string name="add_sharer">Add member</string>
     <string name="add_to_album">Add to album</string>
@@ -2689,7 +2689,7 @@ Transcoding might take some time when you use this feature for the first time."<
     <string name="photodetail_failed_already_exist">This file already exists</string>
     <string name="photodetail_rename_failed">"Couldn't rename"</string>
     <string name="photodetail_rename_invalid">"Filenames can't contain \"%s\". You can use English letters, Chinese characters, and numbers to name files."</string>
-    <string name="photodetail_rename_invalid_prefix">"Filenames can't start with \".\""</string>
+    <string name="photodetail_rename_invalid_prefix">"Names can't start with \"%1$s\""</string>
     <string name="photodetail_rename_success">Renamed successfully</string>
     <string name="photodetail_rename_title">Rename</string>
     <string name="photodetail_rename_too_long">The filename you entered is too long</string>
