@@ -1,6 +1,4 @@
 Removed: [az-rAZ] arrays.xml: array/menu_copy_or_move (wrong item count)
-Removed: [be] strings.xml: string/confirm_cancel_task_files (wrong format)
-Removed: [be] strings.xml: string/confirm_cancel_task_images (wrong format)
 Removed: [bo-rCN] dimens.xml: dimen/miuix_appcompat_button_inline_content_safe_padding_vertical (wrong value unit)
 Removed: [bo-rCN] plurals.xml: plurals/ai_create_remain_time_minute (wrong item format)
 Removed: [bo-rCN] strings.xml: string/album_share_subtitle_quitting (wrong format)
