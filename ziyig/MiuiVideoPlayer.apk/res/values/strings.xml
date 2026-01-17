@@ -48,6 +48,7 @@
     <string name="ad_bar_notification_setting_sub_title">Show events in the Notification shade</string>
     <string name="ad_bar_notification_setting_title">Events</string>
     <string name="ad_click_to_play">Tap to play</string>
+    <string name="ad_dislike">Dislike</string>
     <string name="ad_flag_text">AD</string>
     <string name="ad_topview_repeat_play">Tap to play again</string>
     <string name="ad_units">Ad Units</string>
@@ -330,7 +331,7 @@
     <string name="columbus_reward_style_speed_confirm">Continue</string>
     <string name="columbus_skip_ad">Skip</string>
     <string name="columbus_skip_ad_time">Skip (%d)</string>
-    <string name="com.crashlytics.android.build_id">04feac7e3b3940f99e74be25cc4659cc</string>
+    <string name="com.crashlytics.android.build_id">43e95b51e83a42e69efb6cf517040c90</string>
     <string name="com_permission_desc">"Mi Video can't access videos on your device. Allow access in the Settings."</string>
     <string name="com_permission_title">Permissions required</string>
     <string name="comment_model_add_comment">Add a comment</string>
@@ -958,6 +959,8 @@ for videos"</string>
     <string name="local_hide_folder_dialog_title">Hidden videos</string>
     <string name="local_hide_folder_setting_goto">Settings</string>
     <string name="local_hide_folder_setting_tip">You can manage your hidden videos in Profile > Settings > Manage hidden videos.</string>
+    <string name="local_last_playing_panel_btn_str">Play in Mi Video</string>
+    <string name="local_last_playing_video">Recently played</string>
     <string name="local_new_user_speed_guide">Press, hold, and slide to adjust playback speed</string>
     <string name="local_play_end_camera_title">View more videos</string>
     <string name="local_play_end_close_tip">"Recommendations won't be shown again today"</string>
@@ -2128,6 +2131,10 @@ Please try again later"</string>
     <string name="pull_to_refresh_refreshing_label">Just a sec…</string>
     <string name="pull_to_refresh_release_label">Release to refresh…</string>
     <string name="push_message_switch">Push notifications</string>
+    <string name="push_new_content_hint">"Can't receive notifications"</string>
+    <string name="push_new_content_to_open">Turn on</string>
+    <string name="push_open_ok">Turn on</string>
+    <string name="push_open_tip">Turn on notifications to get recommendations</string>
     <string name="pw_channels">Channels</string>
     <string name="qq_application_id" />
     <string name="qq_login_protocol_scheme">com.xiaomi.passport.ui</string>

@@ -152,6 +152,7 @@
     <string name="clear_text_end_icon_content_description">Clear text</string>
     <string name="clearable_edittext_clear_description">Clear</string>
     <string name="close">Close</string>
+    <string name="config_securitycenter_FloatingWindow">com.miui.securitycenter/.FloatingWindow</string>
     <string name="confirm_cancel_task_files">Cancel sending files to %1$s?</string>
     <string name="confirm_cancel_task_images">Cancel sending images to %1$s?</string>
     <string name="copy">Copy</string>
@@ -882,6 +883,7 @@ a scrolling screenshot"</string>
     <string name="wednesday">Wednesday</string>
     <string name="wednesday_short">Wed</string>
     <string name="wednesday_shortest">Wed</string>
+    <string name="xiao_ai_screen_recognition">Screen recognition</string>
     <string name="xiaomi">Mi</string>
     <string name="xiaomi_10">Mi 10</string>
     <string name="xiaomi_10_lite">Mi 10 Lite</string>
