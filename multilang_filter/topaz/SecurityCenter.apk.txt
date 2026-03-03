@@ -16,7 +16,6 @@ Removed: [bo-rCN] strings.xml: string/summary_result_screen_brightness_format (w
 Removed: [bo-rCN] strings.xml: string/toast_keyword_exist (wrong format)
 Removed: [cs] strings.xml: string/power_save_mode_summary (wrong attributes)
 Removed: [da] strings.xml: string/gtb_setting_item_summary_smart_wlan_speed (wrong attributes)
-Removed: [de] strings.xml: string/notification_exit_power_save_mode_subtitle (wrong attributes)
 Removed: [fa-rIR] strings.xml: string/gtb_setting_item_summary_smart_wlan_speed (wrong attributes)
 Removed: [hu] strings.xml: string/gtb_setting_item_summary_smart_wlan_speed (wrong attributes)
 Removed: [it] strings.xml: string/menu_summary_power_manager_2 (wrong format)
