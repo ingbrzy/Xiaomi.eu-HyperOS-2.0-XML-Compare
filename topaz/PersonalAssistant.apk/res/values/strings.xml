@@ -1007,7 +1007,7 @@ Stay tuned!"</string>
     <string name="pa_picker_home_search_hint">Search for widgets</string>
     <string name="pa_picker_home_title">Add widgets</string>
     <string name="pa_picker_image_text_share">Share</string>
-    <string formatted="false" name="pa_picker_image_text_share_content">\#小米小部件# 用%s小米小部件装扮你的桌面！%s</string>
+    <string formatted="false" name="pa_picker_image_text_share_content">#小米小部件# 用%s小米小部件装扮你的桌面！%s</string>
     <string name="pa_picker_image_text_share_copy_url">Copy URL</string>
     <string name="pa_picker_image_text_share_more">More</string>
     <string name="pa_picker_image_text_share_wechat_favourite">WeChat Favorites</string>
@@ -1494,10 +1494,10 @@ Add widgets to get started."</string>
     <string name="pa_travel_notification_action_ticket_order">Buy ticket</string>
     <string name="pa_travel_notification_action_trip_detail">Trip details</string>
     <string name="pa_travel_notification_action_trip_stat">Trip stats</string>
-    <string name="pa_travel_notification_aod_status_textcolor_airplane">\#1DCD3A</string>
-    <string name="pa_travel_notification_aod_status_textcolor_airplane_abnormal">\#FF6A05</string>
-    <string name="pa_travel_notification_aod_status_textcolor_train">\#3482FF</string>
-    <string name="pa_travel_notification_aod_status_textcolor_train_abnormal">\#FF6900</string>
+    <string name="pa_travel_notification_aod_status_textcolor_airplane">#1DCD3A</string>
+    <string name="pa_travel_notification_aod_status_textcolor_airplane_abnormal">#FF6A05</string>
+    <string name="pa_travel_notification_aod_status_textcolor_train">#3482FF</string>
+    <string name="pa_travel_notification_aod_status_textcolor_train_abnormal">#FF6900</string>
     <string name="pa_travel_notification_arrival_station_name">Arrival station</string>
     <string name="pa_travel_notification_auth">Add</string>
     <string name="pa_travel_notification_auth_account">Add account</string>

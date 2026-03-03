@@ -992,6 +992,10 @@ Note: You'll receive a routine system warning when you turn on accessibility fea
     <string name="is_accessed_by">\"%1$s\" is accessing this device</string>
     <string name="is_creating_camera_cooperation">Unlock device to connect</string>
     <string name="item_view_role_description">Tab</string>
+    <string name="jump_market_dialog_btn_cancel">Cancel</string>
+    <string name="jump_market_dialog_btn_open">Open</string>
+    <string name="jump_market_dialog_message">"This feature isn't supported by the system framework. You can update it in GetApps. Open GetApps now?"</string>
+    <string name="jump_market_dialog_title">Attention</string>
     <string name="keyguard_security_setting_privacy_policy">Privacy Policy</string>
     <string name="keyguard_setting_privacy_policy_url">http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s</string>
     <string name="km_synergy_error">"Connection timed out. Make sure Bluetooth and Wi-Fi are turned on on both devices and they're within connection range."</string>
@@ -1577,6 +1581,9 @@ Read and agree to our &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>
     <string name="privacy_update_dialog_positive_btn">Agree</string>
     <string name="privacy_update_dialog_quit">Exit</string>
     <string name="private_protect">Hide private items</string>
+    <string name="progress_notification_downloaded">Download complete</string>
+    <string name="progress_notification_downloading">Progress: %d%%</string>
+    <string name="progress_notification_name">Downloading plug-in</string>
     <string name="project_id">milink-73be7</string>
     <string name="prompt_camera_associate_failed">"Couldn't connect"</string>
     <string name="prompt_camera_disassociate">Disconnected</string>

@@ -77,6 +77,7 @@ Make sure your speaker's firmware is up to date."</string>
     <string name="chinese_day_7">初七</string>
     <string name="chinese_day_8">初八</string>
     <string name="chinese_day_9">初九</string>
+    <string name="chinese_day_elementary">初</string>
     <string name="chinese_digit_eight">八</string>
     <string name="chinese_digit_five">五</string>
     <string name="chinese_digit_four">四</string>
@@ -400,6 +401,8 @@ Make sure your speaker's firmware is up to date."</string>
     <string name="saturday">Saturday</string>
     <string name="saturday_short">Sat</string>
     <string name="saturday_shortest">Sat</string>
+    <string name="search_menu_title">Search</string>
+    <string name="searchbar_scrolling_view_behavior">com.google.android.material.search.SearchBar$ScrollingViewBehavior</string>
     <string name="searchview_clear_text_content_description">Clear text</string>
     <string name="searchview_navigation_content_description">Back</string>
     <string name="send">Send</string>
@@ -432,6 +435,7 @@ Make sure your speaker's firmware is up to date."</string>
     <string name="solar_term_winter_begins">Winter begins</string>
     <string name="solar_term_winter_solstice">Winter solstice</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Sunday</string>
     <string name="sunday_short">Sun</string>
     <string name="sunday_shortest">Sun</string>

@@ -2539,7 +2539,7 @@ When Smart frame rate is on, in-game and third-party frame rate detection tools 
     <string name="game_toolbox_performance_config_custom_notice_new">You can customize Super resolution and Smart frame rate to manage frame rate and picture quality. &lt;font color=%s>Actual frame rate is displayed on the performance dashboard.&lt;/font></string>
     <string name="game_toolbox_performance_config_frc_notice">When Frame rate priority is on, actual frame rate is as displayed on the performance dashboard</string>
     <string name="game_toolbox_performance_config_frc_notice_new">Frame rate priority improves frame rate via Smart frame rate. &lt;font color=%s>Actual frame rate is displayed on the performance dashboard.&lt;/font></string>
-    <string name="game_toolbox_performance_config_notice_highlight_color_hex">\#A09A97</string>
+    <string name="game_toolbox_performance_config_notice_highlight_color_hex">#A09A97</string>
     <string name="game_toolbox_performance_config_resolution_notice">When Picture priority is on, actual frame rate is as displayed on the performance dashboard</string>
     <string name="game_toolbox_performance_config_resolution_notice_new">Picture priority improves picture quality via Super resolution and manages frame rate via Smart frame rate. &lt;font color=%s>Actual frame rate is displayed on the performance dashboard.&lt;/font></string>
     <string name="game_toolbox_screen_brightness_talkback">Screen brightness</string>
@@ -3666,7 +3666,7 @@ to respond"</string>
     <string formatted="false" name="memory_clean_no_need_clean_1_new">"Freed up %s.
 Your device is %s faster now."</string>
     <string name="memory_clear_unused">Clear cache (%s)</string>
-    <string name="memory_title">Available: %1$s\u0009\u0009Total: %2$s</string>
+    <string name="memory_title">Available: %1$s\t\tTotal: %2$s</string>
     <string name="menu_add">Add</string>
     <string name="menu_bl_call_log">View blocked calls</string>
     <string name="menu_bl_remove">Unblock</string>
