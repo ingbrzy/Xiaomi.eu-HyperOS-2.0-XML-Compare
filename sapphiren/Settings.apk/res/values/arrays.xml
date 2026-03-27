@@ -3781,14 +3781,6 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>2</item>
         <item>0</item>
     </string-array>
-    <string-array name="status_bar_settings_qs_layout_entries">
-        <item>Default</item>
-        <item>Compact</item>
-    </string-array>
-    <string-array name="status_bar_settings_qs_layout_values">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
     <string-array name="support_accessibility_haptic_device_list">
         <item>crux</item>
         <item>venus</item>

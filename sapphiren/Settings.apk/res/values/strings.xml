@@ -10706,7 +10706,6 @@ A trusted credential installed on your device is making this possible."</string>
     <string name="status_bar_app_enable_keyguard">Lock screen</string>
     <string name="status_bar_app_enable_message">Badges</string>
     <string name="status_bar_carrier_settings_no_sim_card">No SIM card</string>
-    <string name="status_bar_icons_title">Status bar icons</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_setting_camera_title">Camera</string>
     <string name="status_bar_setting_car_title">Vehicle</string>
@@ -10718,7 +10717,6 @@ A trusted credential installed on your device is making this possible."</string>
     <string name="status_bar_settings_manage_notification">App notifications</string>
     <string name="status_bar_settings_notification_bar">Notification shade</string>
     <string name="status_bar_settings_notification_use_app_icon">Use app icons for notifications</string>
-    <string name="status_bar_settings_qs_layout">Quick settings layout</string>
     <string name="status_bar_settings_status_bar">Status bar</string>
     <string name="status_bar_settings_system_state">System</string>
     <string name="status_bar_title">Control center &amp; status bar</string>
