@@ -120,7 +120,6 @@ Removed: [th] strings.xml: string/mtrl_picker_navigate_to_year_description (wron
 Removed: [th] strings.xml: string/resource_get_auth_exceed_max_limit_tips (wrong format)
 Removed: [tr] strings.xml: string/ai_estimated_two_three_minutes (wrong attributes)
 Removed: [tr] strings.xml: string/dynamic_video_wallpaper (wrong format)
-Removed: [tr] strings.xml: string/loop_video_wallpaper (wrong attributes)
 Removed: [tr] strings.xml: string/mtrl_picker_navigate_to_year_description (wrong format)
 Removed: [tr] strings.xml: string/resource_get_auth_exceed_max_limit_tips (wrong format)
 Removed: [uk] strings.xml: string/ai_estimated_two_three_minutes (wrong attributes)

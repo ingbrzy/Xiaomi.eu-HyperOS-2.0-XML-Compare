@@ -43,6 +43,7 @@ Removed: [gl-rES] strings.xml: string/transfer_to_different_account_summary_ios 
 Removed: [gu-rIN] strings.xml: string/transfer_to_different_account_summary_ios (wrong attributes)
 Removed: [ha-rNG] strings.xml: string/transfer_to_different_account_summary_ios (wrong attributes)
 Removed: [hi] strings.xml: string/transfer_to_different_account_summary_ios (wrong attributes)
+Removed: [hr] strings.xml: string/transfer_to_different_account_summary_ios (wrong attributes)
 Removed: [hu] strings.xml: string/transfer_to_different_account_summary_ios (wrong attributes)
 Removed: [hy-rAM] strings.xml: string/transfer_to_different_account_summary_ios (wrong attributes)
 Removed: [in] strings.xml: string/transfer_to_different_account_summary_ios (wrong attributes)
