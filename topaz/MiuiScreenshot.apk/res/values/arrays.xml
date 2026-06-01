@@ -391,6 +391,7 @@
         <item>com.tencent.mm</item>
         <item>com.tencent.mobileqq</item>
         <item>com.aliyun.tongyi</item>
+        <item>com.quark.browser</item>
     </string-array>
     <integer-array name="default_card_stroke_gradient_colors_dark">
         <item>0x1fffffff</item>
