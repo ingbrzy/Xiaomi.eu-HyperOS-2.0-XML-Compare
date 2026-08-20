@@ -117,6 +117,26 @@ total %2$d songs"</item>
         <item quantity="one">%1$d song</item>
         <item quantity="other">%1$d songs</item>
     </plurals>
+    <plurals name="asm_today_preview_count">
+        <item quantity="one">%1$d preview left today</item>
+        <item quantity="other">%1$d previews left today</item>
+    </plurals>
+    <plurals name="asm_total_listening_duration_hours">
+        <item quantity="one">Total listening time: %1$d hr</item>
+        <item quantity="other">Total listening time: %1$d hrs</item>
+    </plurals>
+    <plurals name="asm_total_listening_duration_hours_part">
+        <item quantity="one">%1$d hr</item>
+        <item quantity="other">%1$d hrs</item>
+    </plurals>
+    <plurals name="asm_total_listening_duration_minutes">
+        <item quantity="one">Total listening time: %1$d min</item>
+        <item quantity="other">Total listening time: %1$d mins</item>
+    </plurals>
+    <plurals name="asm_total_listening_duration_minutes_part">
+        <item quantity="one">%1$d min</item>
+        <item quantity="other">%1$d mins</item>
+    </plurals>
     <plurals name="asm_tracks">
         <item quantity="one">%1$s song</item>
         <item quantity="other">%1$s songs</item>

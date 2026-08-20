@@ -268,6 +268,10 @@
         <item quantity="one">Selected %1$d item</item>
         <item quantity="other">Selected %1$d items</item>
     </plurals>
+    <plurals name="video_history_counts">
+        <item quantity="one">%d video</item>
+        <item quantity="other">%d videos</item>
+    </plurals>
     <plurals name="video_views">
         <item quantity="one">%s view</item>
         <item quantity="other">%s views</item>
