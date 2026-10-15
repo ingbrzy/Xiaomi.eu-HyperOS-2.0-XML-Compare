@@ -229,6 +229,14 @@
         <item>2x</item>
     </string-array>
     <array name="config_keySystemUuidMapping" />
+    <string-array name="custom_product_feature_entries">
+        <item>@string/branch_app_library</item>
+        <item>@string/content_center_title</item>
+    </string-array>
+    <string-array name="custom_product_feature_values">
+        <item>app_library</item>
+        <item>content_center</item>
+    </string-array>
     <integer-array name="default_card_stroke_gradient_colors_dark">
         <item>0x1fffffff</item>
         <item>0x14ffffff</item>
